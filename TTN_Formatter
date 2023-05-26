@@ -1,0 +1,36 @@
+function Hexa(byte) {
+  return (byte < 16) ?'0' + byte.toString(16): byte.toString(16) ;
+}
+
+function HexToSignedInt(hex, nb) { // nb reprÃ©sente le nombre de bits
+  var int=parseInt(hex, 16); // conversion hexadecimal (base 16) en entier non signÃ©
+  if (int >= Math.pow(2, nb-1 )) {
+    int = int - Math.pow(2, nb); // les entiers signÃ©s sont codÃ©s en complÃ©ment Ã  2
+    }
+  return int;
+}
+
+function HexToFloat(hex) {
+  // les variables de type "float" sont codÃ©s en virgule flottante simple prÃ©cision (32 bits)
+  temp_int = parseInt(hex, 16);
+  sig = temp_int >> 31 ? -1 : 1;
+  exp = (temp_int >> 23) & 0xFF;
+  mant = temp_int & 0x7fffff | 0x800000;
+  return sig * mant * 1.0 / Math.pow(2, 23) * Math.pow(2, (exp - 127));
+}
+
+function decodeUplink(input) {
+  var result = {}
+  var data = input.bytes
+
+    result["len"] = data.length;
+    
+    result["V_HumOut"]= parseInt(Hexa(data[1])+ Hexa(data[0]), 16);
+    result["V_pHOut"] = parseInt(Hexa(data[3])+ Hexa(data[2]), 16);
+    result["CoordX"]= HexToFloat(Hexa(data[7])+ Hexa(data[6])+ Hexa(data[5])+ Hexa(data[4]));
+    result["CoordY"] = HexToFloat(Hexa(data[11])+ Hexa(data[10])+ Hexa(data[9])+ Hexa(data[8]));
+    
+  return {
+    data: result,
+  };
+}
