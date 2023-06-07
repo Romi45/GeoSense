@@ -1,0 +1,2073 @@
+species,temp_opt_min,Temp_Opt_Max,Rain_Opt_Min,Rain_Opt_Max,Lat_Opt_Min,Lat_Opt_Max,Alt_Opt_Min,Alt_Opt_Max,pH_Opt_Min,pH_Opt_Max,Light_Opt_Min,Light_Opt_Max,Texture_Ops
+Abelmoschus esculentus,20,30,600,1200,-,-,---,---,5.5,7,clear skies,clear skies,"heavy, medium, light, organic"
+Abelmoschus manihot,22,30,1200,2000,-,-,---,---,5.5,7,very bright,clear skies,"medium, organic"
+Abelmoschus moschatus,20,30,1000,1400,-,-,---,---,5.5,7,cloudy skies,very bright,"medium, organic"
+Acacia auriculiformis,24,32,1200,2500,10,7,---,---,6,8,very bright,very bright,"heavy, medium, light"
+Acacia farnesiana,20,32,400,1400,12,12,---,---,6.5,7,very bright,clear skies,"medium, light"
+Acacia holosericea,24,32,600,1200,13,11,---,---,5.5,7.5,very bright,very bright,"medium, light"
+Adenanthera pavonina,22,28,3000,5000,-,-,---,---,5,7,cloudy skies,clear skies,"medium, light"
+Aeschynomene americana,22,30,1000,1500,-,-,---,---,5.5,7,clear skies,clear skies,"heavy, medium, light"
+Agathis australis,14,24,1200,1600,34,34,---,---,4.8,5.5,very bright,clear skies,"medium, light"
+Agathis macrophylla,22,32,4000,5000,-,-,---,---,4.5,6,very bright,clear skies,"heavy, medium"
+Agathis robusta,18,30,1500,3000,15,15,---,---,5.5,7,very bright,clear skies,"medium, light"
+Agave sisalana,15,27,900,1250,10,10,---,---,6,7.5,very bright,clear skies,"medium, light"
+Albizia falcataria,22,31,2000,4000,-,-,---,---,5.5,7.3,very bright,clear skies,"heavy, medium"
+Albizia lebbeck,26,36,600,2000,11,11,---,---,6,7,very bright,clear skies,medium
+Albizia procera,20,33,1500,2500,-,-,---,---,5.5,6.5,very bright,very bright,medium
+Albizia stipulata,22,34,2000,2400,20,20,---,---,5.5,6.5,very bright,cloudy skies,medium
+Aleurites fordii,17,22,1000,1200,29,29,---,---,6,7,very bright,clear skies,medium
+Aleurites moluccana,18,28,1000,1800,-,-,---,---,5,8,very bright,very bright,medium
+Aleurites montana,25,30,1500,2100,10,10,---,---,5,6.5,clear skies,cloudy skies,"heavy, medium, light"
+Allium ampeloprasum,18,24,750,1000,-,-,---,---,6,6.5,clear skies,clear skies,"medium, organic"
+Allium cepa,12,25,350,600,-,-,---,---,6,7,clear skies,clear skies,"medium, organic"
+Allium fistulosum,12,25,850,1600,-,-,---,---,6.6,7.4,clear skies,clear skies,"medium, organic"
+Allium sativum,18,30,750,1600,-,-,---,---,6,6.6,clear skies,clear skies,"medium, light"
+Alstonia scholaris,22,28,1200,3000,5,-,---,---,5.5,6.5,very bright,very bright,medium
+Amaranthus cruentus,22,28,2000,2400,-,-,---,---,5.5,7,very bright,very bright,"heavy, medium, light, organic"
+Amaranthus sp.,19,30,1100,1400,-,-,---,---,5.5,7.5,very bright,very bright,"heavy, medium, light, organic"
+Amorphophallus paeoniifolius,28,35,1000,1500,-,-,---,---,5.5,6.2,clear skies,clear skies,"medium, organic"
+Anacardium occidentale,15,35,750,1600,-,-,---,---,4.5,6.5,very bright,very bright,"medium, light"
+Ananas comosus,21,30,800,2500,-,-,---,---,4.5,8,clear skies,cloudy skies,"medium, light"
+Annona muricata,20,30,1200,2200,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Annona reticulata,23,27,1200,1400,5,-,---,---,5,7.5,clear skies,very bright,medium
+Annona squamosa,23,30,800,1200,-,-,---,---,7,8,very bright,clear skies,"medium, light"
+Anthocephalus chinensis,22,35,1800,2600,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Apium graveolens,15,21,700,1300,40,10,---,---,6,6.8,cloudy skies,clear skies,"medium, organic"
+Apium graveolens var. dulce,18,25,1000,1300,20,10,---,---,5.8,6.8,very bright,clear skies,"medium, organic"
+Araucaria cunninghamii,18,28,1000,2000,-,-,---,---,5,6.5,very bright,very bright,"heavy, medium"
+Areca catechu,16,33,1500,3000,-,-,---,---,5.5,6,cloudy skies,light shade,"heavy, medium"
+Artocarpus heterophyllus,20,30,1500,3000,-,-,---,---,5.5,7.5,very bright,clear skies,medium
+Asparagus officinalis,15,30,800,1200,-,-,---,---,6,6.7,very bright,very bright,"medium, organic"
+Asystasia gangetica,23,28,1000,1500,-,-,---,---,4,4.5,cloudy skies,heavy shade,"heavy, medium"
+Avena sativa,16,20,600,1000,45,40,---,---,5,6,very bright,very bright,"heavy, medium, light"
+Averrhoa bilimbi,23,30,1200,2300,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light, organic"
+Averrhoa carambola,24,30,1200,2000,-,-,---,---,5.5,6.5,light shade,light shade,"heavy, medium, light, organic"
+Axonopus compressus,23,30,1000,4000,-,-,---,---,5.5,6,clear skies,light shade,"medium, light"
+Bambusa vulgaris,22,28,1200,2500,15,-,---,---,5,6,cloudy skies,light shade,"heavy, medium"
+Barringtonia racemosa,160,28,500,1500,-,-,---,---,5.5,7,clear skies,very bright,"medium, light"
+Basella alba,23,27,2000,2500,5,-,---,---,5.5,7,clear skies,clear skies,"medium, organic"
+Basella rubra,23,27,2000,2500,5,-,---,---,5.5,7,clear skies,clear skies,"medium, organic"
+Bauhinia variegata,12,38,600,2200,-,-,---,---,5.5,7,very bright,very bright,"medium, light"
+Benincasa hispida,24,30,400,800,-,-,---,---,5.6,6.8,very bright,cloudy skies,"light, organic"
+Beta vulgaris,15,25,600,800,30,-,---,---,6,7,very bright,light shade,"heavy, medium"
+Bidens pilosa,17,32,800,2500,-,-,---,---,4.5,8,clear skies,very bright,"medium, light, organic"
+Bixa orellana,20,28,1500,2000,-,-,---,---,5.5,7.5,very bright,clear skies,"medium, organic"
+Bothriochloa bladhii,15,28,750,1200,10,10,---,---,6,8,clear skies,light shade,"heavy, medium"
+Brachiaria brizantha,25,35,750,2500,-,-,---,---,5,6,very bright,cloudy skies,"heavy, medium, light"
+Brachiaria decumbens,25,35,1500,1800,-,-,---,---,5,6,very bright,cloudy skies,"heavy, medium, light"
+Brachiaria humidicola,32,35,1500,2000,10,10,---,---,5,6,very bright,cloudy skies,"medium, light"
+Brachiaria miliiformis,24,30,1700,2000,-,-,---,---,5.5,6,very bright,cloudy skies,light
+Brachiaria mutica,21,30,1200,2000,-,-,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Brachiaria ruziziensis,25,33,1000,2000,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium, light"
+Brachychiton populneus,25,32,450,750,17.5,17.5,---,---,7,8,very bright,very bright,"medium, light"
+Brassica chinensis,12,22,800,1600,-,-,---,---,6,7.5,clear skies,cloudy skies,"medium, organic"
+Brassica juncea,15,28,700,2400,-,-,---,---,5.5,6.5,clear skies,clear skies,"medium, organic"
+Brassica napus,15,25,500,1000,-,-,---,---,6.5,7.6,very bright,clear skies,"medium, light"
+Brassica nigra,10,25,600,1400,-,-,---,---,6,7,very bright,cloudy skies,medium
+Allium cepa var. cepa,12,25,350,600,25,-,---,---,6,7,clear skies,clear skies,"medium, organic"
+Brassica oleracea var. botrytis,10,25,600,1100,30,-,---,---,6,7,cloudy skies,cloudy skies,medium
+Brassica oleracea var. capitata,15,24,500,1000,35,-,---,---,6,7.5,clear skies,clear skies,"medium, organic"
+Brassica oleracea var. gemmifera,12,20,900,1600,30,10,---,---,6,7,very bright,clear skies,"medium, organic"
+Brassica oleracea var. italica,15,24,900,1500,35,-,---,---,6,6.8,cloudy skies,cloudy skies,"medium, organic"
+Broussonetia papyrifera,15,28,800,2500,-,-,---,---,5,7.5,clear skies,very bright,"heavy, medium, light, wide"
+Cajanus cajan,18,38,600,1500,-,-,---,---,5,7,very bright,very bright,"medium, light"
+Calophyllum inophyllum,28,35,2000,4000,-,-,---,---,5.5,7,very bright,very bright,light
+Allium tuberosum,10,20,850,2200,30,-,---,---,6,6.8,very bright,very bright,"medium, light"
+Calopogonium caeruleum,18,25,1000,2000,-,-,---,---,4.5,5.5,very bright,cloudy skies,"heavy, medium, light"
+Calopogonium mucunoides,24,32,1300,2500,-,-,---,---,4.5,5.7,very bright,clear skies,"heavy, medium, light"
+Camellia sinensis,20,30,1400,2000,-,-,---,---,4.5,5.5,very bright,clear skies,"heavy, medium, light"
+Campnosperma brevipetiolata,28,34,3000,4000,-,-,---,---,5,6,very bright,very bright,"heavy, medium"
+Cananga odorata,20,30,1500,2000,12,10,---,---,5,6.5,very bright,clear skies,"heavy, medium, light"
+Canarium indicum,22,28,2000,4000,-,-,---,---,6,7.5,very bright,clear skies,"heavy, medium, light"
+Canavalia ensiformis,20,28,800,2000,20,-,---,---,5,6,very bright,clear skies,"heavy, medium, light, organic"
+Canna indica,12,32,1000,4500,-,-,---,---,5.5,7.5,clear skies,very bright,"heavy, medium, organic"
+Capsicum annuum,17,30,600,1250,-,-,---,---,5.5,6.8,very bright,very bright,"medium, organic"
+Capsicum frutescens,18,30,600,1500,-,-,---,---,5.5,6.8,very bright,very bright,"medium, organic"
+Carica papaya,21,30,1500,2500,-,-,---,---,5.5,7,very bright,clear skies,"medium, organic"
+Casimiroa edulis,18,26,1500,3000,10,10,---,---,7,7.5,very bright,clear skies,"medium, light"
+Cassia alata,23,29,1500,2500,10,10,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Cassia fistula,18,30,1000,2000,15,15,---,---,6,7,very bright,clear skies,"medium, light"
+Cassia occidentalis,22,28,1000,1700,-,-,---,---,6,7,very bright,clear skies,"medium, light"
+Castilla elastica,23,30,2300,2700,-,-,---,---,5,6,very bright,clear skies,medium
+Casuarina equisetifolia,20,35,700,3500,15,12,---,---,5,6.5,very bright,very bright,"medium, light"
+Casuarina oligodon,22,28,2200,2600,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Catharanthus roseus,20,30,1000,1200,-,-,---,---,6,7,very bright,very bright,medium
+Cedrela odorata,22,32,1000,2500,-,-,---,---,6,7,very bright,very bright,"heavy, medium, light"
+Ceiba pentandra,17,38,1500,2500,-,-,---,---,5.5,6.5,very bright,very bright,medium
+Celosia argentea,25,30,1500,2500,-,-,---,---,6,6.5,very bright,very bright,"heavy, medium, light, organic"
+Cenchrus ciliaris,22,37,400,1000,-,-,---,---,6.5,8,clear skies,very bright,"medium, light"
+Centrosema pubescens,20,30,1200,2500,-,-,---,---,4.9,5.5,clear skies,light shade,"heavy, medium"
+Chloris gayana,20,37,600,1500,20,18,---,---,4.5,7,very bright,very bright,"heavy, medium"
+Chloris virgata,25,30,500,750,-,-,---,---,6.5,7.5,very bright,cloudy skies,heavy
+Chromolaena odorata,20,35,2000,4000,-,-,---,---,5,6.5,clear skies,very bright,"heavy, medium, light, wide, organic"
+Chrysophyllum cainito,22,28,1000,1400,-,-,---,---,5,5.5,very bright,very bright,"medium, organic"
+Chrysopogon aciculatus,22,28,700,1200,-,-,---,---,5,6,very bright,very bright,"medium, light"
+Cichorium endivia,15,23,1000,1400,10,-,---,---,6.5,7.8,clear skies,clear skies,"medium, organic"
+Cichorium intybus,10,30,1500,2500,20,20,---,---,6,7.5,very bright,clear skies,medium
+Cinchona pubescens,17,25,2500,3500,-,-,---,---,5,6,very bright,cloudy skies,"light, organic"
+Cinnamomum camphora,18,26,1200,1500,10,10,---,---,5.5,7,very bright,cloudy skies,medium
+Cinnamomum verum,24,30,2000,2600,5,-,---,---,5.5,6.5,very bright,clear skies,light
+Citrullus lanatus,20,35,500,700,20,10,---,---,6,7,clear skies,very bright,medium
+Citrus aurantium,25,30,1200,1400,-,-,---,---,6,7,very bright,very bright,"medium, light"
+Citrus grandis,23,32,1500,2500,10,-,---,---,5.5,7,clear skies,very bright,"medium, organic"
+Citrus limon,15,28,1000,2300,-,-,---,---,6.5,7,very bright,very bright,"medium, light"
+Citrus medica,21,27,1200,1400,-,-,---,---,6.5,7,very bright,very bright,"medium, light"
+Citrus paradisi,18,32,1500,2300,-,-,---,---,6.5,7.3,very bright,very bright,"medium, light"
+Citrus reticulata,23,34,1200,1800,-,-,---,---,6,6.8,very bright,very bright,"medium, light"
+Citrus sinensis,20,30,1200,2000,-,-,---,---,5,6,very bright,very bright,"medium, light"
+Citrus sp.,23,30,1200,1600,-,-,---,---,5,6.5,very bright,very bright,"medium, light"
+Clitoria ternatea,19,28,1200,1800,-,-,---,---,6.5,7.5,very bright,clear skies,medium
+Coccoloba uvifera,21,26,700,1400,5,5,---,---,6.5,7.5,very bright,very bright,light
+Cocos nucifera,22,34,1200,2400,-,-,---,---,5,8,very bright,very bright,"medium, light"
+Coffea arabica,14,28,1400,2300,5,-,---,---,5.5,7,clear skies,cloudy skies,"medium, organic"
+Coffea canephora,20,30,1700,3000,-,-,---,---,5,6.3,clear skies,cloudy skies,"heavy, medium"
+Coffea liberica,24,30,1600,2400,5,5,---,---,5.3,6.2,clear skies,cloudy skies,"heavy, medium, light"
+Coleus amboinicus,22,28,2000,2600,-,-,---,---,6,6.5,clear skies,cloudy skies,medium
+Colocasia esculenta,21,28,1800,2700,-,-,---,---,5.5,6.5,clear skies,clear skies,"medium, organic"
+Cordia alliodora,24,32,2000,3000,-,-,---,---,6.5,7.5,very bright,very bright,"heavy, medium"
+Coriandrum sativum,15,25,500,1400,30,-,---,---,5.5,7.5,clear skies,clear skies,medium
+Crotalaria juncea,20,30,500,1500,17,17,---,---,6,7,very bright,very bright,medium
+Crotalaria pallida,22,30,1200,1800,-,-,---,---,5.5,6.5,very bright,cloudy skies,"medium, light"
+Allium schoenoprasum,10,20,450,1600,20,-,---,---,6,6.6,very bright,very bright,"medium, organic"
+Cucumis melo,18,30,1000,1300,-,-,---,---,6,7.5,very bright,very bright,"medium, organic"
+Cucumis sativus,18,32,1000,1200,-,-,---,---,6,7.5,very bright,very bright,"medium, organic"
+Cucurbita maxima,20,30,600,1000,10,-,---,---,5.5,7.5,very bright,very bright,"heavy, medium, light, organic"
+Cucurbita moschata,20,30,600,1600,10,-,---,---,5.5,7.5,clear skies,clear skies,"medium, organic"
+Cucurbita pepo,17,30,600,1500,-,-,---,---,5.5,6.8,very bright,very bright,"medium, organic"
+Curcuma longa,20,28,1000,2000,-,-,---,---,6,7,clear skies,light shade,"medium, organic"
+Cyamopsis tetragonoloba,25,35,500,800,-,-,---,---,7.5,8,very bright,very bright,"medium, light"
+Cymbopogon citratus,24,30,1500,3000,-,-,---,---,5,5.8,very bright,very bright,medium
+Cymbopogon flexuosus,22,30,1500,3000,-,-,---,---,5,5.5,very bright,very bright,light
+Cynara scolymus,15,25,900,1200,-,-,---,---,6,6.5,clear skies,cloudy skies,"medium, light"
+Cynodon dactylon,17,35,625,1750,-,-,---,---,5.5,7,very bright,very bright,"heavy, medium, light"
+Cyperus rotundus,24,32,500,3000,-,-,---,---,5.5,7,very bright,clear skies,"heavy, medium"
+Cyphomandra betacea,16,22,2000,2600,-,-,---,---,6.3,7,very bright,very bright,"medium, light"
+Dactyloctenium aegyptium,21,28,400,1500,-,-,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Daucus carota,15,24,600,1200,20,-,---,---,5.8,6.8,clear skies,cloudy skies,"medium, organic"
+Delonix regia,22,35,1000,1500,12,-,---,---,5.5,6.5,very bright,clear skies,light
+Dendrocalamus giganteus,20,27,1800,3600,15,-,---,---,5.5,6.5,clear skies,cloudy skies,"medium, light"
+Derris elliptica,24,30,1800,3500,-,-,---,---,5.5,7,clear skies,light shade,medium
+Actinidia chinensis,21,30,900,1300,25,25,---,---,6,7,very bright,very bright,"light, organic"
+Desmodium heterophyllum,23,28,2000,4000,-,-,---,---,5,6,clear skies,cloudy skies,"heavy, medium, light"
+Desmodium incanum,25,32,1500,3100,-,-,---,---,5,7,clear skies,cloudy skies,"heavy, medium, light"
+Desmodium intortum,25,33,1000,1500,-,-,---,---,5.5,6.5,clear skies,cloudy skies,medium
+Desmodium triflorum,18,28,1500,4000,-,-,---,---,5,6.5,light shade,very bright,"heavy, medium, light, wide"
+Desmodium uncinatum,25,32,1000,1600,-,-,---,---,5.5,6.5,clear skies,cloudy skies,"medium, light"
+Dichanthium annulatum,22,30,500,1400,8,-,---,---,6.5,7.5,very bright,very bright,"heavy, medium, light"
+Dichanthium aristatum,22,30,875,1200,10,10,---,---,5,7,very bright,very bright,"medium, light"
+Dichanthium caricosum,32,35,1500,2500,-,-,---,---,5.5,7,very bright,cloudy skies,"heavy, medium"
+Digitaria didactyla,25,35,800,1100,10,-,---,---,5.5,7,very bright,very bright,"medium, light"
+Digitaria eriantha ssp. eriantha,24,35,450,1000,16,12,---,---,5.5,7,very bright,very bright,"medium, light"
+Digitaria decumbens,28,32,450,650,15,15,---,---,5,7,very bright,very bright,heavy
+Dillenia indica,30,40,3000,4000,10,10,---,---,5.5,7,very bright,light shade,medium
+Dioscorea alata,20,32,1200,4000,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Dioscorea bulbifera,20,30,1200,2600,-,-,---,---,6,6.7,very bright,clear skies,medium
+Dioscorea esculenta,28,32,800,2000,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, organic"
+Dioscorea rotundata,25,32,1000,1500,-,-,---,---,6.4,6.7,very bright,clear skies,heavy
+Diospyros kaki,20,31,1000,1700,-,-,---,---,5.5,6.5,very bright,very bright,medium
+Dodonaea viscosa,18,38,300,1200,10,10,---,---,5.5,7.5,very bright,clear skies,"medium, light"
+Durio zibethinus,22,40,1500,2500,-,-,---,---,5,6.5,clear skies,cloudy skies,"medium, light"
+Echinochloa colona,22,30,500,1200,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Echinochloa crus-galli,17,30,700,1100,-,-,---,---,6,7,very bright,clear skies,heavy
+Elaeis guineensis,20,35,1500,3000,-,-,---,---,4.5,6,very bright,very bright,"heavy, medium"
+Elettaria cardamomum,22,30,3000,6000,5,-,---,---,5.5,6,light shade,cloudy skies,"medium, organic"
+Eleusine indica,20,26,500,1200,-,-,---,---,5.5,6.5,very bright,clear skies,light
+Emilia sonchifolia,20,30,1000,2000,-,-,---,---,4.5,6.5,very bright,cloudy skies,"heavy, medium, light"
+Eriobotrya japonica,21,27,600,1600,20,10,---,---,5.5,6.5,clear skies,cloudy skies,"medium, light"
+Erythrina fusca,16,24,1200,3000,-,-,---,---,4.5,6.5,clear skies,very bright,"heavy, medium, light"
+Erythrina variegata,17,27,1500,2500,-,-,---,---,5,7,very bright,clear skies,"medium, light"
+Eucalyptus camaldulensis,12,28,600,1000,32,-,---,---,5,7,very bright,very bright,"medium, light"
+Eucalyptus deglupta,24,32,2000,4000,-,-,---,---,5.5,7.5,very bright,very bright,"medium, light"
+Eucalyptus grandis,24,35,1000,2500,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Eucalyptus papuana,20,28,500,1000,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Eucalyptus robusta,16,32,1200,2000,23,-,---,---,6,6.5,very bright,very bright,"heavy, medium"
+Eucalyptus saligna,15,32,900,1800,21,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Eucalyptus tereticornis,18,38,800,1500,15,6,---,---,6,7,very bright,very bright,"medium, light"
+Syzygium cumini,20,32,1500,6000,10,-,---,---,5.5,7,clear skies,light shade,"medium, light"
+Syzygium malaccense,22,28,1200,1600,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Excoecaria agallocha,20,30,1000,2000,-,-,---,---,6.5,7,very bright,very bright,"heavy, medium"
+Feijoa sellowiana,20,28,600,1500,26,24,---,---,5.5,7,very bright,clear skies,"medium, light"
+Ficus carica,16,26,700,1500,30,25,---,---,6,7,very bright,clear skies,medium
+Ficus elastica,20,30,600,1000,-,-,---,---,5.5,7.5,very bright,very bright,"heavy, medium, light"
+Allium cepa var. aggregatum,20,25,450,600,-,-,---,---,6,7,clear skies,clear skies,"light, organic"
+Flemingia macrophylla,22,28,1300,2200,-,-,---,---,5,7,very bright,cloudy skies,"heavy, medium, light"
+Foeniculum vulgare,15,25,700,1500,-,-,---,---,6.5,7.5,very bright,very bright,medium
+Fortunella japonica,26,35,1100,1500,20,20,---,---,6.5,7.5,very bright,clear skies,medium
+Fragaria x ananassa,11,24,600,900,-,-,---,---,6,6.8,very bright,clear skies,"medium, organic"
+Garcinia mangostana,20,30,1600,2000,-,-,---,---,5,6,clear skies,cloudy skies,"heavy, medium"
+Garcinia xanthochymus,22,28,1500,2000,10,10,---,---,6,7.5,clear skies,cloudy skies,"heavy, medium"
+Gliricidia sepium,15,30,1200,2300,6,6,---,---,5.5,6.2,very bright,clear skies,"medium, light"
+Glycine max,20,33,600,1500,-,-,---,---,5.5,6.5,very bright,very bright,"medium, organic"
+Gmelina arborea,22,34,1500,2500,5,5,---,---,5,6,very bright,very bright,"heavy, medium"
+Gossypium barbadense,22,32,750,1250,-,-,---,---,5.2,7.2,very bright,very bright,"medium, organic"
+Gossypium hirsutum,22,36,750,1200,-,-,---,---,6,7.5,very bright,very bright,"heavy, medium"
+Grevillea robusta,15,28,750,1500,27,10,---,---,5,7,very bright,very bright,"medium, light"
+Helianthus annuus,17,34,600,1000,20,-,---,---,6,7.5,very bright,very bright,"medium, light"
+Helianthus tuberosus,15,27,700,1500,20,-,---,---,6,6.6,clear skies,clear skies,"medium, organic"
+Hemarthria altissima,31,35,1200,1500,20,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Heritiera littoralis,20,30,1500,2500,5,5,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Heteropogon contortus,28,34,500,1500,19,19,---,---,5,6,very bright,very bright,"medium, light"
+Hevea brasiliensis,24,33,2000,4000,-,-,---,---,4.5,6,clear skies,clear skies,"medium, light"
+Hibiscus cannabinus,15,28,600,2000,-,-,---,---,6,7.5,very bright,very bright,"medium, organic"
+Hibiscus sabdariffa,16,32,1000,3000,-,-,---,---,5.5,7.5,cloudy skies,very bright,"medium, organic"
+Hibiscus syriacus,15,28,600,1400,27,25,---,---,5.5,7.5,cloudy skies,very bright,"medium, light, organic"
+Hibiscus tiliaceus,22,32,1200,1600,-,-,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Hordeum vulgare,15,20,500,1000,30,-,---,---,6.5,7.5,very bright,very bright,medium
+Imperata cylindrica,25,35,500,3500,-,-,---,---,4.5,6,very bright,cloudy skies,light
+Indigofera spicata,22,30,1500,2000,10,-,---,---,5,6.5,very bright,cloudy skies,"heavy, medium"
+Inga edulis,23,30,1200,2500,-,-,---,---,5,6.5,very bright,clear skies,"heavy, medium"
+Intsia bijuga,22,28,2000,3000,-,-,---,---,5.5,6.5,very bright,cloudy skies,"medium, light"
+Ipomoea aquatica,15,35,2000,2500,-,-,---,---,5,7,very bright,very bright,"heavy, organic"
+Ipomoea batatas,18,28,750,2000,-,-,---,---,5,7,very bright,very bright,
+Ischaemum muticum,22,28,2000,3000,-,-,---,---,5,6,clear skies,cloudy skies,light
+Ischaemum rugosum,22,28,1500,2000,-,-,---,---,4.5,5.5,very bright,cloudy skies,"heavy, medium"
+Ischaemum timorense,22,28,800,2000,-,-,---,---,4.5,5.5,very bright,clear skies,"medium, light"
+Jatropha curcas,11,28,500,1500,-,-,---,---,5.5,7.5,very bright,very bright,medium
+Lablab purpureus,18,32,600,1000,-,-,---,---,5,7.5,very bright,very bright,"heavy, medium, light, organic"
+Lactuca sativa var. capitata,12,21,1100,1400,-,-,---,---,6,7,clear skies,clear skies,"medium, light"
+Lagenaria siceraria,19,27,1200,1800,-,-,---,---,5.5,7,clear skies,very bright,"medium, light"
+Lagerstroemia flos-reginae,18,35,2000,3500,7,7,---,---,5.5,6.5,very bright,cloudy skies,medium
+Laurus nobilis,17,25,600,1000,-,-,---,---,5,6.5,very bright,very bright,"medium, light"
+Lawsonia inermis,19,27,500,1500,20,20,---,---,5,7,very bright,clear skies,"heavy, medium, light"
+Lespedeza cuneata,16,26,1000,1400,30,-,---,---,5.5,6.5,very bright,cloudy skies,"heavy, medium"
+Leucaena leucocephala,20,32,600,3000,15,-,---,---,6,7.7,very bright,cloudy skies,"heavy, medium"
+Litchi chinensis,20,35,1000,1700,13,9,---,---,5.5,6.5,very bright,clear skies,"medium, organic"
+Lolium perenne,14,25,700,1750,33,30,---,---,5,7,clear skies,very bright,"heavy, medium"
+Lolium rigidum,10,25,400,500,30,30,---,---,6.5,7,very bright,clear skies,"heavy, medium"
+Lotononis bainesii,14,32,750,1600,20,-,---,---,5,6,very bright,clear skies,"medium, light"
+Luffa acutangula,20,32,1200,2000,10,10,---,---,5.5,7,very bright,clear skies,"medium, organic"
+Lycopersicon esculentum,20,27,600,1300,-,-,---,---,5.5,6.8,clear skies,clear skies,"medium, organic"
+Macadamia integrifolia,10,26,1000,3000,15,-,---,---,5,6,clear skies,very bright,"medium, light, organic"
+Macadamia tetraphylla,14,28,1250,2000,18,-,---,---,5.5,7,very bright,clear skies,medium
+Macaranga tanarius,20,30,800,1200,-,-,---,---,5.5,7,clear skies,very bright,medium
+Macroptilium atropurpureum,21,32,650,1800,-,-,---,---,6,7.5,very bright,clear skies,"heavy, medium, light"
+Macroptilium lathyroides,25,30,800,2000,-,-,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Macrotyloma axillare,20,28,750,1700,-,-,---,---,6,7,clear skies,cloudy skies,"medium, light"
+Macrotyloma uniflorum,20,28,500,1200,-,-,---,---,5.5,7,very bright,clear skies,"medium, light"
+Malpighia glabra,24,30,1300,2000,-,-,---,---,5.5,7.5,very bright,very bright,"heavy, medium"
+Malus domestica,14,27,700,2500,35,30,---,---,6,7,very bright,clear skies,"medium, light"
+Malus sylvestris,10,30,900,1200,38,35,---,---,6.2,7,very bright,clear skies,"medium, light"
+Mammea americana,24,30,1200,1800,-,-,---,---,6,6.5,very bright,very bright,medium
+Mangifera indica,24,30,600,1500,-,-,---,---,5.5,7.5,very bright,very bright,"medium, light"
+Manihot esculenta,20,29,1000,1500,-,-,---,---,5.5,8,very bright,very bright,"medium, light"
+Medicago sativa,21,27,600,1200,38,36,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Melaleuca leucadendron,28,37,800,1400,-,-,---,---,6,7,very bright,very bright,"heavy, medium"
+Melaleuca quinquenervia,18,30,1000,3400,5,5,---,---,5,6.5,very bright,clear skies,"heavy, medium"
+Melaleuca symphyocarpa,22,37,850,1200,10,10,---,---,5,6,very bright,clear skies,heavy
+Melicoccus bijugatus,22,30,800,1600,-,-,---,---,5.5,7,very bright,clear skies,"heavy, medium, light"
+Melinis minutiflora,22,30,900,1700,16,16,---,---,5,7.5,very bright,light shade,"medium, light"
+Mentha arvensis var. piperascens,10,25,800,1100,-,-,---,---,5.5,6.4,very bright,clear skies,medium
+Metroxylon sagu,25,36,3000,4500,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Microstegium ciliatum,23,27,2500,3500,-,-,---,---,4.5,5.5,cloudy skies,light shade,medium
+Mimosa pudica,22,28,1000,2000,-,-,---,---,6,7,very bright,cloudy skies,"heavy, medium, light"
+Monochoria vaginalis,22,35,1200,2000,-,-,---,---,5,6.5,very bright,clear skies,heavy
+Morinda citrifolia,24,30,1500,3000,-,-,---,---,5,6.5,very bright,clear skies,medium
+Morus alba,20,28,700,2500,20,-,---,---,5.5,7.5,clear skies,very bright,medium
+Muntingia calabura,22,32,1400,2000,-,-,---,---,5.5,6.5,clear skies,very bright,light
+Musa textilis,20,29,1800,3000,-,-,---,---,5.5,7,very bright,clear skies,"medium, organic"
+Myristica fragrans,22,34,1500,3500,-,-,---,---,6,7,cloudy skies,light shade,"medium, organic"
+Nasturtium officinale,12,17,1000,2300,-,-,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Nauclea diderrichii,28,34,1600,3500,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Nephelium lappaceum,21,35,2000,3000,-,-,---,---,5,6.5,clear skies,cloudy skies,medium
+Nicotiana tabacum,15,30,500,750,-,-,---,---,5,6.5,very bright,very bright,"medium, light"
+Nypa fruticans,23,27,2000,2800,-,-,---,---,6.5,7.5,very bright,very bright,"heavy, medium"
+Ocimum basilicum,18,27,1000,1600,20,-,---,---,6,7,very bright,very bright,medium
+Olea europaea,20,34,400,700,30,25,---,---,6,7,very bright,very bright,"medium, light"
+Oryza sativa,20,30,1500,2000,-,-,---,---,5.5,7,very bright,very bright,wide
+Pachyrhizus erosus,20,30,1300,1700,10,-,---,---,6.5,8,clear skies,very bright,"medium, light"
+Panicum antidotale,18,25,400,700,-,-,---,---,6,7.5,very bright,cloudy skies,"heavy, medium"
+Panicum coloratum,17,26,500,1700,13,15,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Panicum maximum,19,30,1000,1800,18,16,---,---,5,7,light shade,cloudy skies,"medium, organic"
+Parkinsonia aculeata,24,32,300,700,-,-,---,---,6.5,7.5,very bright,very bright,light
+Paspalum dilatatum,20,30,900,1300,-,-,---,---,5.5,7,clear skies,very bright,"heavy, medium"
+Paspalum plicatulum,10,23,1000,2500,-,-,---,---,4.5,5.5,very bright,clear skies,"medium, light"
+Paspalum scrobiculatum,25,27,1000,1600,-,-,---,---,4.8,6,very bright,clear skies,medium
+Passiflora edulis,20,30,900,2000,5,-,---,---,6,8,cloudy skies,clear skies,"medium, organic"
+Passiflora edulis var. flavicarpa,25,32,1600,2000,10,-,---,---,5.5,7.5,very bright,clear skies,"heavy, medium, light"
+Passiflora laurifolia,22,30,2000,3000,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Passiflora mollissima,15,18,1300,1700,-,-,---,---,6,7,clear skies,cloudy skies,"medium, light"
+Passiflora quadrangularis,18,30,1400,1600,-,-,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Pastinaca sativa,15,21,500,800,37,35,---,---,6,6.8,very bright,clear skies,medium
+Pennisetum clandestinum,16,26,900,1600,-,-,---,---,5,5.5,very bright,very bright,"heavy, medium"
+Pennisetum polystachyon,32,35,1000,2000,-,-,---,---,5,6.5,cloudy skies,very bright,"heavy, medium, light, wide"
+Pennisetum purpureum,21,40,1500,2500,-,-,---,---,5,6.5,very bright,cloudy skies,medium
+Persea americana,14,40,500,2000,-,-,---,---,5,5.8,very bright,very bright,medium
+Petroselinum crispum,11,20,900,1500,-,-,---,---,6,7.5,clear skies,cloudy skies,"medium, organic"
+Phaseolus coccineus,12,26,800,1500,-,-,---,---,5.5,7,very bright,very bright,medium
+Phaseolus lunatus,16,28,900,1500,-,-,---,---,5.5,7,very bright,clear skies,medium
+Phaseolus vulgaris,16,25,500,2000,-,-,---,---,5.5,7.5,very bright,clear skies,"medium, organic"
+Phoenix dactylifera,26,45,200,300,10,-,---,---,6.5,8,very bright,very bright,"medium, light"
+Phragmites karka,22,30,1000,3000,-,-,---,---,5,6.5,very bright,very bright,heavy
+Physalis peruviana,16,25,1500,2300,-,-,---,---,6,7,very bright,cloudy skies,"medium, light"
+Pimenta dioica,15,32,1500,2500,12,10,---,---,7,7.5,clear skies,cloudy skies,"heavy, medium, light"
+Pinus caribaea,22,34,2000,3000,-,-,---,---,5,5.5,clear skies,very bright,"medium, light"
+Pinus merkusii,24,32,1300,2500,11,11,---,---,4.5,5.5,very bright,very bright,"heavy, medium, light"
+Pinus michoacana,20,28,1200,1500,16,16,---,---,5.5,6,very bright,very bright,"heavy, medium"
+Pinus oocarpa,16,30,1000,1700,13,13,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Pinus patula,18,29,1000,2000,15,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Pinus pseudostrobus,18,26,1100,1500,14,14,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Pinus radiata,18,30,650,1200,-,20,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Pinus taeda,20,25,1300,1900,28,28,---,---,4.5,5.5,very bright,very bright,"heavy, medium, light"
+Piper betle,22,27,3000,3700,-,-,---,---,5,5.6,cloudy skies,light shade,"heavy, organic"
+Piper methysticum,22,35,2200,4000,-,-,---,---,5.5,6.5,light shade,light shade,"heavy, organic"
+Piper nigrum,22,35,2500,4000,-,-,---,---,6,7,clear skies,light shade,"heavy, medium"
+Pisum sativum,10,24,800,1200,-,-,---,---,5.5,7,very bright,very bright,"heavy, medium, light"
+Pogostemon cablin,23,28,2200,2600,5,5,---,---,6,6.5,very bright,clear skies,"medium, organic"
+Pongamia pinnata,16,40,500,2000,10,-,---,---,6.5,8.5,clear skies,very bright,
+Portulaca oleracea,18,32,1000,2000,-,-,---,---,5.5,7,very bright,very bright,"medium, light"
+Prosopis alba,10,20,200,500,10,10,---,---,5,6.5,very bright,very bright,light
+Prunus persica,20,33,900,1100,30,30,---,---,5.5,6.3,very bright,very bright,"medium, light"
+Psidium cattleianum,22,28,1600,2000,-,-,---,---,5.5,6.5,very bright,cloudy skies,"heavy, medium"
+Psidium guajava,20,33,1000,3000,-,-,---,---,5.5,7.5,very bright,clear skies,"medium, organic"
+Psophocarpus tetragonolobus,18,30,1000,2500,-,-,---,---,5.5,7,very bright,clear skies,"medium, organic"
+Pterocarpus indicus,24,32,2000,3000,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Pueraria lobata,18,28,1200,1400,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Pueraria phaseoloides,15,30,1200,3200,-,-,---,---,4.5,6.5,cloudy skies,clear skies,medium
+Punica granatum,23,32,900,1200,10,-,---,---,6.5,7.5,very bright,very bright,"heavy, medium"
+Pyrus communis,20,35,600,900,35,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Raphanus sativus,12,26,1000,1500,-,-,---,---,6,7,clear skies,clear skies,"medium, light"
+Rhizophora mangle,20,30,1500,2500,-,-,---,---,6.7,7.2,very bright,clear skies,heavy
+Rhizophora mucronata,20,28,1500,2500,-,-,---,---,6.7,7.2,very bright,clear skies,"heavy, medium"
+Rhizophora stylosa,22,34,1500,3000,11,11,---,---,6.7,7.2,very bright,clear skies,heavy
+Ricinus communis,20,30,600,1000,-,-,---,---,5,6.5,very bright,very bright,medium
+Rubus idaeus ssp. idaeus,17,23,800,1200,44,41,---,---,5.5,6.5,very bright,clear skies,"medium, organic"
+Rubus sp.,14,20,1400,1800,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Saccharum edule,20,30,1500,3000,-,-,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Saccharum officinarum,24,37,1500,2000,-,-,---,---,5,8,very bright,very bright,
+Saccharum robustum,24,30,1400,2500,-,-,---,---,5,6,very bright,very bright,"heavy, medium"
+Saccharum spontaneum,25,35,2000,3000,-,-,---,---,5,6,very bright,clear skies,light
+Samanea saman,20,35,800,3000,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium, light"
+Secale cereale,15,20,600,1000,45,-,---,---,5.5,6,very bright,very bright,"heavy, medium, light"
+Sechium edule,19,30,800,2000,15,-,---,---,5.5,7,very bright,light shade,"medium, organic"
+Sesamum indicum,20,30,500,1000,-,-,---,---,5.5,7.5,very bright,very bright,medium
+Sesbania grandiflora,24,34,1000,3000,-,-,---,---,5.5,7.5,very bright,very bright,"heavy, medium, light"
+Setaria sphacelata  var. sericea,22,30,1000,1500,7,-,---,---,5.5,6.5,cloudy skies,very bright,"medium, light"
+Setaria sphacelata var. splendida,22,30,1500,3000,-,-,---,---,5,6.5,clear skies,very bright,"heavy, medium, light, wide"
+Solanum americanum,20,35,500,1200,20,-,---,---,-,-,clear skies,very bright,organic
+Solanum melongena,20,35,1200,1600,-,-,---,---,5.5,6.8,very bright,very bright,"medium, organic"
+Solanum nigrum,21,28,1000,1600,10,-,---,---,6.5,7.5,very bright,clear skies,"heavy, medium, light, wide, organic"
+Solanum quitoense,15,25,1500,3000,-,-,---,---,6.5,7,clear skies,cloudy skies,"heavy, medium, light, organic"
+Solanum torvum,17,29,1000,2000,5,-,---,---,5,6,cloudy skies,light shade,"heavy, medium, light"
+Solanum tuberosum,15,25,500,800,-,-,---,---,5,6.2,very bright,very bright,"medium, organic"
+Sonneratia caseolaris,20,30,1500,2500,-,-,---,---,6.7,7.3,very bright,clear skies,heavy
+Sorghum bicolor var. sweet,27,35,500,1000,-,-,---,---,6,7,very bright,very bright,"heavy, medium"
+Sorghum halepense,24,32,500,750,30,-,---,---,6,6.8,very bright,very bright,"medium, light"
+Sorghum X almum,19,26,500,800,25,25,---,---,5.5,7,very bright,very bright,"heavy, medium"
+Spathodea campanulata,27,30,1300,2000,-,-,---,---,5,7.5,very bright,very bright,medium
+Spinacia oleracea,13,20,800,1200,-,-,---,---,6,7.5,very bright,clear skies,"medium, light"
+Spondias cytherea,22,27,900,1800,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Spondias mombin,21,27,1000,2000,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Stenotaphrum secundatum,18,30,800,2000,8,-,---,---,6,7.5,cloudy skies,light shade,"heavy, medium, light, organic"
+Stylosanthes hamata,22,28,700,900,10,-,---,---,5.5,7,very bright,clear skies,"medium, light"
+Stylosanthes viscosa,22,30,1000,1750,-,-,---,---,4.5,6.5,clear skies,very bright,"medium, light"
+Swietenia macrophylla,20,30,2000,4000,-,-,---,---,6.5,7.5,very bright,cloudy skies,"heavy, medium"
+Swietenia mahogani,24,32,1000,2000,15,15,---,---,6,7,very bright,clear skies,"medium, light"
+Tabebuia rosea,22,30,1500,2000,-,-,---,---,5.5,7,very bright,very bright,medium
+Tamarindus indica,20,35,800,3000,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Tecoma stans,15,25,500,700,-,-,---,---,6,8.5,very bright,very bright,"heavy, medium"
+Tectona grandis,22,32,1200,3000,10,10,---,---,6,7.5,very bright,very bright,medium
+Tephrosia candida,20,30,1400,1800,-,-,---,---,4.5,6.5,very bright,cloudy skies,light
+Tephrosia vogelii,20,28,1300,1500,-,-,---,---,5,6.5,very bright,clear skies,light
+Terminalia brassii,28,34,3000,4000,4,4,---,---,4.5,5.5,very bright,clear skies,"heavy, medium"
+Terminalia calamansanai,28,34,3000,4000,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Terminalia catappa,21,32,1500,3400,-,-,---,---,5,7,very bright,cloudy skies,light
+Terminalia superba,22,30,1200,1800,-,-,---,---,6.5,7.5,very bright,very bright,medium
+Themeda australis,15,25,450,1250,-,-,---,---,6.5,7,very bright,cloudy skies,"heavy, medium, light"
+Themeda triandra,22,28,500,1100,-,-,---,---,6.5,7,very bright,cloudy skies,"heavy, medium, light"
+Theobroma cacao,21,32,1200,3000,-,-,---,---,5,6.5,clear skies,light shade,"heavy, organic"
+Thespesia populnea,20,30,1000,3000,-,-,---,---,6.5,8,clear skies,very bright,light
+Tithonia diversifolia,15,31,1000,2000,-,-,---,---,-,-,,,
+Toona australis,18,28,1200,3000,13,13,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Trema orientalis,15,27,1500,3000,5,5,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light, wide, organic"
+Mentha piperita,15,25,1000,2200,40,-,---,---,5.5,6.5,very bright,clear skies,"medium, organic"
+Trichosanthes cucumerina,22,35,2000,2500,-,-,---,---,6.5,7,very bright,cloudy skies,"heavy, medium, light"
+Trifolium pratense,18,25,700,1200,34,30,---,---,6,7.5,very bright,clear skies,"medium, organic"
+Trifolium repens,14,22,700,1200,35,30,---,---,5.5,7,very bright,cloudy skies,"heavy, medium"
+Trifolium semipilosum,16,27,600,1500,-,-,---,---,5,6.5,cloudy skies,clear skies,"heavy, medium, light"
+Trifolium usambarense,15,28,1000,1500,-,-,---,---,4.5,6.5,clear skies,very bright,"heavy, medium, light, wide"
+Triticum aestivum,15,23,750,900,30,-,---,---,6,7,very bright,very bright,"medium, organic"
+Ullucus tuberosus,12,20,1100,1400,-,-,---,---,5.5,6.5,very bright,very bright,medium
+Urena lobata,21,27,700,1200,-,-,---,---,5.5,6.5,very bright,very bright,"medium, organic"
+Vanilla planifolia,21,30,2000,2500,-,-,---,---,5.5,7,light shade,light shade,"medium, organic"
+Vetiveria zizanioides,22,35,500,2500,5,-,---,---,4.5,8,clear skies,very bright,"medium, light"
+Vicia faba,18,28,650,1000,30,-,---,---,6,7,very bright,clear skies,"medium, organic"
+Vigna angularis,15,30,900,1300,40,35,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Vigna mungo,22,35,650,900,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Vigna radiata,21,36,650,900,-,-,---,---,5.5,6.2,very bright,very bright,"medium, organic"
+Vigna umbellata,18,30,700,1500,-,-,---,---,6,7.5,very bright,very bright,medium
+Vigna unguiculata,25,35,500,1500,-,-,---,---,5.5,7.5,clear skies,very bright,"medium, light"
+Vitis vinifera,18,30,700,850,20,-,---,---,5.5,7.5,very bright,very bright,"medium, organic"
+Xanthosoma sagittifolium,20,28,1000,2000,-,-,---,---,5.5,7,very bright,clear skies,"medium, organic"
+Zea mays,18,33,600,1200,-,-,---,---,5,7,very bright,very bright,
+Zingiber officinale,19,29,1400,3000,-,-,---,---,6,7,very bright,clear skies,"medium, organic"
+Amaranthus caudatus,21,28,800,2300,-,-,---,---,5.5,7.5,very bright,very bright,"light, organic"
+Amaranthus dubius,22,30,2100,2400,-,-,---,---,6,7.5,very bright,very bright,"heavy, medium, light, organic"
+Amaranthus lividus,21,27,1200,1500,-,-,---,---,5.5,7,very bright,very bright,"heavy, medium, light, organic"
+Amaranthus tricolor,22,30,1200,1500,-,-,---,---,5.5,7.5,very bright,very bright,"heavy, medium, light, organic"
+Anethum graveolens,15,18,800,1200,20,-,---,---,6,7,clear skies,clear skies,medium
+Annona cherimola,17,25,800,1200,-,-,---,---,6,7.5,very bright,clear skies,"medium, light"
+Annona diversifolia,20,26,1000,1400,10,-,---,---,7,8,light shade,very bright,medium
+Annona purpurea,22,30,1000,3000,-,-,---,---,5.5,6.5,clear skies,very bright,"medium, light"
+Antidesma bunius,23,27,1500,3000,-,-,---,---,6,7,light shade,cloudy skies,medium
+Arachis hypogaea,22,32,600,1500,-,-,---,---,5.5,6.5,very bright,very bright,medium
+Blighia sapida,24,27,2000,4000,5,-,---,---,5.5,6.5,clear skies,clear skies,"heavy, medium, light, organic"
+Brassica oleracea var. gongyloides,12,18,900,1300,-,-,---,---,6,6.5,very bright,very bright,medium
+Canavalia gladiata,15,30,800,1800,20,-,---,---,5,6,very bright,clear skies,"heavy, medium, light, organic"
+Canna edulis,20,30,1200,1700,-,-,---,---,5.5,6.5,very bright,cloudy skies,medium
+Carya illinoensis,15,35,600,1200,25,20,---,---,5.5,7,very bright,very bright,"medium, light"
+Castanea sativa,15,25,900,1300,30,30,---,---,5,6,very bright,very bright,"medium, light"
+Castanospermum australe,20,32,1600,3200,12.5,12.5,---,---,5,6,very bright,clear skies,medium
+Citrus aurantifolia,26,32,2200,2700,10,-,---,---,6,6.5,very bright,very bright,"medium, light"
+Corylus avellana,10,24,900,1100,40,40,---,---,6,6.5,very bright,very bright,medium
+Diospyros digyna,20,27,1200,1600,-,-,---,---,6,7,very bright,clear skies,medium
+Syzygium javanicum,23,28,1500,2300,-,-,---,---,6,7.5,very bright,clear skies,"heavy, medium"
+Fagopyrum esculentum,17,27,700,1000,-,-,---,---,5,6.5,very bright,clear skies,"medium, light"
+Flacourtia indica,22,40,750,1400,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Fortunella margarita,26,37,1100,1500,20,20,---,---,6.5,7.5,very bright,clear skies,medium
+Fragaria vesca,12,20,700,1500,-,36,---,---,5,6,clear skies,cloudy skies,"heavy, medium"
+Garcinia dulcis,22,30,1500,3000,-,-,---,---,7,7.5,clear skies,cloudy skies,"heavy, medium"
+Bactris gasipaes,18,28,2000,4000,17,16,---,---,5,6.5,very bright,clear skies,"heavy, medium"
+Juglans regia,15,30,800,1700,30,30,---,---,5.5,6.5,very bright,very bright,medium
+Lansium domesticum,20,35,1400,2200,-,-,---,---,6,6.5,very bright,light shade,"medium, organic"
+Manilkara achras,20,34,1000,1500,10,-,---,---,6,7,clear skies,cloudy skies,medium
+Maranta arundinacea,23,29,1500,2000,-,-,---,---,5.5,6.5,cloudy skies,light shade,medium
+Melissa officinalis,14,25,800,1000,25,20,---,---,5,6,very bright,very bright,medium
+Monochoria hastata,25,35,1500,2000,-,-,---,---,5,6.5,very bright,clear skies,heavy
+Moringa oleifera,20,35,700,2200,10,10,---,---,5.5,7,very bright,clear skies,"medium, light"
+Morus nigra,15,25,700,1500,20,-,---,---,5.5,7,very bright,very bright,medium
+Mucuna pruriens var utilis,20,30,1200,1500,-,-,---,---,5,6.5,clear skies,very bright,"medium, light"
+Nasturtium schlechteri,15,28,700,1200,-,-,---,---,5,6.5,very bright,clear skies,medium
+Nelumbo nucifera,25,30,2000,2800,-,-,---,---,6,6.5,very bright,clear skies,"heavy, medium"
+Nephelium mutabile,26,32,2000,3000,-,-,---,---,5,5.8,clear skies,cloudy skies,medium
+Ocimum americanum,22,30,700,2000,-,-,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Oenanthe javanica,10,30,2000,3000,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium, light"
+Origanum majorana,20,26,800,1000,-,-,---,---,5.5,7,very bright,very bright,medium
+Origanum vulgare,17,28,700,1300,-,-,---,---,5.5,7,very bright,very bright,light
+Oxalis tuberosa,12,24,800,1300,-,-,---,---,6,7,very bright,clear skies,"medium, light"
+Parinari nonda,26,37,1100,1600,6,6,---,---,5.5,7,very bright,clear skies,light
+Passiflora ligularis,22,26,1000,1200,-,-,---,---,6,7,clear skies,cloudy skies,"heavy, medium, light"
+Pistacia vera,25,35,400,700,25,25,---,---,7,8,very bright,very bright,"medium, light"
+Polyscias verticillata,22,34,1200,2000,-,-,---,---,5.5,7,very bright,clear skies,"medium, light"
+Pouteria campechiana,20,26,1200,2000,-,-,---,---,6,7.5,very bright,clear skies,"heavy, medium, light"
+Prunus amygdalus,12,35,600,900,-,-,---,---,6.5,7,very bright,very bright,medium
+Prunus armeniaca,14,35,900,1300,-,-,---,---,6.5,7,very bright,very bright,medium
+Rungia klossii,12,17,800,1200,-,-,---,---,5.5,6.2,very bright,very bright,medium
+Salvia officinalis,15,26,500,1000,30,20,---,---,5,6.5,very bright,very bright,medium
+Sambucus nigra,12,22,500,12000,10,-,---,---,6,7.5,cloudy skies,clear skies,"medium, organic"
+Sterculia foetida,18,32,1100,1800,-,-,---,---,6,7.5,very bright,very bright,"heavy, medium"
+Talinum triangulare,22,30,1000,2000,-,-,---,---,5,6.5,very bright,very bright,"heavy, medium, light, organic"
+Thymus vulgaris,16,25,700,1500,30,20,---,---,5.5,6.5,very bright,very bright,medium
+Tragopogon porrifolius,13,19,600,900,40,35,---,---,6.5,7.5,clear skies,cloudy skies,"medium, organic"
+Tropaeolum tuberosum,12,20,1000,1200,-,-,---,---,6,7,clear skies,cloudy skies,"heavy, medium, light, organic"
+Ximenia americana,14,30,400,1250,-,-,---,---,5,7,cloudy skies,clear skies,"heavy, medium, light, wide, organic"
+Rheum rhaponticum,15,24,800,1300,40,-,---,---,6,7,clear skies,clear skies,"medium, organic"
+Eugenia aromatica,24,34,1500,3600,-,-,---,---,5,6,very bright,light shade,"medium, organic"
+Annona cherimola x Annona squamosa,24,28,2000,3000,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Pangium edule,22,28,2000,5000,-,-,---,---,5.5,6.5,light shade,cloudy skies,"medium, light"
+Brosimum alicastrum,18,25,600,4000,10,10,---,---,-,-,very bright,very bright,medium
+Beta vulgaris var. cicla,15,25,800,800,30,10,---,---,6,6.5,very bright,clear skies,medium
+Luffa cylindrica,23,27,1200,2000,10,-,---,---,5.5,6.5,clear skies,clear skies,"medium, organic"
+Cicer arietinum,15,29,600,1000,-,-,---,---,6,8.5,very bright,very bright,"heavy, medium"
+Musa sp.,22,32,2400,2700,-,-,---,---,5,7,very bright,very bright,"medium, organic"
+Alocasia macrorrhizos,20,25,2500,3500,-,-,---,---,5.7,6.3,cloudy skies,cloudy skies,medium
+Eleocharis dulcis,23,29,1600,2000,-,-,---,---,6.9,7.3,very bright,very bright,heavy
+Bruguiera gymnorrhiza,20,26,1500,6000,5,-,---,---,7,8,very bright,clear skies,"heavy, medium"
+Avicennia officinalis,25,34,1000,3000,10,10,---,---,6.5,7,very bright,clear skies,heavy
+Musa balbisiana,23,28,1300,3000,-,-,---,---,5.5,7,very bright,clear skies,"medium, light"
+Coffea excelsa,13,26,1500,2400,10,10,---,---,4.5,6.5,clear skies,cloudy skies,medium
+Chenopodium quinoa,14,18,500,1000,-,-,---,---,5.5,8,very bright,clear skies,"heavy, medium, light"
+Carthamus tinctorius,20,32,600,1000,-,-,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Phaseolus acutifolius,20,30,600,1000,25,-,---,---,6,7,very bright,very bright,"medium, light"
+Lupinus angustifolius,12,18,400,1000,-,-,---,---,5.5,7,very bright,cloudy skies,"medium, light"
+Vigna aconitifolia,24,32,500,900,5,-,---,---,6.5,7.5,very bright,very bright,light
+Phaseolus polyanthus,14,24,1400,2200,-,-,---,---,6.2,6.5,very bright,clear skies,"medium, organic"
+Indigofera hirsuta,22,30,900,1700,-,-,---,---,5.5,6.5,clear skies,cloudy skies,medium
+Solanum muricatum,15,25,800,1400,-,-,---,---,6.5,7,very bright,clear skies,medium
+Agropyron intermedium,15,20,400,600,30,30,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Pinus palustris,22,31,1300,1700,27,27,---,---,4.5,5.5,very bright,very bright,"medium, light"
+Pinus pinaster,18,30,800,1100,38,34.5,---,---,4.5,5.5,very bright,very bright,light
+Pinus ponderosa,15,24,500,800,25,23,---,---,5.5,7.5,very bright,clear skies,"medium, light"
+Abies balsamea,10,18,750,1100,45,42,---,---,5,6.5,cloudy skies,clear skies,"heavy, medium, organic"
+Abies concolor,10,18,800,1200,32,30,---,---,4.5,6.5,cloudy skies,very bright,medium
+Abies pindrow,16,24,1300,2000,-,-,---,---,5.5,6.5,very bright,clear skies,medium
+Abroma augustum,26,31,1500,3000,-,-,---,---,5,6,very bright,clear skies,medium
+Acacia acradenia,24,34,400,800,-,-,---,---,7,8,very bright,clear skies,"medium, light"
+Acacia acuminata,17,28,350,500,29,27,---,---,6,7,very bright,very bright,"medium, light"
+Acacia ammobia,24,36,200,250,23,23,---,---,5,6,very bright,very bright,light
+Acacia ampliceps,14,36,400,600,16,14,---,---,7,8,very bright,very bright,"heavy, medium, light"
+Acacia ancistrocarpa,22,34,300,500,18,16,---,---,5.5,7,very bright,very bright,light
+Acacia aneura,20,34,250,450,20,18,---,---,5.5,7,very bright,very bright,light
+Acacia anticeps,18,28,250,450,10,10,---,---,6.5,7.5,very bright,very bright,light
+Acacia argyrodendron,22,32,450,550,20,20,---,---,6.5,8,very bright,very bright,light
+Acacia ataxacantha,22,35,500,1300,10,-,---,---,6,7,clear skies,very bright,"heavy, medium"
+Acacia aulacocarpa,18,32,900,1200,10,6,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Acacia bidwillii,22,32,550,750,16,16,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Acacia brachystachya,20,40,250,300,23,21,---,---,5.5,7,very bright,very bright,"heavy, medium, light"
+Acacia brassii,22,30,1200,1600,11,11,---,---,5,6.5,very bright,clear skies,light
+Acacia burrowii,18,30,500,600,23,23,---,---,5,7,very bright,very bright,"medium, light"
+Acacia calcicola,22,32,150,100,25,21,---,---,6,7.5,very bright,very bright,heavy
+Acacia cambagei,20,30,200,500,16,16,---,---,6,7.5,very bright,very bright,"heavy, medium"
+Acacia catechu,25,35,700,2100,25,25,---,---,5,6,very bright,very bright,"medium, light"
+Acacia cincinnata,22,32,1500,3000,16,16,---,---,5,6,very bright,clear skies,light
+Acacia coriacea,24,32,300,500,16,16,---,---,6.5,7.5,very bright,very bright,light
+Acacia cowleana,24,35,250,400,19,17,---,---,5.5,7,very bright,very bright,light
+Acacia crassicarpa,24,32,1500,3000,8,8,---,---,4.5,5.5,very bright,clear skies,"medium, light"
+Acacia cyclops,18,26,400,800,25,25,---,---,6.5,7.5,very bright,very bright,light
+Acacia dealbata,15,26,600,1000,29,29,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Acacia dictyophleba,22,30,200,400,10,10,---,---,5,6.5,very bright,very bright,"medium, light"
+Acacia difficilis,22,35,650,1100,11,11,---,---,5,6.5,very bright,clear skies,"medium, light"
+Acacia erioloba,15,35,250,700,22,20,---,---,6.5,7.5,clear skies,very bright,light
+Acacia falciformis,18,32,600,800,26,17,---,---,5.5,7,very bright,clear skies,"medium, light"
+Acacia fasciculifera,18,32,675,800,19,19,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Acacia flavescens,22,34,1000,2200,11,11,---,---,5,6.5,very bright,clear skies,"medium, light"
+Acacia glaucocaesia,14,30,300,350,19,19,---,---,6.5,7.5,very bright,very bright,medium
+Acacia glaucocarpa,18,35,650,800,23,23,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Acacia harpophylla,18,28,450,600,20,19,---,---,5.5,7.5,very bright,very bright,heavy
+Acacia irrorata,18,32,750,1000,25,25,---,---,5.5,6.5,very bright,clear skies,heavy
+Acacia jennerae,12,30,250,300,20,20,---,---,5.5,7,very bright,very bright,light
+Acacia jensenii,12,30,300,400,18,18,---,---,5,6,very bright,very bright,light
+Acacia julifera ssp. gilbertensis,24,35,800,1000,17,17,---,---,5,6,very bright,clear skies,light
+Acacia julifera ssp. julifera,20,32,800,1100,20,20,---,---,5,6,very bright,clear skies,light
+Acacia karroo,19,33,400,1300,12,10,---,---,6.5,8.5,clear skies,very bright,"heavy, medium"
+Acacia laeta,24,32,300,650,11,11,---,---,5.5,7,very bright,very bright,"medium, light"
+Acacia latzii,22,35,150,200,24,24,---,---,7.5,8,very bright,very bright,"medium, light"
+Acacia leptocarpa,22,33,750,1500,80,-,---,---,4.5,6,very bright,clear skies,"medium, light"
+Acacia leucophloea,22,32,900,1700,-,-,---,---,6,7,very bright,very bright,"heavy, medium, light"
+Acacia ligulata,18,33,125,225,17,17,---,---,7,8,very bright,very bright,"medium, light"
+Acacia macdonnelliensis,24,33,200,250,21,21,---,---,5,6.5,very bright,very bright,light
+Acacia maconochieana,24,36,250,350,25,25,---,---,6.5,7.5,very bright,very bright,heavy
+Acacia maidenii,17,32,900,1200,21,21,---,---,5.5,6.5,very bright,clear skies,"heavy, organic"
+Acacia mangium,22,34,2000,3000,1,1,---,---,5,6.5,very bright,clear skies,medium
+Acacia mearnsii,18,30,700,1600,20,-,---,---,5,6.5,very bright,cloudy skies,"heavy, medium, light"
+Acacia melanoxylon,18,22,800,2200,34,17,---,---,6,6.5,very bright,cloudy skies,"medium, light"
+Acacia millifera,22,32,450,600,10,10,---,---,7,8,very bright,very bright,"heavy, medium"
+Acacia monticola,20,32,250,450,16,16,---,---,6,7,very bright,very bright,"heavy, medium, light"
+Acacia murrayana,12,34,200,400,21,21,---,---,5.5,7.5,very bright,very bright,light
+Acacia neriifolia,22,32,600,700,23,23,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Acacia nilotica,19,34,400,1200,-,-,---,---,6.5,8,very bright,very bright,"heavy, medium, light"
+Acacia oraria,22,32,1500,2000,14,8,---,---,5,6.5,very bright,clear skies,light
+Acacia pachyacra,12,30,200,300,22,22,---,---,6,7,very bright,very bright,"medium, light"
+Acacia parchcarpa,25,37,225,300,19,19,---,---,6.5,7.5,very bright,very bright,heavy
+Acacia pendula,20,30,400,700,20,20,---,---,7,8,very bright,very bright,"heavy, medium"
+Acacia plectocarpa,22,35,600,1400,11,11,---,---,5,6,very bright,very bright,light
+Acacia podalyriifolia,18,32,700,1000,23,23,---,---,5,6,very bright,clear skies,"medium, light"
+Acacia polystachya,24,32,1200,2000,10,10,---,---,5,6,very bright,clear skies,light
+Acacia pruinocarpa,22,35,200,250,19,19,---,---,6,7,very bright,very bright,light
+Acacia pycnantha,20,28,1000,1600,30,30,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Acacia rothii,24,34,1400,1600,11,11,---,---,5,6.5,very bright,clear skies,"medium, light"
+Acacia salicina,24,30,400,600,20,19,---,---,6,8,very bright,cloudy skies,"heavy, medium"
+Acacia saligna,20,32,400,700,28,25,---,---,5.5,7,very bright,cloudy skies,"medium, light"
+Acacia senegal,24,32,300,800,11,11,---,---,5,7,very bright,clear skies,"medium, light"
+Acacia seyal,24,32,1000,1700,-,-,---,---,6.5,7.5,very bright,clear skies,heavy
+Acacia shirleyi,18,36,500,650,14,14,---,---,4.5,6.5,very bright,very bright,light
+Acacia silvestris,15,25,800,1000,35,35,---,---,6,7,very bright,clear skies,"medium, light"
+Acacia simsii,22,32,1000,1600,3,3,---,---,5,6,very bright,clear skies,light
+Acacia stenophylla,18,32,200,600,23,17,---,---,7,8,very bright,very bright,heavy
+Acacia synchronicia,18,28,300,600,16,16,---,---,7,8,very bright,very bright,"heavy, medium"
+Acacia tephrina,22,38,400,500,18,18,---,---,7,8,very bright,very bright,"heavy, medium"
+Acacia tortilis,28,45,300,800,15,15,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Acacia torulosa,22,36,400,700,11,11,---,---,5,7.5,very bright,clear skies,light
+Acacia trachycarpa,22,32,250,350,20,20,---,---,7,8,very bright,very bright,"medium, light"
+Acacia tumida,22,36,400,1000,11,11,---,---,7,8,very bright,clear skies,light
+Acacia victoriae,12,32,300,800,14,14,---,---,6,7.5,very bright,clear skies,"heavy, medium, light"
+Acacia xiphohylla,24,36,200,250,23,21,---,---,7,8,very bright,very bright,heavy
+Acanthosicyos naudinianus,15,30,150,500,12,10,---,---,6,6.5,clear skies,very bright,light
+Acanthus ilicifolius,18,26,1500,2500,-,-,---,---,6.8,7.2,very bright,clear skies,heavy
+Acanthus mollis,15,30,500,800,30,30,---,---,5,7,light shade,cloudy skies,medium
+Acca sellowiana,18,21,750,1500,12,10,---,---,5.5,7,clear skies,very bright,"medium, organic"
+Acehmea magdalenae,24,30,900,1300,-,-,---,---,5.5,6.5,very bright,light shade,"light, organic"
+Acer caesium,15,21,1000,1800,20,20,---,---,4.5,5.5,very bright,clear skies,medium
+Acer saccharum,14,24,700,1300,-,-,---,---,6,6.5,very bright,clear skies,medium
+Achnatherum splendens,8,15,300,400,25,25,---,---,7,8,very bright,clear skies,"medium, light"
+Acmena smithii,18,28,1000,1700,11,11,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Acorus calamus,18,26,7000,2000,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Acrocarpus fraxinifolius,28,35,1200,1500,23,23,---,---,5.5,6.5,very bright,clear skies,medium
+Acroceras macrum,16,26,800,1500,-,-,---,---,4.8,5.8,clear skies,cloudy skies,"heavy, medium, light"
+Acrocomia aculeata,25,35,1000,2000,-,-,---,---,5.5,6.5,very bright,very bright,light
+Acrocomia totai,22,28,900,1500,12,10,---,---,5.5,6.5,clear skies,very bright,light
+Actinidia arguta,12,25,900,1500,27,25,---,---,5,6.5,cloudy skies,very bright,"medium, light, organic"
+Adansonia digitata,26,36,600,1500,-,-,---,---,5,6.5,very bright,very bright,"medium, light"
+Adansonia grandidieri,22,30,1000,1500,13,12,---,---,5.5,7,clear skies,very bright,"medium, organic"
+Adansonia gregorii,24,34,600,1500,14,14,---,---,5,6.5,very bright,very bright,light
+Adina cordifolia,25,35,1000,2000,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Adonis vernalis,14,30,400,750,44,42,---,---,7,7.5,cloudy skies,very bright,"medium, light"
+Aegiceras corniculatum,18,26,1000,2000,-,-,---,---,6.8,7.2,very bright,very bright,heavy
+Aegle marmelos,30,42,800,2000,-,-,---,---,6,7.5,very bright,cloudy skies,heavy
+Aeschynomene falcata,20,25,1000,1500,15,-,---,---,5.5,6,clear skies,clear skies,"heavy, medium, light"
+Aeschynomene indica,18,30,1000,1200,5,-,---,---,5.5,6.5,clear skies,clear skies,"heavy, medium"
+Aesculus indica,23,26,1000,2000,26,25,---,---,4.5,5,clear skies,light shade,"medium, light"
+Aframomum corrorima,16,24,1400,2000,5,-,---,---,5.5,6.5,cloudy skies,light shade,"medium, organic"
+Aframomum melegueta,21,28,1500,1900,5,-,---,---,5.5,6.5,clear skies,cloudy skies,"heavy, medium"
+Afzelia africana,20,32,1200,1800,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Afzelia quanzensis,18,28,700,1400,-,-,---,---,5,7,clear skies,very bright,light
+Agathis dammara,28,34,2500,3500,-,-,---,---,5.5,6.5,very bright,cloudy skies,"heavy, medium, light"
+Agathis labillardieri,24,32,2500,4000,12,10,---,---,5,6,very bright,clear skies,"light, organic"
+Agathis microstachya,22,30,2000,2700,17,15,---,---,5,6,very bright,clear skies,"heavy, medium"
+Agave cantala,17,30,1000,2000,-,-,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Agave fourcroydes,15,30,900,1250,15,15,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Agave lecheguilla,15,25,450,600,20,20,---,---,6.5,7.5,very bright,very bright,"heavy, medium, light"
+Agropyron cristatum,15,25,250,400,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Agropyron dasystachyum,15,25,400,700,30,30,---,---,5.5,7,very bright,clear skies,light
+Agropyron desertorum,15,20,250,400,35,35,---,---,5.8,6.5,very bright,cloudy skies,"medium, light"
+Agropyron elongatum,12,20,350,600,30,30,---,---,6.5,8,very bright,clear skies,"heavy, medium, light"
+Agropyron mongolicum,12,20,150,300,30,35,---,---,7,8,very bright,very bright,"heavy, medium, light"
+Agropyron repens,10,20,550,750,-,-,---,---,6,6.5,very bright,clear skies,"heavy, medium, light"
+Agropyron riparium,10,18,500,800,-,-,---,---,6,7,very bright,clear skies,light
+Agropyron sibiricum,15,20,200,600,-,-,---,---,6,7,very bright,clear skies,light
+Agropyron smithii,7,20,400,600,35,35,---,---,6.5,8,very bright,clear skies,heavy
+Agropyron spicatum,12,20,250,500,-,-,---,---,6,7,very bright,cloudy skies,"medium, light"
+Agropyron tauri,15,20,350,600,-,-,---,---,7,8,very bright,clear skies,"heavy, medium, light"
+Agropyron trachycaulum,13,22,500,700,-,-,---,---,6,7,very bright,clear skies,"medium, light"
+Agropyron trichophorum,15,20,250,600,-,-,---,---,6.5,7.5,very bright,clear skies,"heavy, medium, light"
+Agrostis canina,9,20,500,900,42,40,---,---,4.5,6.5,very bright,clear skies,"heavy, medium, organic"
+Agrostis gigantea,12,21,500,900,42,40,---,---,5,7,very bright,clear skies,"heavy, medium, light"
+Agrostis tenuis,10,20,400,800,35,30,---,---,4.5,7.5,very bright,clear skies,"heavy, medium"
+Agrostis trinii,8,15,200,500,40,40,---,---,4.5,5.5,very bright,clear skies,"medium, light"
+Ailanthus altissima,14,28,400,600,30,30,---,---,5,7,very bright,cloudy skies,"heavy, medium, light"
+Ailanthus excelsa,20,40,600,1900,10,10,---,---,5,6,very bright,very bright,"medium, light"
+Ailanthus grandis,30,38,3000,4000,10,10,---,---,5,6,very bright,very bright,medium
+Albizia adianthifolia,22,28,1500,2500,-,-,---,---,4.5,6.5,clear skies,very bright,"medium, light"
+Albizia chevalieri,24,30,600,900,12,10,---,---,5.5,6.5,clear skies,very bright,light
+Albizia chinensis,22,32,2500,3500,-,-,---,---,5.5,7.3,very bright,clear skies,"heavy, medium, light"
+Albizia lophantha,18,26,700,1000,30,30,---,---,7,7.5,very bright,clear skies,light
+Albizia lucida,20,34,2000,2400,25,25,---,---,5.5,6.5,clear skies,cloudy skies,medium
+Albizia odoratissima,24,37,1000,1500,20,20,---,---,5.5,6.5,very bright,cloudy skies,"heavy, medium, light"
+Albizia pullenii,24,30,2500,3000,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium, light"
+Albizia toona,22,32,1000,1750,10,10,---,---,5.5,6.5,very bright,clear skies,light
+Allium chinense,15,26,1500,2500,30,10,---,---,5.5,6.5,very bright,clear skies,light
+Alnus acuminata,15,28,1500,2500,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, organic"
+Alnus japonica,18,32,1500,2000,20,20,---,---,5,6.5,very bright,cloudy skies,medium
+Alnus nepalensis,15,28,1000,2000,15,15,---,---,5.5,7,very bright,cloudy skies,medium
+Alnus rubra,17,32,1000,2000,30,30,---,---,5.5,7,very bright,very bright,medium
+Aloe arborescens,18,26,400,1500,22,20,---,---,5,6.5,clear skies,very bright,"medium, light"
+Aloe barbadensis,19,27,1900,3000,-,-,---,---,6.5,7.5,very bright,very bright,medium
+Aloe ferox,18,26,500,600,20,20,---,---,6.5,7,very bright,clear skies,light
+Aloe perryi,22,27,400,700,-,-,---,---,6.5,7,very bright,clear skies,light
+Alopecurus arundinaceus,9,18,500,800,-,-,---,---,6,6.5,very bright,cloudy skies,medium
+Alopecurus geniculatus,10,15,600,1000,37,35,---,---,4.5,7,clear skies,very bright,"heavy, organic"
+Alopecurus pratensis,9,22,600,1000,28,28,---,---,5,7.5,very bright,clear skies,medium
+Aloysia triphylla,18,28,600,1800,20,10,---,---,5.5,7,clear skies,very bright,medium
+Alpinia galanga,27,32,2500,3000,-,-,---,---,5.5,6.5,clear skies,light shade,"heavy, medium, light"
+Alpinia officinarum,19,27,1500,3000,20,20,---,---,4.5,5.5,clear skies,light shade,"heavy, medium, light"
+Altingia excelsa,20,32,2000,3000,-,-,---,---,5,6,very bright,clear skies,"heavy, medium"
+Alysicarpus rugosus,22,30,900,1400,5,-,---,---,6,7,clear skies,very bright,"heavy, medium"
+Alysicarpus vaginalis,22,30,1000,2000,-,-,---,---,5.5,6.5,clear skies,clear skies,"medium, light"
+Amaranthus hybridus,12,30,400,600,-,-,---,---,6.5,7.5,very bright,very bright,medium
+Amaranthus hypochondriacus,19,23,1000,1600,10,10,---,---,6,7,clear skies,clear skies,"heavy, medium, light, organic"
+Aronia alnifolia,15,20,650,1100,37,35,---,---,5.5,7,cloudy skies,very bright,"medium, light"
+Ammandra natalia,21,26,2500,4500,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Ammophila arenaria,9,20,700,900,35,35,---,---,5,6,very bright,clear skies,light
+Ammophila breviligulata,9,18,800,1000,40,40,---,---,5,6,very bright,clear skies,light
+Andropogon gayanus,22,28,750,1400,-,-,---,---,4.5,6.5,very bright,clear skies,medium
+Andropogon gerardii var. gerardii,10,20,700,1200,35,35,---,---,5.5,6.5,very bright,very bright,medium
+Andropogon hallii,10,20,700,900,30,30,---,---,6,7,very bright,very bright,light
+Angelica archangelica,5,19,700,1100,60,50,---,---,5.5,6.5,very bright,clear skies,"medium, organic"
+Angophora costata,18,28,800,1000,21,21,---,---,5.5,6.5,very bright,very bright,light
+Angophora floribunda,18,30,650,850,23,23,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Anisoptera scaphula,20,33,2000,3000,-,-,---,---,5,6,very bright,clear skies,"heavy, medium"
+Annona atemoya,24,28,2000,3000,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Annona montana,16,26,900,1700,10,-,---,---,5.5,7,very bright,clear skies,"medium, light"
+Annona scleroderma,23,26,3500,4500,10,-,---,---,5.5,6.5,clear skies,very bright,medium
+Annona senegalensis,17,30,700,2500,-,-,---,---,5.5,7,cloudy skies,very bright,"medium, light"
+Anogeissus acuminata,22,32,1500,2500,-,-,---,---,5,6.5,very bright,clear skies,"medium, light"
+Anogeissus latifolia,22,33,800,1400,10,10,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Anogeissus pendula,25,35,500,800,-,-,---,---,6,7,very bright,cloudy skies,"medium, light"
+Anthemis nobilis,15,26,600,1000,30,30,---,---,6,7,very bright,very bright,"medium, organic"
+Anthephora pubescens,16,28,350,600,20,15,---,---,5.8,7.2,very bright,very bright,"medium, light"
+Anthocephalus macrophyllus,20,32,2500,4000,-,-,---,---,5.5,6.5,very bright,very bright,medium
+Anthocleista nobilis,22,30,1100,2000,5,5,---,---,5.5,6.5,very bright,very bright,"heavy, medium, light"
+Anthriscus cerefolium,7,21,600,1100,40,40,---,---,6,7,cloudy skies,light shade,"heavy, medium, light"
+Anthyllis vulneraria,14,20,600,900,25,20,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Apios americana,10,20,1000,1200,30,25,---,---,5,7.5,clear skies,very bright,medium
+Apium graveolens var. rapaceum,15,25,1000,1200,35,35,---,---,6,6.8,very bright,cloudy skies,"medium, organic"
+Aquilaria malaccensis,18,24,-,-,-,-,---,---,6.5,7.5,,,light
+Arachis glabrata,20,28,1000,2000,13,-,---,---,5,6,very bright,very bright,"heavy, medium, light"
+Arachis pintoi,22,28,1500,2000,12,-,---,---,5.4,6,cloudy skies,light shade,"medium, light"
+Araucaria angustifolia,18,23,1500,2000,19,19,---,---,5.5,6.5,very bright,very bright,medium
+Araucaria bidwillii,18,28,1200,1700,16.3,16.3,---,---,5,6.5,very bright,cloudy skies,"heavy, medium"
+Araucaria hunsteinii,24,32,2000,3000,5,5,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Archidendron jiringa,20,30,2000,3000,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Archontophoenix cunningham,20,28,1100,1400,25,25,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Arenga pinnata,22,28,3000,3500,-,-,---,---,6,7,very bright,clear skies,"heavy, medium"
+Argania sideroxylon,20,30,200,300,20,20,---,---,6.5,7.5,very bright,very bright,"heavy, medium, light, wide"
+Argyrodendron actinophyllum,18,28,1100,1400,27,27,---,---,5,6.5,very bright,clear skies,light
+Argyrodendron peralatum,20,30,2000,3000,15.5,15.5,---,---,5,6,very bright,very bright,medium
+Aristida adscensionis,18,28,300,400,-,-,---,---,7,8,very bright,very bright,light
+Aristida ciliata,20,26,250,400,30,30,---,---,7,8,very bright,very bright,light
+Aristida lanata,20,26,250,400,34,34,---,---,7,8,very bright,very bright,light
+Aristida latifolia,22,30,400,500,15,10,---,---,7,7.5,very bright,very bright,heavy
+Aristida obtusa,20,26,200,300,15,15,---,---,7,8,very bright,very bright,light
+Aristida pennata,20,26,250,400,25,25,---,---,7,8,very bright,very bright,light
+Aristida plumosa,20,26,250,400,28,28,---,---,7,8,very bright,very bright,light
+Aristida pungens,20,26,200,400,10,10,---,---,7,8,very bright,very bright,light
+Aristida raddiana,20,26,250,400,27,27,---,---,7,8,very bright,very bright,light
+Armoracia rusticana,14,20,600,900,20,10,---,---,6,7,very bright,very bright,"medium, light"
+Arnica montana,8,15,500,800,45,38,---,---,5.5,7,cloudy skies,light shade,medium
+Arracacia xanthorrhiza,14,21,800,1200,-,-,---,---,5,6,very bright,clear skies,"light, organic"
+Arrhenatherum elatius,14,25,500,900,20,20,---,---,5.5,6.5,very bright,cloudy skies,"heavy, medium, light"
+Artemisia abrotanum,11,22,500,900,35,35,---,---,5.5,6,very bright,clear skies,medium
+Artemisia afra,22,30,550,750,-,-,---,---,5.5,6,very bright,very bright,"medium, light"
+Artemisia annua,13,29,600,1300,32,30,---,---,6,8,clear skies,very bright,"medium, light"
+Artemisia dracunculus,12,22,500,1000,30,30,---,---,5.5,7,very bright,very bright,"medium, light"
+Artocarpus altilis,21,33,1500,3000,-,-,---,---,5.5,6.5,very bright,light shade,"heavy, medium, light, organic"
+Artocarpus chaplasha,22,32,3000,4000,20,20,---,---,5,6.5,very bright,clear skies,medium
+Artocarpus hirsutus,22,32,2500,3500,10,8,---,---,5,6.5,very bright,clear skies,"heavy, medium, light"
+Artocarpus integer,22,38,2200,3500,-,-,---,---,4.5,6,clear skies,light shade,"heavy, medium, light"
+Artocarpus lakoocha,22,32,1500,3000,20,20,---,---,5,6.5,very bright,clear skies,medium
+Arundinaria pusilla,16,28,1000,1400,13,13,---,---,5.5,6.3,very bright,light shade,"medium, light"
+Arundinella hirta,17,30,250,1500,41,37,---,---,6,8,very bright,clear skies,"medium, light"
+Asclepias tuberosa,14,24,400,800,28,27,---,---,5,7,clear skies,very bright,light
+Asparagus densiflorus,21,27,1000,1400,25,25,---,---,6,7,very bright,very bright,medium
+Astragalus cicer,14,25,600,800,40,35,---,---,6,7,very bright,cloudy skies,"medium, light"
+Astragalus gummifer,15,22,250,450,-,-,---,---,7,8,very bright,very bright,light
+Astragalus sinicus,15,25,500,1000,24,22,---,---,5,7,clear skies,very bright,"heavy, medium"
+Astrebla elymoides,25,32,250,550,18,18,---,---,7,8,very bright,very bright,heavy
+Astrebla lappacea,25,32,250,550,18,18,---,---,7,8,very bright,very bright,heavy
+Astrebla pectinata,23,30,250,550,18,18,---,---,7,8,very bright,very bright,heavy
+Astrebla squarrosa,25,32,250,550,18,18,---,---,7,8,very bright,very bright,heavy
+Astrocaryum jauari,24,28,1800,2300,-,-,---,---,4.5,5.5,very bright,clear skies,"heavy, medium, light"
+Astrocaryum vulgare,20,28,1300,1800,-,-,---,---,5,7,cloudy skies,very bright,medium
+Atalaya hemiglauca,18,39,250,600,14,14,---,---,6,7.5,very bright,very bright,"medium, light"
+Atherosperma moschatum,14,20,1300,1700,23,32,---,---,5,6,very bright,clear skies,"heavy, medium"
+Athrotaxis selaginoides,15,22,1500,2500,41.5,41.5,---,---,4.5,6,very bright,clear skies,"medium, organic"
+Atriplex canescens,12,17,250,450,-,-,---,---,7.6,7.9,very bright,very bright,"medium, light"
+Atriplex confertifolia,12,30,150,250,25,20,---,---,7.5,8,very bright,very bright,"heavy, medium"
+Atriplex gardneri,12,17,150,300,35,30,---,---,7,7.5,very bright,very bright,"heavy, medium"
+Atriplex glauca,16,28,300,450,-,-,---,---,7.2,7.8,very bright,very bright,"heavy, medium"
+Atriplex halimus,16,28,300,700,25,25,---,---,7.2,7.8,very bright,very bright,"heavy, medium"
+Atriplex hortensis,12,28,500,800,42,36,---,---,6.5,7.5,very bright,very bright,light
+Atriplex lentiformis,12,24,200,250,20,20,---,---,7,8,very bright,very bright,heavy
+Atriplex nummularia,16,28,200,600,25,25,---,---,7.5,8,very bright,very bright,"heavy, medium"
+Atriplex vesicaria,16,28,400,600,-,-,---,---,7.2,7.8,very bright,very bright,"heavy, medium, light"
+Attalea cohune,22,28,1500,3000,10,9,---,---,5,7,clear skies,very bright,light
+Attalea funifera,22,25,1800,2000,13,13,---,---,5,5.5,very bright,clear skies,"medium, light"
+Aucoumea klaineana,28,36,2000,2500,-,-,---,---,5,6,very bright,very bright,"heavy, medium, light"
+Avena byzantina,18,24,600,900,20,20,---,---,5.5,7,very bright,very bright,"heavy, medium, light"
+Avena fatau,12,20,600,1000,-,-,---,---,5,6.5,very bright,very bright,"heavy, medium, light"
+Avena nuda,16,22,600,1100,42,40,---,---,5.5,7.7,clear skies,very bright,"heavy, medium"
+Avena sterilis,12,32,500,800,-,-,---,---,6.5,7.5,very bright,clear skies,"heavy, medium, light"
+Avicennia germinans,20,30,1500,2500,10,10,---,---,6.5,7,very bright,clear skies,heavy
+Avicennia marina,20,34,1500,2500,-,-,---,---,6.5,7,very bright,very bright,heavy
+Axonopus affinis,27,32,1000,1800,10,10,---,---,4.8,5.6,very bright,clear skies,"medium, light, organic"
+Axonopus scoparius,18,28,1500,2000,-,-,---,---,5.5,6.5,very bright,clear skies,"light, organic"
+Azadirachta indica,26,40,450,1200,-,-,---,---,5.5,7,very bright,clear skies,"heavy, medium, light"
+Azanza garckeana,15,30,250,750,-,-,---,---,5,7,very bright,very bright,"medium, light"
+Azolla pinnata,20,35,-,-,-,-,---,---,4,10,light shade,cloudy skies,
+Baccaurea motleyana,24,28,1500,3500,-,-,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Baccaurea racemosa,21,28,2500,2500,-,-,---,---,5,5.5,very bright,clear skies,"heavy, medium, light"
+Baccaurea ramiflora,24,28,1500,3500,-,-,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Balanites aegyptiaca,20,35,300,800,-,-,---,---,7,8,very bright,very bright,"heavy, medium"
+Bambusa arundinacea,22,30,1200,2500,15,-,---,---,4.5,6.5,cloudy skies,light shade,"heavy, medium"
+Bambusa balcooa,22,28,2300,3000,15,-,---,---,5,6,clear skies,cloudy skies,"heavy, medium"
+Bambusa blumeana,18,32,1500,4000,-,-,---,---,5,6.5,clear skies,very bright,heavy
+Bambusa longispiculata,22,28,2300,3000,15,-,---,---,5,6,clear skies,cloudy skies,"heavy, medium"
+Bambusa nutans,22,28,2300,3000,15,-,---,---,6,7,clear skies,cloudy skies,heavy
+Bambusa polymorpha,22,28,1200,2500,15,-,---,---,5,6,cloudy skies,light shade,"heavy, medium"
+Bambusa tulda,22,28,1200,2500,15,-,---,---,5,6,cloudy skies,light shade,"heavy, medium"
+Banksia integrifolia,18,32,850,1600,16,61,---,---,5,6.5,very bright,clear skies,"medium, light"
+Baphia nitida,24,30,1500,2400,5,-,---,---,5,5.5,very bright,cloudy skies,medium
+Bassia latifolia,20,30,1000,1600,5,5,---,---,6,7,very bright,very bright,light
+Bauhinia esculenta,24,30,800,1200,-,-,---,---,6,7,very bright,cloudy skies,light
+Bauhinia racemosa,24,36,1000,1800,15,15,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Bauhinia rufescens,30,40,400,1000,-,-,---,---,5.5,7.5,clear skies,very bright,"heavy, medium, light"
+Beckmannia eruciformis,11,20,500,1300,32,30,---,---,5.8,7.2,cloudy skies,very bright,"medium, light"
+Beckmannia syzigachne,9,20,500,800,40,40,---,---,6,7,very bright,very bright,medium
+Berchemia discolor,14,30,400,1000,-,-,---,---,5,7,clear skies,very bright,"heavy, medium, light, wide"
+Berrya cordifolia,26,32,2700,3300,15,15,---,---,6,7,very bright,cloudy skies,medium
+Bertholletia excelsa,20,36,2400,2800,-,-,---,---,5.5,7,clear skies,cloudy skies,"heavy, medium"
+Beta vulgaris var. crassa,15,25,800,1500,30,10,---,---,6,6.8,very bright,clear skies,"medium, light"
+Beta vulgaris var. flavescens,20,30,500,750,30,10,---,---,6,7,very bright,very bright,"medium, organic"
+Betula pubescens,10,18,400,900,44,40,---,---,4.5,7.5,clear skies,very bright,"medium, organic"
+Boehmeria nivea,17,27,1500,2500,9,6,---,---,5.4,6.5,very bright,cloudy skies,"medium, organic"
+Boesenbergia rotunda,18,30,1200,3000,-,-,---,---,6,7,cloudy skies,clear skies,"medium, light, organic"
+Bombacopsis quinata,21,32,1000,1600,2,2,---,---,5.5,7,very bright,very bright,"heavy, medium, light"
+Bombax ceiba,28,42,750,4000,5,5,---,---,5.5,6.5,very bright,very bright,medium
+Bombax insigne,30,35,1500,2500,5,5,---,---,6,6.5,very bright,very bright,light
+Borago officinalis,15,22,500,1000,30,20,---,---,6.5,7.5,very bright,very bright,"heavy, organic"
+Borassus flabellifer,24,32,1000,1500,-,-,---,---,7,7.5,very bright,very bright,light
+Borojoa patinoi,20,28,3000,6000,1,-,---,---,4.5,6.5,cloudy skies,clear skies,"heavy, medium"
+Boswellia serrata,33,42,1000,1500,5,5,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Bothriochloa insculpta,15,25,600,1000,-,-,---,---,6,7,very bright,clear skies,"heavy, medium"
+Bothriochloa pertusa,14,27,600,1000,10,10,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Bougainvillea glabra,18,25,1000,2000,-,-,---,---,6,7,clear skies,very bright,medium
+Bouteloua curtipendula,13,22,600,1000,-,-,---,---,6,7,very bright,cloudy skies,light
+Bouteloua gracilis,12,27,500,900,10,-,---,---,5.5,7,very bright,cloudy skies,light
+Brachiaria dura,30,35,875,1000,14,14,---,---,5,6,clear skies,light shade,light
+Brachiaria radicans,22,28,1500,2000,20,-,---,---,4.5,5,very bright,very bright,medium
+Brachiaria ramosa,17,26,500,800,-,-,---,---,7,7.5,very bright,light shade,light
+Brachychiton acerifolius,26,32,1400,1900,15,13,---,---,6,7,very bright,clear skies,medium
+Brachystegia spiciformis,14,28,600,1100,-,-,---,---,5.5,7,very bright,very bright,"medium, light"
+Brassica campestris,17,30,700,1000,-,-,---,---,6,7,very bright,very bright,"heavy, medium, light"
+Brassica carinata,10,25,1000,1500,-,-,---,---,5.5,8,,,"medium, organic"
+Brassica napus var. napobrassica,14,24,700,1000,-,-,---,---,5.5,7,very bright,cloudy skies,"medium, light"
+Brassica oleracea var. acephala,15,22,450,1000,20,-,---,---,5.4,6,clear skies,clear skies,"heavy, medium, light, organic"
+Brassica rapa Gaisin gr.,20,25,900,1400,20,20,---,---,5.5,6.5,clear skies,clear skies,"medium, light"
+Brassica rapa Pak Choi,20,25,900,1400,20,20,---,---,5.5,7,very bright,clear skies,"medium, light"
+Brassica rapa var. rapifera,10,17,900,1400,35,-,---,---,6,6.8,clear skies,clear skies,"medium, light"
+Bridelia micrantha,18,28,800,2500,-,-,---,---,5,7,clear skies,very bright,"heavy, medium, light, wide, organic"
+Bromus carinatus,10,18,500,900,30,30,---,---,6,7,very bright,cloudy skies,medium
+Bromus inermis,12,25,600,1000,-,-,---,---,5.5,7,very bright,cloudy skies,"medium, light"
+Bromus marginatus,10,21,400,800,20,20,---,---,6,6.6,very bright,clear skies,medium
+Bromus tomentellus,12,19,400,1000,-,-,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Bromus unioloides,14,24,600,1000,20,-,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Buchanania latifolia,32,42,1000,1500,10,10,---,---,5.5,6,clear skies,light shade,medium
+Buchloe dactyloides,17,25,400,800,-,-,---,---,7,7.5,very bright,very bright,heavy
+Buckinghamia celsissima,22,32,1300,1800,15,15,---,---,5,6,very bright,clear skies,"heavy, organic"
+Bursera simaruba,18,28,600,2000,5,5,---,---,5,6.5,very bright,clear skies,"light, wide"
+Butea monosperma,20,38,1000,3000,-,-,---,---,6,7,very bright,clear skies,"heavy, medium"
+Butomus umbellatus,15,24,400,1000,44,42,---,---,5,8,clear skies,very bright,"heavy, medium, light, wide, organic"
+Butyrospermum paradoxum ssp. parkii,29,38,500,1000,10,10,---,---,6,7,very bright,very bright,"heavy, medium, light, organic"
+Caesalpinia coriaria,18,30,1000,2000,-,-,---,---,6.5,7.5,very bright,very bright,"heavy, medium, light"
+Caesalpinia sappan,22,28,1300,2300,-,-,---,---,6,7,very bright,very bright,"heavy, medium, light"
+Calamagrostis epigeios,8,27,500,800,40,38,---,---,5,9,very bright,clear skies,"medium, light"
+Calamus caesius,23,30,2500,3200,-,-,---,---,5.5,7,clear skies,light shade,"heavy, organic"
+Calamus erinaceus,24,32,2500,4000,-,-,---,---,6.8,7.2,clear skies,light shade,"heavy, medium"
+Calamus peregrinus,22,30,1400,2200,15,15,---,---,4,4.5,clear skies,light shade,"medium, organic"
+Calathea allouia,22,31,1000,2000,-,-,---,---,6,7,very bright,clear skies,"medium, organic"
+Calendula officinalis,16,26,500,800,30,25,---,---,5.5,7,very bright,very bright,"medium, light"
+Calliandra calothyrsus,22,30,2000,4000,-,-,---,---,5,6,very bright,cloudy skies,"medium, light"
+Callitris columellaris,24,34,1000,1500,12,12,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Callitris endlicheri,18,32,550,800,24,24,---,---,5.5,6.5,very bright,clear skies,light
+Callitris glauca,22,30,350,600,23,23,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Callitris macleayana,20,28,1300,1700,27,16,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Callitris preissii var. Murray,16,33,350,450,33,33,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Callitris preissii ssp. preissii,20,28,650,850,33,33,---,---,5,6.5,very bright,clear skies,light
+Callitris preissii var. verrucosa,22,35,300,350,27,27,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Calophyllum apetalum,30,35,3000,6000,10,10,---,---,5,6,very bright,cloudy skies,medium
+Calophyllum brasiliense,20,30,1500,6000,-,-,---,---,5,7,clear skies,very bright,"heavy, medium, organic"
+Calophyllum elatum,28,33,4000,6000,10,10,---,---,5.5,6.5,very bright,cloudy skies,medium
+Calophyllum peekelii,20,30,2500,3000,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Calotropis procera,15,30,300,400,10,-,---,---,5.5,7,very bright,very bright,light
+Caltha palustris,14,23,600,900,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Camellia sinensis var. assamica,20,30,3000,4000,-,-,---,---,4.5,5.5,very bright,clear skies,"medium, organic"
+Camellia sinensis var. sinensis,20,30,1400,2000,-,-,---,---,4.5,5.5,very bright,clear skies,"heavy, medium, light"
+Campanula rapunculus,12,18,700,900,-,-,---,---,6.5,7,very bright,clear skies,light
+Canarium ovatum,22,34,2000,3000,-,-,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Cannabis sativa ssp. indica,15,28,600,1200,35,30,---,---,6,7,very bright,clear skies,"medium, organic"
+Capparis decidua,30,42,300,600,-,-,---,---,7,7.5,very bright,very bright,light
+Capparis spinosa,13,27,500,1000,30,30,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Capparis tomentosa,24,34,500,1000,10,5,---,---,6.5,8,very bright,very bright,"medium, light"
+Capsicum baccatum var. pendulum,20,26,600,1250,10,-,---,---,6,6.5,very bright,very bright,"heavy, medium"
+Capsicum chinense,20,26,600,1250,20,20,---,---,6,6.5,very bright,very bright,"heavy, medium"
+Capsicum pubescens,15,24,600,1250,-,-,---,---,6,6.5,very bright,very bright,"heavy, medium"
+Caragana intermedia,15,30,250,450,40,40,---,---,6,7,very bright,very bright,"medium, light"
+Caragana korshinskii,15,30,250,450,40,40,---,---,6,7,very bright,very bright,"medium, light"
+Caragana microphylla,15,30,250,500,40,40,---,---,6,7,very bright,very bright,"medium, light"
+Carallia lucida,22,32,2000,4000,10,10,---,---,5.5,6.5,cloudy skies,light shade,"heavy, medium"
+Carapa guianensis,20,30,1900,4000,-,-,---,---,5.5,7,very bright,very bright,"heavy, medium, light, wide, organic"
+Cardwellia sublimis F.Muell,22,30,2000,3000,16,16,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Carica pubescens,17,22,1000,1700,-,-,---,---,6,7,very bright,clear skies,"medium, organic"
+Cariniaria pyriformis,25,30,2500,3500,1,1,---,---,5,6,very bright,cloudy skies,"heavy, medium"
+Carissa carandas,23,30,1000,1400,-,-,---,---,6.5,8,very bright,cloudy skies,"medium, light"
+Carissa edulis,20,35,9000,1300,-,-,---,---,6.5,7.5,very bright,cloudy skies,"medium, light"
+Carissa macrocarpa,23,28,800,1200,20,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium, light"
+Carludovica palmata,24,32,1200,1800,-,-,---,---,5,6,cloudy skies,light shade,medium
+Carpinus betulus,10,20,500,1000,-,-,---,---,5,7,clear skies,very bright,medium
+Carum carvi,16,20,700,1000,-,-,---,---,6,7,very bright,clear skies,medium
+Caryocar nuciferum,21,28,1600,2000,-,-,---,---,6,6.5,very bright,clear skies,"medium, light"
+Caryodendron orinocense,20,29,1200,3000,-,-,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Caryota urens,24,32,1400,2400,-,-,---,---,6,7.5,very bright,light shade,medium
+Cassia auriculata,22,30,1200,1600,-,-,---,---,6,7,very bright,very bright,"medium, light"
+Cassia brewsteri,22,35,1000,1200,17,17,---,---,5,6,very bright,clear skies,medium
+Cassia rotundifolia,20,28,700,1500,-,-,---,---,5.5,6.2,very bright,very bright,light
+Cassia senna,22,28,750,1300,-,-,---,---,5.5,6.5,very bright,clear skies,light
+Cassia siamea,23,33,650,1500,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Cassia tomentosa,10,20,700,1500,-,-,---,---,5.5,6.5,clear skies,very bright,"heavy, medium, light, wide, organic"
+Castanea crenata,17,28,1100,1500,30,30,---,---,5.5,6,very bright,very bright,"medium, light"
+Castanea dentata,15,19,1000,1100,25,25,---,---,6,7,very bright,very bright,"medium, light"
+Castanea mollissima,15,26,1000,1400,35,30,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Castanea pumila,15,25,1100,1300,25,20,---,---,5.5,6,very bright,very bright,"medium, light"
+Casuarina campestris,18,30,250,350,25,25,---,---,6.5,7.5,very bright,very bright,"heavy, medium, light"
+Casuarina cristata,24,34,500,600,22,22,---,---,6.5,8,very bright,very bright,"heavy, medium"
+Casuarina cunninghamiana,20,36,600,1500,14,12,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Casuarina decaisneana,20,35,200,250,21.5,21.5,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Casuarina dielsiana,22,32,400,500,26,26,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Casuarina fraseriana,18,28,750,1000,31,31,---,---,5,6.5,very bright,cloudy skies,light
+Casuarina glauca,20,30,700,1300,25,-,---,---,4.5,7,very bright,very bright,"heavy, medium"
+Casuarina huegeliana,22,35,400,650,25,25,---,---,6,7,very bright,very bright,light
+Casuarina junghuhniana,20,28,1000,1600,-,-,---,---,4.5,7,very bright,clear skies,"medium, light"
+Casuarina littoralis,18,28,650,1250,10,10,---,---,5.5,7.5,very bright,clear skies,light
+Casuarina luehmannii,25,35,500,650,20,20,---,---,6,7,very bright,cloudy skies,"heavy, medium, light"
+Casuarina obesa,20,34,300,800,26,26,---,---,5.5,7,very bright,clear skies,"medium, light"
+Casuarina stricta,18,25,450,700,30,30,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Casuarina torulosa,20,30,1200,2200,15,15,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Catha edulis,18,24,800,1100,-,-,---,---,6.5,7.5,very bright,clear skies,medium
+Cedrus deodara,22,32,1000,1800,25,25,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Cenchrus biflorus,28,35,400,500,-,-,---,---,5.5,7,very bright,cloudy skies,light
+Cenchrus pennisetiformis,26,32,370,560,-,-,---,---,6.5,7.5,very bright,cloudy skies,"medium, light"
+Cenchrus setigerus,28,35,500,1000,-,-,---,---,7,7.5,very bright,cloudy skies,light
+Centrosema acutifolium,22,28,1000,2500,2,-,---,---,5,5.5,very bright,clear skies,"medium, light"
+Centrosema macrocarpum,22,28,1000,2500,-,-,---,---,5,6,very bright,cloudy skies,medium
+Centrosema pascuorum,22,32,700,1500,-,-,---,---,5.5,7.5,clear skies,cloudy skies,"heavy, medium, light, wide"
+Centrosema virginianum,22,30,500,1000,-,-,---,---,6,7,clear skies,clear skies,"heavy, medium, light"
+Cephaelis ipecacuanha,23,27,1300,1700,-,-,---,---,5,6,clear skies,cloudy skies,"heavy, medium, light, organic"
+Ceratonia siliqua,20,32,400,1000,27,25,---,---,6,7.5,very bright,clear skies,"medium, light"
+Ceratopetalum apetalum,20,28,1200,1800,28,28,---,---,4.5,6,very bright,clear skies,light
+Ceriops decandra,22,28,1500,3500,-,-,---,---,6.8,7.2,very bright,clear skies,heavy
+Ceriops tagal,20,30,1500,3000,-,-,---,---,6.8,7.2,very bright,clear skies,heavy
+Chamaedorea sp.,22,32,1500,3000,-,-,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Chamaedorea tepejilote,20,28,1000,2500,5,-,---,---,6.5,7.5,cloudy skies,light shade,"medium, organic"
+Chamaerops humilis,18,30,500,700,35,35,---,---,6.5,7.5,very bright,clear skies,heavy
+Chenopodium album ssp. album,12,18,800,1200,-,-,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Chenopodium ambrosioides,15,22,800,1500,20,-,---,---,6.5,7.5,very bright,clear skies,medium
+Chenopodium pallidicaule,10,16,500,800,-,-,---,---,6,7.5,very bright,clear skies,"medium, light"
+Chlorogalum pomeridianum,14,28,300,700,30,28,---,---,6.5,7.5,cloudy skies,very bright,"heavy, medium, light, wide, organic"
+Chlorophora excelsa,18,33,1000,1800,-,-,---,---,5,6.5,very bright,very bright,medium
+Chloroxylon swietenia,30,40,1000,1500,10,10,---,---,6,7,very bright,very bright,"medium, light"
+Chrysanthemum coccineum,12,20,800,1100,-,25,---,---,6,6.5,very bright,clear skies,medium
+Chrysanthemum coronarium var. coronarium,12,18,800,1300,30,20,---,---,6,6.5,very bright,cloudy skies,"heavy, medium"
+Chrysophyllum albidum,18,28,1300,2000,-,-,---,---,5,6.5,clear skies,very bright,"medium, light"
+Chrysopogon plumulosus,30,35,300,625,-,-,---,---,6.5,7.5,very bright,very bright,light
+Chukrasia velutina,25,35,1800,3000,10,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Cinchona calisaya,17,24,2500,3000,-,-,---,---,5,6,very bright,cloudy skies,"light, organic"
+Cinchona ledgeriana,17,24,2500,3000,-,-,---,---,5,6,very bright,cloudy skies,"light, organic"
+Cinchona officinalis,14,23,2500,3500,-,-,---,---,5.5,6.3,very bright,cloudy skies,"medium, light"
+Cinnamomum burmannii,20,28,2000,2500,-,-,---,---,5.5,6,very bright,clear skies,medium
+Cinnamomum cassia,15,32,1100,1500,10,10,---,---,5,5.5,very bright,clear skies,"medium, light"
+Cinnamomum loureirii,20,30,2500,3000,10,-,---,---,5,6.4,very bright,clear skies,"heavy, medium, light"
+Citrofortunella x microcarpa,15,28,1500,2000,-,-,---,---,6,6.5,very bright,clear skies,"medium, organic"
+Citrullus colocynthis,23,32,300,500,-,-,---,---,4.5,7.5,very bright,very bright,light
+Citrus deliciosa,22,26,1200,1500,20,20,---,---,5.5,6.2,very bright,very bright,medium
+Citrus latifolia,20,28,1200,1500,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Citrus madurensis,22,28,1500,2000,5,5,---,---,5.5,7,very bright,very bright,"medium, organic"
+Citrus unshiu,18,28,1200,1500,30,20,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Clausena lansium,22,30,2000,3000,-,-,---,---,5,6,very bright,clear skies,"medium, light"
+Cleistogenes chinensis,16,27,450,600,35,35,---,---,6,7.5,very bright,clear skies,medium
+Cleistogenes squarrosa,9,28,400,600,40,40,---,---,5,7.5,very bright,very bright,"heavy, medium, light"
+Cleistopholis glauca,28,36,2000,3500,-,-,---,---,5,6.5,very bright,very bright,"medium, light"
+Clinelymus dahuricus,18,28,400,500,40,40,---,---,6.5,8,very bright,very bright,light
+Clitoria laurifolia,21,28,700,1800,-,-,---,---,4.5,5,very bright,clear skies,"heavy, medium, light"
+Cnicus benedictus,18,26,600,800,40,40,---,---,6,7,very bright,very bright,"medium, light"
+Cnidoscolus chayamansa,20,32,1000,2000,15,10,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Cochlospermum religiosum,30,42,900,1500,5,5,---,---,5.5,6.5,very bright,very bright,light
+Cola acuminata,23,28,2000,3000,-,-,---,---,5,6,very bright,clear skies,"light, organic"
+Cola nitida,21,30,1400,2500,5,5,---,---,5,6,very bright,clear skies,"medium, organic"
+Colchicum autumnale,10,20,800,1000,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Coleus parviflorus,18,28,1500,1700,-,-,---,---,6,6.5,clear skies,cloudy skies,medium
+Colocasia esculenta var. antiquorum,19,25,1500,2000,-,-,---,---,5.5,6.5,clear skies,clear skies,"medium, organic"
+Colophospermum mopane,26,36,250,500,-,-,---,---,5.5,7.5,very bright,clear skies,"heavy, medium"
+Combretum aculeatum,20,30,300,700,-,-,---,---,6,7,very bright,very bright,"medium, light"
+Combretum micranthum,22,35,500,1300,10,5,---,---,6,7,very bright,very bright,"heavy, medium, light"
+Commiphora africana,23,33,400,800,-,-,---,---,6,7.5,very bright,very bright,"heavy, medium, light, wide, organic"
+Conocarpus erectus,20,30,1500,2500,-,-,---,---,5,7,very bright,clear skies,heavy
+Conocarpus lancifolius,22,38,350,500,10,8,---,---,6.5,7.5,very bright,very bright,light
+Copaifera langsdorfii,20,27,1000,4000,-,-,---,---,-,-,,,medium
+Corchorus capsularis,20,37,1500,3000,10,10,---,---,6.5,7,very bright,clear skies,"heavy, medium"
+Cordeauxia edulis,25,30,200,400,5,-,---,---,6.5,7.5,very bright,very bright,light
+Cordia africana,25,30,700,1500,-,-,---,---,5,6,very bright,very bright,"medium, organic"
+Cornus canadensis,10,18,800,1250,40,32,---,---,5.5,7.5,light shade,cloudy skies,medium
+Coronilla varia,15,28,600,800,30,25,---,---,6,7,clear skies,very bright,"heavy, medium"
+Corylus colurna var. colurna,16,28,900,1100,25,25,---,---,6.5,7.3,very bright,very bright,medium
+Corylus maxima,20,27,800,1200,-,-,---,---,6,6.5,very bright,very bright,medium
+Cotylelobium burckii,22,34,2100,2700,-,-,---,---,4,4.5,very bright,clear skies,light
+Cotylelobium lanceolatum,19,34,2100,2700,-,-,---,---,4,4.5,very bright,clear skies,"light, organic"
+Cotylelobium melanoxylon,22,34,2100,2700,-,-,---,---,4,4.5,very bright,clear skies,"medium, light"
+Coula edulis,25,35,1000,2000,-,-,---,---,5,6.5,clear skies,very bright,"heavy, medium, light, wide, organic"
+Crambe abyssinica,15,25,800,1500,30,-,---,---,6,7.5,very bright,very bright,medium
+Crambe cordifolia,15,24,500,800,-,-,---,---,6.5,8,clear skies,very bright,"heavy, medium, organic"
+Crambe maritima,14,24,600,1000,40,40,---,---,6.5,7.5,very bright,very bright,light
+Crocus sativus,7,19,800,900,30,30,---,---,6,7,very bright,clear skies,medium
+Crotalaria brevides var. brevides,16,26,1400,2000,20,-,---,---,6,6.5,very bright,cloudy skies,"medium, light"
+Crotalaria lanceolata,20,28,1100,1600,-,-,---,---,5.5,6.5,very bright,cloudy skies,"medium, light"
+Crotalaria spectabilis,21,28,1200,1600,-,-,---,---,6,6.5,very bright,clear skies,"heavy, medium"
+Cryptocarya erythroxylon,18,28,1200,1500,28,28,---,---,5,6,very bright,clear skies,heavy
+Cryptomeria japonica,15,23,2000,2500,30,30,---,---,5,6.5,very bright,cloudy skies,"heavy, medium, light"
+Cryptotaenia japonica,15,27,600,3000,27,25,---,---,5,7.5,light shade,cloudy skies,"heavy, medium, organic"
+Cucumis anguria,21,28,800,1000,-,-,---,---,6,7.5,clear skies,clear skies,"medium, organic"
+Cucurbita ficifolia,15,21,800,1200,-,-,---,---,6.4,7.5,very bright,very bright,medium
+Cucurbita foetidissima,20,30,400,600,-,-,---,---,6,7,very bright,very bright,"medium, light"
+Cucurbita mixta,16,28,1000,1600,10,10,---,---,5.5,6.8,clear skies,clear skies,medium
+Cullenia rosayroana,30,35,3000,4000,-,-,---,---,5,6,very bright,cloudy skies,medium
+Cuminum cyminum,17,26,1200,1800,20,-,---,---,5,6.5,very bright,very bright,"medium, organic"
+Cunninghamia lanceolata,20,27,1300,1700,23,23,---,---,5.5,6.5,very bright,very bright,light
+Cupressus arizonica,18,35,400,600,25,25,---,---,6.5,7.5,very bright,cloudy skies,"medium, light"
+Cupressus lusitanica,16,32,1500,2000,15,15,---,---,5.5,6.5,very bright,cloudy skies,medium
+Cupressus macrocarpa,20,32,900,1400,35,25,---,---,5.5,7,very bright,cloudy skies,"medium, light"
+Cupressus torulosa,20,32,800,1600,28,25,---,---,5.5,7,very bright,clear skies,"medium, light"
+Curcuma zedoaria,22,27,1100,1500,20,20,---,---,5.5,6.5,cloudy skies,light shade,medium
+Cybistax donnellsmithii,22,28,1500,2500,13,13,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Cydonia oblonga,10,30,700,900,30,10,---,---,6,6.5,very bright,clear skies,"heavy, medium"
+Cymbopogon martini var. motia,24,30,800,900,-,-,---,---,6,7,very bright,cloudy skies,light
+Cymbopogon nardus var. lenabatu,20,30,1300,2000,-,-,---,---,4.5,6,very bright,very bright,"medium, light"
+Cymbopogon martini var. sofia,24,30,1200,1800,-,-,---,---,5.5,6.5,very bright,cloudy skies,medium
+Cymbopogon nardus var. mahapengiri,22,30,1500,2200,-,-,---,---,5,6,very bright,very bright,medium
+Cynara cardunculus,14,28,550,800,28,26,---,---,5.5,7,clear skies,very bright,"heavy, medium, organic"
+Cynodon nlemfuensis,18,24,800,1200,-,-,---,---,5.5,6.5,very bright,clear skies,medium
+Cynodon plectostachyus,20,27,500,1500,-,-,---,---,7,7.5,very bright,clear skies,"heavy, medium, light"
+Cynometra cauliflora,22,35,1500,2000,-,-,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Cyperus esculentus,14,26,500,1000,-,-,---,---,5,7,very bright,clear skies,"medium, light"
+Cyperus longus,14,32,300,900,20,-,---,---,5.5,7.5,clear skies,very bright,medium
+Cytisus proliferus,18,23,500,800,25,25,---,---,5,7,clear skies,cloudy skies,"medium, light"
+Dacrydium franklinii,14,26,1500,1800,41.5,41.5,---,---,5.5,6.5,very bright,clear skies,"light, organic"
+Dacryodes edulis,14,35,1200,3000,-,-,---,---,5,6.5,light shade,clear skies,"heavy, medium, light, wide, organic"
+Dactylis glomerata,12,26,500,1000,35,-,---,---,6,6.5,cloudy skies,very bright,"heavy, medium"
+Dactylis glomerata ssp. hispanica,16,25,400,600,30,30,---,---,6,7,very bright,clear skies,light
+Dactyloctenium giganteum,22,30,450,500,-,-,---,---,5.5,6.5,very bright,very bright,light
+Dalbergia latifolia,16,35,1500,2500,-,-,---,---,5.5,6.5,very bright,cloudy skies,"heavy, medium"
+Dalbergia sissoo,26,40,500,2000,23,20,---,---,5,7.5,very bright,very bright,"medium, light"
+Dendrocalamus asper,20,27,1800,3600,-,-,---,---,5,6.5,clear skies,cloudy skies,"heavy, medium"
+Dendrocalamus hamiltonii,20,29,1800,3600,20,-,---,---,5,6,clear skies,cloudy skies,"heavy, medium"
+Dendrocalamus longispathus,20,27,1800,3600,15,-,---,---,5,6,clear skies,cloudy skies,medium
+Dendrocalamus merrillianus,22,28,1500,3000,5,-,---,---,5,6.5,clear skies,cloudy skies,"medium, light"
+Dendrocalamus strictus,20,27,1800,3600,15,-,---,---,4.5,5.5,clear skies,cloudy skies,"medium, light"
+Dendrolobium umbellatum,22,34,850,1500,10,10,---,---,5.5,8,very bright,clear skies,"medium, light"
+Derris indica,22,32,500,800,10,10,---,---,6,7,cloudy skies,light shade,light
+Derris malaccensis,22,30,1800,2000,-,-,---,---,5.5,6.5,very bright,cloudy skies,"medium, light"
+Desmanthus virgatus,25,32,1000,2000,-,-,---,---,5,7,very bright,very bright,"heavy, medium, light"
+Desmodium cinereum,22,30,1500,2500,10,-,---,---,6,6.5,clear skies,very bright,medium
+Desmodium gyroides,18,28,1700,2700,-,-,---,---,5.5,7,very bright,light shade,"medium, light"
+Desmodium ovalifolium,14,24,2000,3000,-,-,---,---,4.5,6.5,cloudy skies,light shade,"heavy, medium, light"
+Desmodium sandwicense,25,33,1000,1500,10,10,---,---,5.5,6.5,very bright,light shade,"medium, light"
+Desmodium velutinum,20,26,1500,3500,-,-,---,---,4.5,7,cloudy skies,heavy shade,"medium, light"
+Deyeuxia angustifolia,16,26,450,800,40,40,---,---,6.5,7.5,very bright,clear skies,"heavy, medium"
+Dialium guineense,21,25,900,1800,-,-,---,---,5.5,7,cloudy skies,very bright,"medium, light"
+Dichanthium sericeum,15,28,500,700,-,-,---,---,6.5,8,very bright,clear skies,heavy
+Dichrostachys cinerea,15,40,300,500,-,-,---,---,5,8,very bright,very bright,"medium, light"
+Digitalis lanata,18,26,450,650,35,25,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Digitalis purpurea,11,17,700,1100,40,37,---,---,5.5,6.5,very bright,cloudy skies,light
+Digitaria exilis,22,27,900,1600,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Digitaria milanjiana,22,28,600,800,2,10,---,---,4.5,7,very bright,very bright,"medium, light, organic"
+Dillenia aurea,30,40,1000,1600,10,10,---,---,6.5,7.5,very bright,very bright,"heavy, medium, light"
+Dillenia pentagyna,30,42,1000,3000,10,10,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Dimocarpus longan var. longan,18,30,1300,2000,-,-,---,---,5.5,6,very bright,cloudy skies,"medium, light"
+Dimocarpus longan var. malesianus,25,30,3000,4000,-,-,---,---,5,6,very bright,cloudy skies,"heavy, medium, light"
+Dioscorea cayenensis,20,32,1200,1900,-,-,---,---,6,6.7,very bright,light shade,"medium, light"
+Dioscorea composita,25,30,1200,1500,-,-,---,---,6,6.5,very bright,clear skies,"medium, light"
+Dioscorea dumetorum,25,32,1000,1700,-,-,---,---,5.5,6.5,very bright,clear skies,medium
+Dioscorea floribunda,25,30,900,1200,-,-,---,---,6,6.5,very bright,clear skies,"medium, light"
+Dioscorea opposita,21,30,1200,2600,-,-,---,---,6,6.7,very bright,clear skies,"medium, light"
+Dioscorea trifida,18,26,1200,2600,-,-,---,---,6,6.7,very bright,clear skies,"heavy, medium, light"
+Diospyros malabarica,25,35,1500,2500,12,10,---,---,6,7,cloudy skies,heavy shade,"heavy, medium"
+Diospyros melanoxylon,25,35,800,1200,10,10,---,---,5.5,7,very bright,clear skies,"medium, light"
+Diospyros mespiliformis,16,27,500,1300,-,-,---,---,5.5,6.5,clear skies,very bright,"medium, light"
+Diospyros virginiana,19,25,1000,1400,25,25,---,---,6.5,7,very bright,clear skies,"heavy, medium, light"
+Diplachne fusca,22,28,450,1000,-,-,---,---,7,8,very bright,very bright,"heavy, medium"
+Diploglottis cunninghamii,18,28,1300,1700,25,25,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Dipterocarpus alatus,22,32,3500,4500,5,5,---,---,5,6.5,very bright,cloudy skies,medium
+Dipterocarpus costatus,21,31,2800,3500,10,10,---,---,5,6,very bright,clear skies,"heavy, medium"
+Dipterocarpus gracilis,24,32,1500,3000,10,10,---,---,5,6,very bright,clear skies,medium
+Dipterocarpus indicus,22,30,4000,6000,10,10,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Dipterocarpus macrocarpus,22,30,2500,3500,10,10,---,---,5,5.5,very bright,clear skies,medium
+Dipterocarpus turbinatus,24,32,2500,3500,10,10,---,---,4.8,5.8,very bright,clear skies,light
+Dipteryx odorata,22,30,2000,2500,-,-,---,---,5.5,6.5,clear skies,light shade,"heavy, medium, light, organic"
+Dobera glabra,20,35,200,600,-,-,---,---,6,8,very bright,very bright,"heavy, medium, light"
+Dodonaea viscosa ssp. angustifolia,18,38,250,800,23,23,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Doryphora sassafras,18,28,1200,1800,28,28,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Dovyalis caffra,20,28,900,1100,20,5,---,---,5.5,6.5,very bright,very bright,"medium, light, organic"
+Dovyalis hebecarpa,22,28,1100,1800,-,-,---,---,6.5,7.5,clear skies,cloudy skies,medium
+Duboisia myoporoides,20,30,1000,2000,-,-,---,---,5,6.5,very bright,clear skies,heavy
+Dysoxylum fraseranum,20,28,1200,1500,28,28,---,---,5,7,very bright,very bright,"heavy, medium"
+Echinochloa frumentacea,25,30,500,750,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Echinochloa polystachya,22,28,1900,4000,-,-,---,---,5,7,clear skies,very bright,heavy
+Echinochloa pyramidalis,22,28,1500,2100,-,-,---,---,6,7,very bright,clear skies,heavy
+Echinochloa turneriana,22,30,300,375,17,17,---,---,7,8,very bright,very bright,heavy
+Echinochloa utilis,15,25,500,1000,-,-,---,---,6,7,very bright,very bright,medium
+Ehrharta calycina,12,16,350,450,25,25,---,---,6.5,7,very bright,very bright,light
+Eichhornia crassipes,20,35,1000,3000,-,-,---,---,6.7,7.3,very bright,very bright,heavy
+Elaeagnus angustifolia,20,32,350,500,30,20,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Elaeis oleifera,20,30,1400,2500,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Eleusine africana,18,27,600,1100,-,-,---,---,6,6.5,very bright,clear skies,light
+Eleusine coracana ssp. coracana,18,30,500,1100,-,-,---,---,6,7,very bright,very bright,medium
+Elymus canadensis,10,22,500,1000,40,40,---,---,5.5,6.5,very bright,clear skies,light
+Elymus cinereus,10,18,400,600,25,25,---,---,6,7,very bright,clear skies,light
+Elymus condensatus,18,22,500,800,-,-,---,---,6,7,very bright,clear skies,"medium, light"
+Elymus glaucus,9,15,500,700,-,-,---,---,6,7,very bright,cloudy skies,"medium, light"
+Endiandra palmerstonii,22,28,1500,3000,16.5,16.5,---,---,5,6,very bright,clear skies,medium
+Ensete ventricosum,16,24,1100,1500,5,-,---,---,5.6,7.3,very bright,very bright,"medium, organic"
+Entada abyssinica,20,28,800,1500,-,-,---,---,5,7,cloudy skies,very bright,medium
+Enterolobium cyclocarpum,23,28,750,2500,-,-,---,---,4.5,8,very bright,very bright,medium
+Entolasia imbricata,20,28,800,1200,-,-,---,---,5.5,6.5,very bright,very bright,light
+Eragrostis chloromelas,17,25,500,750,-,-,---,---,6,7,very bright,very bright,medium
+Eragrostis cilianensis,22,30,600,700,-,-,---,---,6.5,7.5,very bright,very bright,medium
+Eragrostis curvula,17,32,500,1000,-,-,---,---,6.5,8.5,very bright,clear skies,"medium, light"
+Eragrostis lehmanniana,17,25,300,500,20,15,---,---,7,8.5,very bright,clear skies,"medium, light"
+Eragrostis pilosa,18,30,500,1300,-,-,---,---,4.5,5.5,very bright,clear skies,"heavy, medium, light"
+Eragrostis superba,22,28,500,900,-,-,---,---,6.5,7.5,very bright,cloudy skies,light
+Eragrostis tef,22,28,600,1200,5,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Eragrostis tremula,22,28,300,600,-,-,---,---,6.5,7.5,very bright,very bright,light
+Eragrostis trichodes,16,24,600,1000,20,20,---,---,6,6.5,light shade,very bright,"medium, light"
+Eremochloa ophiuroides,20,32,800,1200,-,-,---,---,5,6,cloudy skies,light shade,medium
+Eriochloa punctata,22,28,1500,2000,-,-,---,---,5.5,6.5,very bright,clear skies,medium
+Eruca sativa,15,25,500,900,-,-,---,---,7,8,very bright,clear skies,"medium, light"
+Erythrina abyssinica,16,26,800,2000,-,-,---,---,4,5.5,very bright,very bright,"medium, light"
+Erythrina edulis,15,22,600,1500,-,-,---,---,5.5,7,clear skies,very bright,"heavy, medium, light, wide"
+Erythrina poeppigiana,22,28,1000,4000,-,-,---,---,5,7,clear skies,very bright,medium
+Erythrina vespertilio,20,35,500,1300,10,10,---,---,5.5,7,very bright,very bright,"heavy, medium, light"
+Erythrophleum chlorostahys,22,28,1000,1400,11,11,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Eucalyptus accedens,18,28,600,800,22,22,---,---,5.5,7,very bright,very bright,medium
+Eucalyptus agglomerata,18,28,800,1000,32,32,---,---,5.5,6.5,very bright,clear skies,medium
+Eucalyptus albens,18,30,600,1100,26,26,---,---,5.5,6.5,very bright,clear skies,medium
+Eucalyptus astringens,18,28,450,650,31.7,31.7,---,---,5.5,7,very bright,very bright,medium
+Eucalyptus bosistoana,17,26,800,1100,33,33,---,---,5.5,7,very bright,clear skies,medium
+Eucalyptus botryoides,22,29,700,1300,32,32,---,---,5.5,6.5,very bright,very bright,medium
+Eucalyptus brassiana,22,33,1500,2500,5,-,---,---,5,6.5,very bright,clear skies,"heavy, medium, light"
+Eucalyptus brevifolia,24,38,450,700,15,15,---,---,5,6,very bright,clear skies,"medium, light"
+Eucalyptus brockwayi,25,34,250,300,31,31,---,---,7,7.5,very bright,very bright,"medium, light"
+Eucalyptus calophylla,18,26,900,1200,29,29,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Eucalyptus citriodora,22,32,800,1500,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Eucalyptus cladocalyx,23,32,450,650,32.5,32.5,---,---,6,6.5,very bright,very bright,"medium, light"
+Eucalyptus cloeziana,22,32,800,2000,15.7,15.7,---,---,5,6.5,very bright,cloudy skies,"medium, light"
+Eucalyptus consideniana,15,27,900,1200,33,33,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Eucalyptus cornuta,17,27,800,1100,33.5,33.5,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Eucalyptus crebra,26,36,600,2000,13.5,13.5,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Eucalyptus dalrympleana,17,28,800,1900,33,33,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Eucalyptus delegatensis,17,25,900,2500,35,35,---,---,5.5,6.5,very bright,very bright,medium
+Eucalyptus diversicolor,18,28,1000,1200,34,34,---,---,5,6,very bright,very bright,"medium, light"
+Eucalyptus dumosa,18,28,300,450,30.5,30.5,---,---,6.5,8,very bright,very bright,"medium, light"
+Eucalyptus elata,15,28,900,1400,33,33,---,---,5.5,6.5,very bright,clear skies,medium
+Eucalyptus eugenioides,18,28,800,1000,22,22,---,---,5.5,6.5,very bright,clear skies,medium
+Eucalyptus exserta,20,30,700,1200,17,17,---,---,6,7,very bright,clear skies,medium
+Eucalyptus fastigata,16,28,900,1800,30,30,---,---,5,6.5,very bright,very bright,medium
+Eucalyptus fraxinoides,15,28,900,1000,35,35,---,---,5,6.5,very bright,clear skies,
+Eucalyptus globulus var. bicostata,25,32,800,1200,31,31,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Eucalyptus globulus ssp. globulus,14,23,700,1500,38.5,-,---,---,5.5,6.5,very bright,very bright,medium
+Eucalyptus globulus ssp. maidenii,22,30,900,1500,35,35,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Eucalyptus globulus var. pseudoglobulus,24,27,800,1000,37,37,---,---,5.5,6.5,very bright,very bright,medium
+Eucalyptus gomphocephala,24,32,700,1000,31,31,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Eucalyptus gongylocarpa,20,38,150,250,24,24,---,---,5,6,very bright,very bright,light
+Eucalyptus guilfoylei,18,26,1100,1300,34,34,---,---,5.5,6.5,very bright,clear skies,medium
+Eucalyptus gummifera,18,32,1000,1500,25,25,---,---,5.5,6.5,very bright,clear skies,medium
+Eucalyptus intermedia,18,28,1000,2000,11,11,---,---,5,6,very bright,clear skies,medium
+Eucalyptus intertexta,28,38,300,600,21,21,---,---,6,7,very bright,very bright,light
+Eucalyptus jacksonii,15,25,1150,1250,34.5,34.5,---,---,5.5,6.5,very bright,clear skies,medium
+Eucalyptus jensenii,22,34,550,1300,11,11,---,---,5,6.5,very bright,clear skies,light
+Eucalyptus johnstonii,12,18,1300,1400,42.5,42.5,---,---,5.5,6.5,very bright,clear skies,light
+Eucalyptus largiflorens,27,36,250,380,25.7,25.7,---,---,7,7.5,very bright,very bright,medium
+Eucalyptus leucoxylon,18,30,400,800,32,32,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Eucalyptus longifolia,18,26,900,1200,33,33,---,---,5.5,6.5,very bright,clear skies,heavy
+Eucalyptus loxophleba,20,32,350,650,25.5,25.5,---,---,6,7,very bright,very bright,medium
+Eucalyptus maculata,23,32,800,1750,25,25,---,---,5.5,6,very bright,very bright,medium
+Eucalyptus marginata,17,27,800,1100,30,30,---,---,5.5,6.5,very bright,clear skies,medium
+Eucalyptus melliodora,24,33,650,900,24,24,---,---,6,7,very bright,very bright,"medium, light"
+Eucalyptus microcarpa,18,30,500,600,24,24,---,---,6,7,very bright,very bright,"heavy, medium"
+Eucalyptus microcorys,24,34,1000,2000,25,25,---,---,5.5,7,very bright,cloudy skies,medium
+Eucalyptus microtheca,24,39,250,1000,14,14,---,---,6.5,8,very bright,very bright,heavy
+Eucalyptus moluccana,18,28,800,1100,17.2,17.2,---,---,5.5,6.5,very bright,clear skies,heavy
+Eucalyptus muelleriana,15,25,800,1100,34.5,34.5,---,---,5.5,6.5,very bright,clear skies,medium
+Eucalyptus nesophila,22,32,1200,1500,11,11,---,---,5,6.5,very bright,clear skies,medium
+Eucalyptus nigra,20,28,1300,1700,16,16,---,---,5,6,very bright,very bright,medium
+Eucalyptus nitens,14,26,900,1750,30,10,---,---,6,6.5,very bright,very bright,"heavy, medium"
+Eucalyptus obliqua,18,30,700,2400,28,10,---,---,6,6.5,very bright,very bright,medium
+Eucalyptus occidentalis,26,36,400,800,30,30,---,---,6.5,7.5,very bright,very bright,heavy
+Eucalyptus ochrophloia,20,37,250,600,26,26,---,---,7,8,very bright,very bright,heavy
+Eucalyptus odontocarpa,22,38,250,500,18,18,---,---,5,6,very bright,very bright,light
+Eucalyptus oreades,17,25,1000,1500,28,28,---,---,5.5,6.5,very bright,very bright,medium
+Eucalyptus oxymitra,20,33,150,200,22,22,---,---,7,8,very bright,very bright,light
+Eucalyptus paniculata,23,31,900,1500,30,28,---,---,6,6.5,very bright,very bright,medium
+Eucalyptus patens,18,28,900,1200,32,32,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Eucalyptus pauciflora,15,27,1000,1600,28,28,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Eucalyptus pellita,24,34,1100,2500,12,-,---,---,6,7,very bright,cloudy skies,"medium, light"
+Eucalyptus phoenicea,22,35,900,1300,12,12,---,---,5.5,6.5,very bright,very bright,light
+Eucalyptus pilularis,18,28,1000,1500,25.5,25.5,---,---,5.5,6.5,very bright,very bright,medium
+Eucalyptus planchoniana,18,28,1100,1500,27,27,---,---,5,6.5,very bright,very bright,"heavy, medium, light"
+Eucalyptus polyanthemos,16,28,600,700,32.5,32.5,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Eucalyptus polycarpa,20,29,500,1500,10.5,10.5,---,---,5.5,6.5,very bright,very bright,"heavy, medium, light"
+Eucalyptus populnea,20,34,500,800,20,20,---,---,6,7,very bright,very bright,medium
+Eucalyptus propinqua,16,33,1000,1700,24,24,---,---,6,7,very bright,very bright,"heavy, medium"
+Eucalyptus pulchella,15,22,600,700,42,42,---,---,5.5,6.5,very bright,clear skies,light
+Eucalyptus punctata,18,28,900,1100,24,24,---,---,5.5,6.5,very bright,clear skies,medium
+Eucalyptus quadrangulata,17,27,1100,1500,28,28,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Eucalyptus radiata ssp. radiata,15,28,800,1000,28,28,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Eucalyptus radiata ssp. robusta,15,25,1000,1200,33,33,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Eucalyptus regnans,12,25,1000,1700,37,10,---,---,6,7,very bright,very bright,medium
+Eucalyptus resinifera,16,34,1000,2500,14,14,---,---,6,6.5,very bright,clear skies,"medium, light"
+Eucalyptus rudis,20,32,600,800,28,28,---,---,6,7,very bright,very bright,"heavy, medium"
+Eucalyptus salmonophloia,28,36,300,500,29,29,---,---,6.5,7.5,very bright,very bright,medium
+Eucalyptus salubris,20,34,250,350,28.5,28.5,---,---,6,7,very bright,very bright,medium
+Eucalyptus sargentii,29,36,400,480,31,31,---,---,7,8,very bright,very bright,medium
+Eucalyptus sideroxylon,25,34,500,1000,25,25,---,---,6.5,7.5,very bright,very bright,"heavy, medium, light"
+Eucalyptus sieberi,22,27,900,1400,33,33,---,---,6,6.5,very bright,very bright,light
+Eucalyptus smithii,20,28,900,1500,34,34,---,---,5.5,7,clear skies,very bright,medium
+Eucalyptus socialis,18,36,150,450,22,22,---,---,7,7.5,very bright,very bright,light
+Eucalyptus st.-johnii,16,27,1000,1700,31,31,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Eucalyptus subcrenulata,10,15,1500,2000,41.5,41.5,---,---,5,6.5,very bright,clear skies,"light, organic"
+Eucalyptus tessellaris,20,34,1000,3000,10.7,10.7,---,---,5,7,very bright,clear skies,"medium, light"
+Eucalyptus tetrodonta,22,30,900,1300,11,11,---,---,5.5,6.5,very bright,very bright,light
+Eucalyptus thozetiana,22,35,350,650,20,20,---,---,6,7,very bright,very bright,"medium, light"
+Eucalyptus torelliana,27,38,1200,2000,16,16,---,---,6,7,very bright,clear skies,"medium, light"
+Eucalyptus transcontientalis,20,30,300,450,29,29,---,---,6,7,very bright,very bright,medium
+Eucalyptus trivalvis,22,38,150,250,22,22,---,---,7,8,very bright,very bright,"medium, light"
+Eucalyptus umbra ssp. carnea,18,26,900,1500,22.5,22.5,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Eucalyptus umbra ssp. umbra,18,28,900,1200,16,16,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Eucalyptus urophylla,18,28,1300,2500,7,7,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Eucalyptus viminalis,18,32,700,1500,28,28,---,---,6,7,very bright,very bright,medium
+Eucalyptus wandoo,18,30,500,600,30,30,---,---,5.5,7,very bright,very bright,"medium, light"
+Eucryphia lucida,12,22,1300,1700,41,41,---,---,5,6,very bright,clear skies,"heavy, medium, light, organic"
+Eugenia dombeyi,21,32,1200,2500,-,-,---,---,5.5,6.5,clear skies,very bright,medium
+Eugenia gustavioides,28,32,1400,3800,15.5,15.5,---,---,5.5,7,very bright,clear skies,medium
+Eugenia stipitata,2000,3500,22,30,-,-,---,---,5,6,cloudy skies,very bright,"medium, light"
+Eugenia suborbiculare,24,38,900,1600,10,10,---,---,5,6,very bright,clear skies,light
+Eugenia uniflora,21,27,1200,2000,-,-,---,---,6,7.5,very bright,cloudy skies,"medium, light"
+Eugenia uvalha,20,26,450,600,10,10,---,---,6,7,very bright,very bright,light
+Euphorbia tirucalli,25,37,400,800,-,-,---,---,5.5,6.5,very bright,very bright,light
+Euterpe chaunostachys,23,30,3000,6000,-,-,---,---,5,6,very bright,clear skies,"heavy, organic"
+Euterpe edulis,18,23,1500,2500,-,-,---,---,4.5,5,very bright,clear skies,"heavy, medium, light"
+Euterpe oleracea,22,28,1800,2300,-,-,---,---,5,5.5,very bright,clear skies,"heavy, medium, light"
+Exotheca abyssinica,17,25,750,1250,-,-,---,---,5,6,very bright,very bright,"medium, light"
+Fagopyrum emarginatum,15,28,700,900,30,30,---,---,5,6.5,very bright,clear skies,"medium, light"
+Fagopyrum tataricum,15,25,700,900,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Fagraea fragrans,20,30,2000,3000,-,-,---,---,5,6,very bright,very bright,"heavy, medium, light"
+Fagus grandifolia,13,22,750,1100,32,30,---,---,4.5,6,very bright,very bright,"heavy, medium"
+Fagus sylvatica ssp. sylvatica,10,20,500,1000,45,38,---,---,5,7,very bright,very bright,"heavy, medium"
+Faidherbia albida,18,30,400,1000,10,-,---,---,5.5,7,very bright,very bright,light
+Festuca arundinacea,15,22,600,1300,44,42,---,---,5.5,8,very bright,clear skies,"heavy, medium"
+Festuca idahoensis,10,18,500,800,30,30,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Festuca longifolia,14,24,500,900,-,-,---,---,6,7,clear skies,very bright,light
+Festuca pratensis,11,19,800,1200,-,-,---,---,6,7.5,very bright,cloudy skies,"heavy, medium"
+Festuca rubra var. commutata,10,18,500,900,-,-,---,---,5.5,6.5,very bright,light shade,"heavy, medium, light"
+Festuca rubra var. rubra,12,18,500,1000,-,-,---,---,5.5,6.5,very bright,cloudy skies,"heavy, medium, light"
+Fibraurea tinctoria,22,32,700,1000,-,-,---,---,6.5,8,very bright,cloudy skies,"heavy, medium, light"
+Ficus abutilifolia,18,25,400,2500,6,5,---,---,6,6.5,clear skies,very bright,light
+Ficus auriculata,15,25,1200,1900,12,10,---,---,5.5,6.5,cloudy skies,very bright,"medium, organic"
+Ficus benghalensis,26,36,1000,2500,10,10,---,---,5.5,7,very bright,very bright,"medium, light"
+Ficus glumosa,22,36,500,1200,-,-,---,---,5.5,7,very bright,very bright,"heavy, medium, light, wide, organic"
+Ficus macrophylla,18,28,1200,1500,27,27,---,---,5,6,very bright,clear skies,"heavy, medium"
+Ficus subcordata,22,30,1200,1800,-,-,---,---,7,7.5,very bright,clear skies,"heavy, medium, light"
+Ficus sycomorus,18,36,700,1800,-,-,---,---,5.5,7,very bright,very bright,"heavy, medium, organic"
+Ficus vogelii,22,30,1800,2400,-,-,---,---,4.5,5,very bright,clear skies,"heavy, medium, light"
+Flindersia bourjotiana,20,30,1500,3500,15.4,15.4,---,---,5,6,very bright,clear skies,medium
+Flindersia brayleyana,20,30,1500,3500,16.2,16.2,---,---,5,6,very bright,clear skies,medium
+Flindersia pimenteliana,20,30,1500,3500,15.4,15.4,---,---,5,6,very bright,clear skies,medium
+Fortunella hindsii,26,37,1100,1500,10,10,---,---,6.5,7.5,very bright,clear skies,medium
+Fragaria chiloensis,11,18,900,1300,20,20,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Fragaria virginiana,11,18,800,1200,32,30,---,---,5.5,7,very bright,clear skies,medium
+Frangula alnus,18,24,700,900,10,-,---,---,5,6,light shade,cloudy skies,medium
+Fraxinus excelsior,8,20,500,1000,42,39,---,---,6.5,8,clear skies,very bright,
+Furcraea gigantea var. willemettiana,23,30,1000,2100,-,-,---,---,6,7,cloudy skies,light shade,light
+Garcinia multiflora,21,28,1500,1800,10,10,---,---,7,7.5,clear skies,cloudy skies,"heavy, medium"
+Garuga pinnata,30,42,1500,2000,5,5,---,---,6,7,very bright,very bright,"heavy, medium"
+Geissois benthamiana,18,28,1200,1500,28,28,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Genipa americana,24,31,1200,1700,-,-,---,---,5.5,7,very bright,very bright,medium
+Genista tinctoria,14,20,600,900,38,36,---,---,5.5,6.5,very bright,cloudy skies,light
+Gleditsia triacanthos,26,38,700,1500,28,10,---,---,5.5,8,very bright,very bright,"heavy, medium, light"
+Gluta travancorica,26,29,3000,4000,5,5,---,---,4.5,6,very bright,cloudy skies,"heavy, medium, light"
+Glyceria fluitans,14,26,600,900,37,34,---,---,4.5,8,clear skies,very bright,"medium, light"
+Glycyrrhiza glabra,14,25,500,1000,-,-,---,---,6.5,7.5,very bright,very bright,"heavy, medium"
+Glycyrrhiza lepidota,10,17,450,500,20,20,---,---,6,7.5,very bright,very bright,"medium, light"
+Gmelina leichhardtii,26,30,1200,1800,19.5,19.5,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Gossypium arboreum,26,36,750,1250,10,10,---,---,6,7.2,very bright,very bright,"heavy, medium, light"
+Gossypium herbaceum,26,36,750,1250,-,-,---,---,6,7.2,very bright,very bright,"heavy, medium, light"
+Gracilaria tenuistipitata,20,30,2000,3000,-,-,---,---,6.5,7.5,very bright,very bright,"heavy, medium, light"
+Gracilaria verrucosa,20,25,2000,3000,15,15,---,---,7.5,8,very bright,very bright,"heavy, medium"
+Grevillea parallella,22,35,700,1400,10,10,---,---,5,6.5,very bright,very bright,"medium, light"
+Grewia asiatica,23,34,2300,2900,10,5,---,---,6,7.5,very bright,clear skies,"heavy, medium, light"
+Grewia bicolor,20,28,400,900,-,-,---,---,5.5,7,clear skies,very bright,"light, organic"
+Grewia tiliifolia,30,42,1000,2500,5,5,---,---,6,6.5,very bright,cloudy skies,medium
+Guaiacum officinale,22,28,1000,2000,10,10,---,---,5,7.5,clear skies,very bright,"medium, light"
+Guaiacum sanctum,22,28,700,1500,10,500,---,---,5,7.5,clear skies,very bright,"heavy, medium, light, wide, organic"
+Guazuma ulmifolia,22,32,700,1500,-,-,---,---,6,7,very bright,very bright,"heavy, medium, light"
+Guizotia abyssinica,18,26,1000,1300,-,-,---,---,5.5,6.5,very bright,very bright,medium
+Gunnera tinctoria,15,25,800,2000,20,-,---,---,5.5,7,clear skies,cloudy skies,"medium, organic"
+Gynandropsis gynandra,18,25,-,-,-,-,---,---,5.5,7,clear skies,very bright,"medium, light, organic"
+Hagenia abyssinica,25,32,1000,1600,-,-,---,---,6,7.5,very bright,very bright,medium
+Haloxylon aphyllum,25,40,200,300,30,30,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Hardwickia binata,16,38,500,1000,5,5,---,---,5.5,7.5,very bright,cloudy skies,"medium, light"
+Harungana madagascariensis,20,28,1500,2500,-,-,---,---,5.5,6.5,clear skies,very bright,"medium, light"
+Hedysarum carnosum,15,25,200,500,32,30,---,---,6.5,7.5,very bright,clear skies,heavy
+Hedysarum coronarium,14,28,600,1000,32,30,---,---,6,7,very bright,clear skies,"heavy, medium"
+Hedysarum flexuosum,15,25,400,500,32,30,---,---,6.5,7.5,very bright,clear skies,heavy
+Hedysarum pallidum,15,25,400,500,32,30,---,---,6.5,7.5,very bright,clear skies,light
+Hedysarum spinosissimum,15,25,200,500,32,30,---,---,6.5,7.5,very bright,clear skies,"heavy, medium, light"
+Hemarthria japonica,17,28,500,800,35,35,---,---,7,8,very bright,clear skies,"light, organic"
+Hibiscus sabdariffa var. altissima,16,28,1500,2000,-,-,---,---,6,7.5,very bright,very bright,"medium, light"
+Hibiscus sabdariffa var. sabdariffa,24,32,1000,3000,-,-,---,---,5.5,7,very bright,very bright,"medium, organic"
+Hierochloe odorata,18,26,250,700,35,35,---,---,6,7.5,very bright,clear skies,"medium, light"
+Hieronyma chocoensis,24,34,3500,4500,-,-,---,---,4.5,5.5,very bright,clear skies,"heavy, medium"
+Hilaria jamesii,12,17,300,400,-,-,---,---,7,7.5,very bright,very bright,"medium, light"
+Hilaria mutica,19,26,400,700,-,-,---,---,7,7.5,very bright,very bright,"heavy, medium"
+Hippophae rhamnoides,8,20,300,600,30,30,---,---,6.5,7.5,very bright,clear skies,"heavy, medium, light"
+Hippophae salicifolia,8,18,300,600,25,25,---,---,6.5,7.5,very bright,clear skies,medium
+Hopea odorata,26,36,3000,4000,10,10,---,---,4.8,5.2,clear skies,cloudy skies,"heavy, medium, light"
+Hopea parviflora,26,33,2500,3500,-,-,---,---,5,6,very bright,clear skies,medium
+Hopea utilis,24,33,2500,3500,-,-,---,---,5,6,very bright,clear skies,medium
+Hopea wightiana,27,35,2500,3500,10,10,---,---,5,6,very bright,light shade,medium
+Hordeum brevisubulatum,17,28,500,800,35,35,---,---,7,8,very bright,clear skies,"medium, light"
+Hordeum bulbosum,13,23,400,600,30,30,---,---,5.5,7,very bright,very bright,"heavy, medium"
+Humulus lupulus,15,19,400,700,25,18,---,---,5.5,6.5,very bright,clear skies,medium
+Hydnocarpus alpina,30,35,3500,6500,5,5,---,---,4.5,5.5,very bright,cloudy skies,"heavy, medium, light"
+Hydnocarpus kurzii,28,34,3500,6500,-,-,---,---,4.5,5,very bright,cloudy skies,"heavy, medium, light"
+Hydnocarpus laurifolia,30,37,3500,6000,10,10,---,---,5.5,6.4,very bright,cloudy skies,medium
+Hymenachne acutigluma,20,28,1500,2500,-,-,---,---,4,4.8,very bright,very bright,heavy
+Hymenaea courbaril,20,30,1500,3000,-,-,---,---,4.8,6.8,clear skies,very bright,light
+Hymenodictyon excelsum,22,33,1200,2000,-,-,---,---,5.5,6.5,very bright,very bright,light
+Hyoscyamus niger,10,18,-,-,-,-,---,---,-,-,clear skies,very bright,"wide, organic"
+Hyparrhenia hirta,20,32,750,1000,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Hyparrhenia rufa,20,27,600,1400,-,-,---,---,5.5,6.5,very bright,clear skies,heavy
+Hyphaene thebaica,26,36,300,600,10,10,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Hyssopus officinalis,10,24,600,1000,30,25,---,---,6,7.5,cloudy skies,very bright,"medium, light"
+Ilex dipyrena,20,27,1500,2300,-,-,---,---,4.5,5.5,cloudy skies,light shade,medium
+Ilex paraguariensis,17,26,1200,2000,23,21,---,---,6.5,7,very bright,clear skies,"medium, organic"
+Indigofera arrecta,22,30,1700,2200,-,-,---,---,5,6,very bright,clear skies,"medium, light"
+Indigofera tinctoria,22,28,1300,1700,-,-,---,---,6,7,very bright,very bright,medium
+Inga feuillei,22,28,1500,2700,-,-,---,---,5,6.5,very bright,clear skies,"heavy, medium"
+Inga vera,18,28,1500,3000,-,-,---,---,6,8,clear skies,very bright,medium
+Irvingia gabonensis,25,32,1500,3000,-,-,---,---,5,7,clear skies,very bright,"heavy, medium, light, wide, organic"
+Ischaemum ciliare,30,35,1250,5000,-,-,---,---,5.5,7,very bright,cloudy skies,heavy
+Ischaemum magnum,29,35,2500,3500,-,-,---,---,4.5,5.5,very bright,light shade,"heavy, medium, light"
+Iseilema laxum,24,34,500,1400,15,15,---,---,6,7.5,very bright,very bright,"heavy, medium"
+Iseilema membranaceum,30,40,400,500,18,18,---,---,7,8,very bright,very bright,heavy
+Ixophorus unisetus,20,24,1200,1600,-,-,---,---,5.5,6.5,very bright,cloudy skies,"medium, organic"
+Jacaranda copaia,24,38,1000,1600,-,-,---,---,6.5,6.7,very bright,clear skies,"heavy, medium, light"
+Jacaranda mimosifolia,20,34,800,1400,-,-,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Jessenia bataua,21,28,2000,4000,-,-,---,---,4.8,5.5,very bright,clear skies,"heavy, medium"
+Juglans hindsii,14,14,600,900,25,25,---,---,6.5,7.5,very bright,very bright,medium
+Juglans nigra,13,28,800,1000,18,18,---,---,6.5,7.5,very bright,very bright,medium
+Juglans sieboldiana,15,28,800,1000,-,-,---,---,6.5,7,very bright,very bright,medium
+Juniperus procera,18,30,600,1000,-,-,---,---,6.5,7.5,very bright,very bright,medium
+Justicia adhatoda,20,27,700,1700,25,25,---,---,6.5,7.5,very bright,clear skies,medium
+Kerstingiella geocarpa,18,34,600,1200,8,8,---,---,7,7.5,very bright,very bright,medium
+Khaya senegalensis,29,38,800,1300,8,8,---,---,5,6,very bright,clear skies,"heavy, medium"
+Koeleria cristata,8,15,400,900,28,25,---,---,7,8,very bright,clear skies,"medium, light"
+Lactuca indica,22,34,1500,2500,-,-,---,---,5,6,very bright,clear skies,"medium, organic"
+Lagerstroemia lanceolata,18,35,2000,4000,10,10,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Lagerstroemia parviflora,20,35,1500,3500,20,20,---,---,5.5,6.5,very bright,very bright,medium
+Lagerstroemia tomentosa,26,36,2000,3000,-,-,---,---,5,6.5,very bright,clear skies,medium
+Laguncularia racemosa,20,30,1500,2500,-,-,---,---,5.5,7,very bright,clear skies,heavy
+Lamium album,12,20,500,800,-,-,---,---,-,-,cloudy skies,clear skies,medium
+Lannea coromandelica,32,40,1200,2000,15,15,---,---,5,6.5,very bright,very bright,"medium, light"
+Larix decidua,8,22,450,1100,40,40,---,---,4.5,7.5,clear skies,very bright,medium
+Lasiurus hirsutus,23,30,200,350,25,25,---,---,7.5,8.5,very bright,cloudy skies,light
+Lathyrus cicera,10,18,400,600,30,30,---,---,6.5,7.5,very bright,very bright,heavy
+Lathyrus hirsutus,17,25,600,1000,-,-,---,---,6,7,very bright,very bright,"medium, light"
+Lathyrus ochrus,10,18,400,600,30,30,---,---,5.5,7,very bright,very bright,"heavy, medium, light"
+Lathyrus sativus,10,28,500,1300,-,-,---,---,6,7.5,very bright,very bright,"heavy, medium, light"
+Lavandula angustifolia,15,24,500,1000,-,-,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Lavandula dentata,15,24,700,1000,30,25,---,---,6.5,7,very bright,very bright,"medium, light"
+Lavandula intermedia,17,26,600,1000,700,200,---,---,6.5,7,very bright,very bright,"medium, light"
+Lavandula latifolia,18,26,900,1100,-,-,---,---,6.5,7,very bright,very bright,"medium, light"
+Leersia hexandra,27,33,1000,3000,-,-,---,---,5,6,very bright,very bright,heavy
+Lemna minor,7,25,700,3000,10,8,---,---,4.5,7.5,clear skies,very bright,"heavy, medium, light, wide, organic"
+Lemuropisum edule,22,30,400,500,22,20,---,---,6.5,8,very bright,very bright,light
+Lens culinaris,15,29,600,1000,30,10,---,---,5.5,7.5,very bright,very bright,"heavy, medium"
+Lepidium meyenii,12,18,600,800,10,-,---,---,6.5,7.5,very bright,very bright,heavy
+Lepidium sativum,14,21,1000,1800,-,-,---,---,6,7,cloudy skies,light shade,"heavy, medium, light"
+Leptochloa fusca,15,30,250,1000,-,-,---,---,5,8,very bright,very bright,"heavy, medium, light"
+Lespedeza stipulacea,14,24,1000,1300,35,35,---,---,6,6.5,very bright,cloudy skies,medium
+Lespedeza striata,16,26,900,1200,25,25,---,---,5.5,6.5,very bright,cloudy skies,"heavy, medium, light"
+Lesquerella fendleri,11,18,300,1100,-,-,---,---,6.5,8,very bright,very bright,"medium, light"
+Leucaena diversifolia,18,30,700,1500,10,10,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Levisticum officinale,12,18,700,1200,-,-,---,---,6,7,very bright,clear skies,"medium, organic"
+Licuala ramsayi,22,32,2400,3600,11,5,---,---,5.5,6.5,cloudy skies,light shade,"heavy, medium"
+Limnanthes alba,8,16,800,1000,30,30,---,---,6,6.5,clear skies,cloudy skies,"heavy, medium"
+Linum usitatissimum,16,24,500,800,49,-,---,---,6,6.5,clear skies,cloudy skies,"heavy, medium"
+Liquidambar styraciflua,20,34,1000,1500,11,11,---,---,5,7,very bright,clear skies,"heavy, medium"
+Livistona australis,20,28,900,1100,25,25,---,---,5.5,7,very bright,clear skies,"medium, organic"
+Lolium multiflorum,14,30,500,900,28,25,---,---,5,7.5,clear skies,very bright,medium
+Lonchocarpus nicou,23,32,2300,2700,-,-,---,---,5.5,6.5,very bright,light shade,"medium, organic"
+Lophostemon suaveolens,22,33,650,1800,11,11,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Lotus corniculatus,15,25,600,1000,42,40,---,---,6,7,very bright,cloudy skies,"heavy, medium"
+Lotus creticus,12,30,400,800,30,30,---,---,6.5,7.5,clear skies,very bright,light
+Lotus edulis,15,24,500,700,32,30,---,---,6.5,7.5,very bright,clear skies,light
+Lotus halophilus,15,24,250,500,28,25,---,---,6.5,7.5,very bright,clear skies,light
+Lotus tenuis,15,23,600,800,32,30,---,---,5.5,7.5,very bright,clear skies,"heavy, medium"
+Lotus uliginosus,15,24,700,900,35,25,---,---,5.5,8,very bright,clear skies,"medium, light, organic"
+Loudetia simplex,22,28,750,1000,-,-,---,---,5.5,6.5,very bright,very bright,light
+Lumnitzera littorea,22,28,1000,2500,-,-,---,---,6.8,7.2,very bright,very bright,heavy
+Lumnitzera racemosa,22,28,800,2000,-,-,---,---,6.5,7,very bright,very bright,heavy
+Lupinus albus,18,24,400,1000,-,-,---,---,5.5,6.4,very bright,clear skies,"medium, light"
+Lupinus cosentinii,20,28,400,850,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Lupinus luteus,18,24,450,1000,30,-,---,---,5.5,7,very bright,clear skies,light
+Lupinus mutabilis,18,24,500,1000,-,-,---,---,5,6.5,very bright,clear skies,"medium, light"
+Lupinus pilosus,12,18,450,1000,20,-,---,---,6.5,7.4,very bright,clear skies,light
+Lycium chinense,13,25,700,1500,20,-,---,---,5.5,7.5,very bright,very bright,"heavy, medium, light"
+Maesopsis eminii,22,28,1500,2500,-,-,---,---,5.5,7,very bright,very bright,"medium, light"
+Majorana hortensis,20,26,800,1000,10,-,---,---,5.5,7,very bright,very bright,medium
+Mallotus philippensis,25,34,1000,2500,-,-,---,---,5,6.7,very bright,cloudy skies,"medium, light"
+Malva moschata,14,28,500,1500,42,40,---,---,7,8,cloudy skies,very bright,medium
+Manilkara zapota,20,34,1000,1500,-,-,---,---,6,7,cloudy skies,very bright,medium
+Marrubium vulgare,17,24,600,1000,-,-,---,---,5.5,7.5,very bright,very bright,"medium, light"
+Matricaria recutita,19,25,700,1000,45,40,---,---,5.5,6.5,very bright,very bright,"heavy, medium, light"
+Mauritia flexuosa,22,30,2000,4500,-,-,---,---,4,5,very bright,clear skies,"heavy, medium, light, wide, organic"
+Medicago arabica,15,28,600,900,25,25,---,---,7,8,very bright,cloudy skies,medium
+Medicago falcata,15,24,500,900,-,-,---,---,6,7,very bright,very bright,"medium, light"
+Medicago intertexta,15,20,350,500,-,-,---,---,6.5,7.5,very bright,clear skies,"medium, heavy"
+Medicago laciniata,15,20,350,500,20,20,---,---,6.5,7.5,very bright,clear skies,light
+Medicago littoralis,15,20,400,600,30,30,---,---,6.5,7.5,very bright,clear skies,light
+Medicago lupulina,14,25,600,1000,35,20,---,---,6,7,very bright,cloudy skies,"heavy, medium, light"
+Medicago minima,15,20,350,500,30,25,---,---,6.5,7.5,very bright,clear skies,"heavy, medium, light"
+Medicago orbicularis,14,24,600,1000,30,10,---,---,7,7.5,very bright,very bright,medium
+Medicago polymorpha,15,25,600,1000,-,-,---,---,6.5,7,cloudy skies,light shade,medium
+Medicago rigidula,15,20,350,500,35,30,---,---,6.5,7.5,very bright,clear skies,"heavy, medium, light"
+Medicago rugosa,15,20,350,500,25,25,---,---,6.5,7.5,very bright,clear skies,"heavy, medium"
+Medicago scutellata,18,26,600,900,35,30,---,---,6.5,7,very bright,clear skies,"heavy, medium"
+Medicago tornata,15,20,350,500,25,25,---,---,6.5,7.5,very bright,clear skies,light
+Medicago truncatula,20,25,400,800,25,20,---,---,6.5,7.5,very bright,clear skies,"heavy, medium, light"
+Medicago turbinata,15,20,350,500,25,25,---,---,6.5,7.5,very bright,clear skies,"heavy, medium, light"
+Medicago varia,15,23,700,1000,-,-,---,---,6.5,7,very bright,very bright,"medium, light"
+Melaleuca arcana,22,32,1600,1900,11,11,---,---,5,6,very bright,clear skies,light
+Melaleuca bracteata,22,34,400,900,16,16,---,---,5,7,very bright,clear skies,heavy
+Melaleuca cajuputi,22,32,1250,1600,10,10,---,---,5,6,very bright,clear skies,heavy
+Melaleuca dealbata,31,37,900,1500,11,11,---,---,6,7,very bright,clear skies,light
+Melaleuca lanceolata,18,32,400,550,25.5,25.5,---,---,5.5,7,very bright,very bright,"heavy, medium, light"
+Melaleuca nervosa,22,38,700,1150,12,12,---,---,5.5,7,very bright,clear skies,light
+Melaleuca viridiflora,22,38,400,1600,8,8,---,---,5,7.5,very bright,clear skies,"heavy, medium, light, organic"
+Melia azedarach,16,30,600,1000,20,10,---,---,6,7,very bright,clear skies,"medium, light"
+Melia azedarach var. australasica,18,32,600,1000,11,11,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Melia compostia,30,42,1500,2500,10,-,---,---,5.5,6.5,very bright,clear skies,medium
+Melilotus indica,15,25,600,900,5,5,---,---,6.5,7,very bright,clear skies,"heavy, medium"
+Melilotus officinalis,12,24,450,800,-,-,---,---,6,7,very bright,clear skies,"heavy, medium, light, organic"
+Melilotus suaveolens,10,17,700,900,-,-,---,---,6,7,very bright,clear skies,"medium, light"
+Melocalamus compactiflorus,20,29,1000,2000,15,-,---,---,5.5,6.5,clear skies,cloudy skies,heavy
+Melocanna baccifera,20,33,2000,3000,15,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Mentha pulegium,13,22,500,800,-,-,---,---,6.5,7.5,very bright,very bright,light
+Mentha spicata var. crispa,15,25,900,1200,30,10,---,---,5.5,6.5,very bright,clear skies,medium
+Mesua ferrea,30,35,3000,4000,20,20,---,---,5,5.5,very bright,cloudy skies,"medium, light"
+Michelia champaca,30,37,3000,4000,15,15,---,---,4.5,5.5,very bright,very bright,medium
+Michelia doltsopa,30,37,3000,4000,5,5,---,---,4.5,5,very bright,very bright,medium
+Mikania cordata,22,28,2000,2500,-,-,---,---,4.5,5.5,very bright,clear skies,"heavy, medium, light"
+Miliusa velutina,30,42,1000,2000,-,-,---,---,6.5,7,very bright,cloudy skies,"heavy, medium, light"
+Mimosa pigra,15,30,800,1500,-,-,---,---,5.5,7,clear skies,very bright,"heavy, medium, light"
+Momordica charantia,22,30,2000,2500,-,-,---,---,6,6.5,clear skies,clear skies,"medium, organic"
+Momordica cochinchinensis,20,30,1500,2500,-,-,---,---,6.5,7,very bright,clear skies,medium
+Monstera deliciosa,28,34,1300,2000,15,15,---,---,5.5,6,light shade,heavy shade,"medium, light"
+Morus rubra,19,25,800,1200,25,25,---,---,5.5,7,clear skies,very bright,"heavy, medium, light"
+Mucuna pruriens,20,30,1000,2000,-,-,---,---,5,7,very bright,very bright,"medium, light"
+Murraya koenigii,27,41,1400,1800,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Musa acuminata,23,33,1200,3600,-,-,---,---,5.5,7.5,very bright,cloudy skies,"medium, organic"
+Musa acuminata x balbisiana,25,35,1400,2400,31,31,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Musa halabanensis,24,30,1200,3000,-,-,---,---,5.5,7,very bright,clear skies,"medium, organic"
+Musa salaccensis,24,30,1200,3000,-,-,---,---,5.5,7,very bright,clear skies,"medium, organic"
+Musanga cecropioides,28,36,3000,4000,-,-,---,---,4.5,5.5,very bright,clear skies,"medium, light"
+Myrciaria cauliflora,22,28,900,1500,21,21,---,---,5.5,7.5,clear skies,cloudy skies,"medium, light"
+Myroxylon balsamum,22,28,2000,2700,-,-,---,---,5.5,6.5,very bright,clear skies,light
+Myroxylon balsamum var. perei.,22,30,2000,2600,10,-,---,---,6.5,7.5,very bright,clear skies,light
+Myrsine africana,22,30,600,800,5,5,---,---,5,5.5,very bright,clear skies,"medium, light"
+Myrtus communis,15,24,500,800,-,-,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Nauclea orientalis,30,40,1000,3500,12,12,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Neofabricia myrtifolia,22,34,1100,1600,11,11,---,---,5.5,6.5,very bright,clear skies,light
+Neoglazovia variegata,18,30,500,700,-,-,---,---,6,7,very bright,very bright,"medium, light"
+Neohouzeaua dullooa,20,29,1000,2000,15,-,---,---,5,6,clear skies,cloudy skies,heavy
+Nepeta cataria,7,19,600,1000,-,-,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Neptunia prostrata,25,35,1500,2000,-,-,---,---,5,6.5,very bright,very bright,"heavy, medium, light"
+Nicotiana rustica,15,30,600,700,-,-,---,---,5.5,6,very bright,very bright,light
+Nigella sativa,14,26,600,800,30,5,---,---,6.5,7.3,very bright,clear skies,"heavy, medium, light"
+Nothofagus cunninghamii,16,24,1100,2500,37,37,---,---,5.5,7,very bright,cloudy skies,"medium, organic"
+Nothofagus moorei,18,25,1300,1700,28,28,---,---,5.5,6.5,very bright,clear skies,medium
+Nuphar advena,14,30,700,1500,22,20,---,---,5,7.5,clear skies,very bright,"medium, organic"
+Nuphar lutea,18,28,400,1400,35,30,---,---,6.5,7.5,clear skies,very bright,"heavy, organic"
+Ochroma pyramidale,18,35,2500,3000,-,-,---,---,5.5,6.5,very bright,very bright,medium
+Ocimum tenuiflorum,20,28,1000,3000,-,-,---,---,6,7.5,clear skies,very bright,"medium, organic"
+Octomeles sumatrana,29,34,3000,4000,-,-,---,---,4.5,5.5,very bright,clear skies,"medium, light"
+Olea africana,22,28,500,1000,-,-,---,---,6.5,7.5,very bright,very bright,"heavy, medium, light"
+Olea capensis,14,18,800,1200,-,-,---,---,5.5,7,clear skies,very bright,medium
+Olea cuspidata,24,32,500,650,30,10,---,---,6,7,very bright,cloudy skies,"medium, light"
+Oncosperma tigillarium,20,30,1500,3000,-,-,---,---,6,6.5,clear skies,light shade,"heavy, medium, light, organic"
+Onobrychis scrobiculata,18,27,400,600,35,30,---,---,6.5,7.5,very bright,clear skies,light
+Onobrychis viciifolia,18,27,400,800,30,-,---,---,6.5,7.5,very bright,clear skies,"heavy, medium, light"
+Opuntia ficus-indica,18,26,700,1300,-,-,---,---,7,7.5,very bright,clear skies,"medium, light"
+Orbignya cohume,25,30,1200,2500,15,15,---,---,5.5,7.3,very bright,cloudy skies,"heavy, medium, light"
+Orbignya oleifera,25,30,1200,1700,-,-,---,---,6,7.5,clear skies,light shade,"heavy, medium, light"
+Origanum onites,15,25,800,1000,30,25,---,---,7,7.5,very bright,very bright,"medium, light"
+Ornithopus roseus,16,26,600,800,20,-,---,---,6,7,very bright,clear skies,medium
+Ornithopus sativus,15,20,600,800,27,25,---,---,4.5,6.5,clear skies,very bright,"medium, light"
+Oryza glaberrima,26,32,1000,1500,-,-,---,---,5.5,7,very bright,clear skies,medium
+Oryza sativa ssp. indica,25,35,1500,2000,-,-,---,---,5,8,very bright,very bright,"heavy, medium, light"
+Oryza sativa ssp. javanica,23,35,1500,2000,-,-,---,---,5.5,7,very bright,very bright,heavy
+Oryzopsis holciformis,9,16,400,500,30,30,---,---,6.5,7,very bright,clear skies,light
+Oryzopsis miliacea,16,25,450,650,38,38,---,---,7,7.5,very bright,cloudy skies,"heavy, medium, light"
+Oxytenanthera nigrociliata,20,29,1000,2000,15,-,---,---,5,5.5,clear skies,cloudy skies,medium
+Pachystela msolo,16,31,640,1750,-,-,---,---,5.5,7,cloudy skies,clear skies,"medium, light"
+Palaquium gutta,24,30,2000,3000,-,-,---,---,6,7,very bright,clear skies,medium
+Panax ginseng,12,20,700,1300,38,30,---,---,5.5,7,light shade,cloudy skies,"medium, organic"
+Panax quinquefolium,12,20,900,1100,-,-,---,---,6,6.5,cloudy skies,light shade,"medium, organic"
+Pandanus julianettii,13,24,3000,3500,-,-,---,---,4.5,5.5,clear skies,cloudy skies,"medium, organic"
+Panicum coloratum var. makarikariense,26,32,500,700,16,14,---,---,5.5,6.5,very bright,very bright,heavy
+Panicum maximum var. trichoglume,25,32,800,1800,-,-,---,---,6.5,7,very bright,light shade,medium
+Panicum miliaceum,20,32,500,750,-,-,---,---,6,6.5,very bright,very bright,medium
+Panicum obtusum,16,25,1100,1500,20,20,---,---,5.5,6.6,very bright,very bright,light
+Panicum repens,18,26,800,1800,-,-,---,---,4.5,6.2,clear skies,cloudy skies,"light, organic"
+Panicum sumatrense,22,27,350,500,-,-,---,---,5.5,6.2,very bright,very bright,"medium, light"
+Panicum turgidum,25,35,200,400,8,2,---,---,6.5,7,very bright,very bright,light
+Panicum virgatum,17,32,500,1100,-,-,---,---,6,7,very bright,very bright,light
+Panicum whitei,25,35,400,500,26,26,---,---,5.5,6,very bright,very bright,heavy
+Papaver bracteatum,12,20,600,900,35,-,---,---,6,7,very bright,very bright,light
+Papaver somniferum,15,24,800,1200,15,10,---,---,6.5,7.5,very bright,clear skies,medium
+Parinari curatellifolia,14,30,400,1000,-,-,---,---,5.5,7,,,"heavy, medium"
+Parkia biglobosa,28,40,400,800,5,-,---,---,4.5,5.5,very bright,clear skies,"medium, light"
+Parkia speciosa,20,28,1000,2000,-,-,---,---,5.5,7,very bright,very bright,medium
+Parthenium argentatum,20,34,400,800,-,-,---,---,6,8,very bright,clear skies,light
+Paspalum distichum,20,30,600,750,-,-,---,---,5.5,6,clear skies,cloudy skies,"heavy, medium, light, organic"
+Paspalum nicorae,16,23,900,1400,23,21,---,---,5.5,7,cloudy skies,very bright,light
+Paspalum notatum,18,30,900,2100,-,-,---,---,5,6.2,cloudy skies,light shade,light
+Paspalum plicatulum var. glabrum,19,30,900,2000,-,-,---,---,4.5,5.5,very bright,very bright,light
+Paspalum urvillei,6,23,1000,1500,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Paspalum wettsteinii,15,25,1000,1500,20,20,---,---,5.5,6.5,very bright,very bright,"heavy, medium, light"
+Passiflora edulis var. edulis,23,28,1000,1500,10,-,---,---,5.5,7.5,very bright,clear skies,"heavy, medium, light"
+Paullinia cupana,24,32,2000,2500,-,-,---,---,4,5.5,cloudy skies,light shade,"heavy, medium, light, organic"
+Paulownia tomentosa,24,30,700,1600,32,25,---,---,5.5,7,very bright,very bright,"medium, light"
+Peltandra virginica,12,24,700,1500,25,23,---,---,4,8,clear skies,very bright,"medium, organic"
+Peltophorum pterocarpum,27,36,1200,1800,-,-,---,---,5,6.5,very bright,clear skies,"medium, light"
+Pennisetum glaucum,25,35,400,900,18,14,---,---,5,6.5,very bright,very bright,"medium, light"
+Pennisetum pedicellatum,30,35,500,650,-,-,---,---,5.5,7,very bright,very bright,medium
+Pentaclethra macrophylla,24,30,1800,2200,-,-,---,---,4.5,5.5,very bright,cloudy skies,medium
+Pericopsis elata,26,35,1000,1300,1,1,---,---,6.5,7,very bright,clear skies,light
+Pericopsis mooniana,26,34,1000,1700,-,-,---,---,6.5,7,very bright,clear skies,light
+Perilla frutescens,5,30,250,600,-,-,---,---,5.5,7.2,clear skies,very bright,"medium, organic"
+Persoonia falcata,22,38,600,1400,11,11,---,---,5,6,very bright,clear skies,"medium, light"
+Petalostigma pubescens,20,37,600,1000,11,11,---,---,5.5,7,very bright,clear skies,light
+Phalaris aquatica,12,18,500,1000,-,-,---,---,6,7,cloudy skies,very bright,"heavy, medium"
+Phalaris arundinacea,17,25,700,1500,43,41,---,---,6,7,clear skies,very bright,"heavy, medium, light"
+Phalaris canariensis,10,18,800,1500,25,20,---,---,6,7,very bright,clear skies,"heavy, medium"
+Phalaris coerulescens,14,19,500,700,25,25,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Phleum pratense,15,22,800,1100,36,30,---,---,6,7,cloudy skies,very bright,"heavy, medium, light, organic"
+Phoenix reclinata,20,30,800,3000,-,-,---,---,5.5,7,clear skies,very bright,"heavy, medium, light, wide, organic"
+Phoenix sylvestris,25,35,400,700,12,10,---,---,5.5,7.5,cloudy skies,very bright,medium
+Phormium tenax,13,25,750,2000,25,10,---,---,5.5,7,very bright,cloudy skies,"heavy, medium, light"
+Phragmites australis,30,35,500,1000,-,-,---,---,5.5,6.5,very bright,very bright,heavy
+Phragmites communis,17,28,400,600,20,10,---,---,7,9,very bright,clear skies,"heavy, medium, light"
+Emblica officinalis,20,29,1500,2500,-,-,---,---,6,8,very bright,very bright,medium
+Phyllocladus aspleniifolius,17,24,1500,2500,41,41,---,---,5,6,light shade,cloudy skies,"medium, organic"
+Physalis philadelphica,15,25,700,1000,18,15,---,---,6,7,very bright,clear skies,"medium, light, organic"
+Phytolacca acinosa,12,18,600,900,-,-,---,---,5.5,7.5,cloudy skies,clear skies,"medium, organic"
+Picea abies,5,15,400,700,45,40,---,---,4,5,cloudy skies,clear skies,"medium, organic"
+Picea morida,15,25,1500,2000,25,25,---,---,5.5,7,very bright,clear skies,"medium, light"
+Pimenta racemosa,22,28,1400,2000,10,10,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Pimpinella anisum,18,26,900,1300,25,20,---,---,6.5,7,very bright,very bright,medium
+Pinus ayacahuite,17,24,1500,2000,14,14,---,---,4.5,6.5,very bright,clear skies,"heavy, medium, light"
+Pinus ayachuite var. Br.,10,20,850,950,24,24,---,---,4.5,6,very bright,clear skies,"medium, light"
+Pinus brutia,20,35,400,800,33,33,---,---,5.5,7,very bright,very bright,"medium, light"
+Pinus canariensis,19,29,800,1500,27.5,27.5,---,---,6.5,7,very bright,very bright,"medium, light"
+Pinus caribaea ssp. bahamensis,26,32,1200,1500,21,21,---,---,5.5,7.5,very bright,very bright,"medium, light"
+Pinus caribaea ssp. caribaea,26,34,1200,1600,21,21,---,---,5.5,7.5,very bright,very bright,"medium, light"
+Pinus caribaea ssp. hondurensis,27,34,1000,2400,12,12,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Pinus chiapensis,23,28,1200,1400,15,15,---,---,4.5,5.5,very bright,very bright,light
+Pinus douglasiana,15,25,1000,1400,17,17,---,---,6,6.5,very bright,clear skies,"medium, light"
+Pinus durangensis,12,18,900,1100,23,19,---,---,6,6.5,very bright,clear skies,"medium, light"
+Pinus excelsa,18,28,1000,2000,27,27,---,---,6,7,very bright,very bright,light
+Pinus gerardiana,15,25,500,650,32,32,---,---,6,7,very bright,very bright,"medium, light"
+Pinus greggii,16,24,700,750,20,20,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Pinus halepensis,18,34,400,600,30,30,---,---,5.5,7.5,very bright,very bright,"medium, light"
+Pinus hartwegii,10,18,1100,1400,13,13,---,---,5.5,6,very bright,clear skies,light
+Pinus kesiya,22,30,900,2000,11,11,---,---,4.5,5.5,very bright,very bright,"heavy, medium"
+Pinus michoacana var. cornuta,17,28,1300,1700,15,15,---,---,5.7,6.3,very bright,clear skies,"heavy, medium, light"
+Pinus montezumae,16,24,1200,1400,14,14,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Pinus mugo,5,18,500,800,44,42,---,---,5,7.5,cloudy skies,clear skies,medium
+Pinus occidentalis,24,32,1400,1500,18,18,---,---,4.5,5.5,very bright,very bright,"heavy, medium, light"
+Pinus oocarpa var. ochoterenai,15,26,1200,1500,17,17,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Pinus pinea,18,32,500,700,33,33,---,---,4.5,5.5,very bright,very bright,"medium, light"
+Pinus pseudostrobus var. oaxacana,15,24,1100,1400,17,17,---,---,6,7.5,very bright,clear skies,"heavy, medium, light"
+Pinus roxburghii,20,30,750,1800,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium, light"
+Pinus rudis,10,18,1100,1400,18,18,---,---,5.5,6,very bright,clear skies,"medium, light"
+Pinus strobus var. chiapensis,18,30,1200,1700,15,15,---,---,5,6.5,very bright,very bright,"heavy, medium, light"
+Pinus sylvestris,14,23,600,1000,45,40,---,---,5,7.5,very bright,clear skies,"medium, light"
+Pinus sylvestris var. mongolica,15,25,400,600,40,40,---,---,6.5,7.5,very bright,very bright,light
+Pinus tabulaeformis,15,35,400,800,35,35,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Pinus tenuifolia,17,28,1300,2200,15,15,---,---,5.5,6,very bright,clear skies,heavy
+Pinus teocote,14,26,1300,1700,15,15,---,---,6,7.5,very bright,clear skies,heavy
+Pistacia lentiscus,18,24,400,800,30,25,---,---,6.5,8,very bright,very bright,light
+Pithecellobium dulce,20,30,2000,3000,-,-,---,---,5.5,6.5,very bright,cloudy skies,"heavy, medium, light"
+Pittosporum resiniferum,18,28,1500,5000,600,-,---,---,-,-,,,medium
+Platanus orientalis,12,30,500,1400,30,30,---,---,4.5,8.5,cloudy skies,very bright,"heavy, medium, light, wide, organic"
+Plectranthus esculentus,15,28,700,1100,-,-,---,---,6.5,7,clear skies,cloudy skies,medium
+Poa annua,12,22,600,1200,34,30,---,---,5.5,6.5,very bright,cloudy skies,"heavy, medium, light"
+Poa bulbosa,13,22,400,600,23,20,---,---,5.5,6.8,very bright,clear skies,"heavy, medium, light"
+Poa compressa,20,32,500,1300,38,35,---,---,5.5,7,very bright,clear skies,"heavy, medium, light"
+Poa fendleriana,13,17,500,800,-,-,---,---,6,6.5,very bright,cloudy skies,"medium, light"
+Poa pratensis,15,27,500,1300,37,34,---,---,5.5,7,very bright,clear skies,"heavy, medium, light"
+Poa sinaica,15,35,200,400,25,25,---,---,6.5,7.5,very bright,very bright,light
+Poa trivialis,10,24,600,1000,35,30,---,---,5.5,6.5,cloudy skies,light shade,medium
+Podocarpus elatus,18,30,1000,1500,14,12,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Poeciloneuron indicum,30,37,4000,6000,-,-,---,---,5,6,very bright,clear skies,"heavy, medium"
+Polyalthia fragrans,30,35,3000,5000,5,5,---,---,5.5,6.5,very bright,cloudy skies,medium
+Polymnia sonchifolia,12,22,800,1200,-,-,---,---,5.5,6.5,very bright,clear skies,medium
+Populus euphratica,20,40,200,300,-,-,---,---,5.5,7,very bright,very bright,medium
+Populus simonii,15,25,400,600,35,35,---,---,7,8,very bright,very bright,light
+Portulaca quadrifida L.,22,32,1500,2000,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Pouteria lucuma,21,27,900,1500,-,-,---,---,6.5,7.5,very bright,very bright,"medium, light, organic"
+Pouteria sapota,24,30,2000,3300,10,-,---,---,6,6.5,clear skies,cloudy skies,"heavy, medium"
+Prosopis africana,22,35,300,500,5,5,---,---,5.5,7,very bright,very bright,"heavy, medium, light, wide"
+Prosopis chilensis,22,30,300,500,5,15,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Prosopis cineraria,28,45,400,800,10,10,---,---,6.5,8.5,very bright,very bright,"heavy, medium, light"
+Prosopis juliflora,22,35,300,750,-,-,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Prosopis pallida,22,28,500,1000,-,-,---,---,5.5,6,very bright,very bright,"heavy, medium, light"
+Prosopis spicigera,25,35,250,500,15,15,---,---,5.5,6,very bright,very bright,medium
+Prosopis tamarugo,18,32,150,250,18,18,---,---,7,8,very bright,very bright,"medium, light"
+Prosopis velutina,23,28,500,800,-,-,---,---,5.5,6.5,very bright,very bright,medium
+Prunus avium,18,28,500,900,-,40,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Prunus capuli,10,22,400,1800,24,20,---,---,5.5,6.5,clear skies,very bright,"medium, light"
+Prunus cerasus,15,25,800,1600,45,30,---,---,6,6.5,very bright,clear skies,medium
+Prunus mume,18,34,800,1000,20,10,---,---,5,6.5,very bright,clear skies,medium
+Prunus salicina,18,34,750,900,10,20,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Psathyrostachys juncea,9,22,500,900,40,-,---,---,6,7,very bright,clear skies,"heavy, medium"
+Psidium friedrichsthalianum,22,28,1200,1600,8,-,---,---,6.5,7.2,very bright,clear skies,medium
+Psoralea patens,20,28,450,750,10,10,---,---,7,7.5,clear skies,clear skies,light
+Pterocarpus angolensis,15,32,700,1500,10,5,---,---,5.5,7,very bright,very bright,"medium, light"
+Pterocarpus dalbergioides,22,32,3000,3500,5,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Pterocarpus erinaceus,22,32,800,1600,-,-,---,---,5,5.5,very bright,very bright,medium
+Pterocarpus lucens,15,32,400,700,5,-,---,---,5.5,7,very bright,very bright,light
+Pterocarpus macrocarpus,24,34,1500,2500,10,10,---,---,5.5,6.5,very bright,very bright,medium
+Pterocarpus marsupium,22,32,1000,1500,10,10,---,---,6,7,very bright,very bright,"medium, light"
+Pterocarpus santalinus,26,32,1000,1900,5,5,---,---,5,5.5,very bright,very bright,"medium, light"
+Puccinellia tenuiflora,16,26,300,500,35,35,---,---,7,8,very bright,very bright,medium
+Pyrus pyrifolia,17,25,600,900,30,-,---,---,5.5,6.5,very bright,very bright,light
+Quercus agrifolia,10,30,500,1000,32,30,---,---,5.5,6.5,cloudy skies,very bright,"medium, organic"
+Quercus alba,12,28,900,1300,32,30,---,---,5.5,7,clear skies,very bright,medium
+Quercus bicolor,15,28,750,1200,35,33,---,---,6.5,7.5,cloudy skies,clear skies,"heavy, medium, light, wide, organic"
+Quercus dilatata,15,25,1500,2000,30,30,---,---,5,6,very bright,light shade,"heavy, medium, light"
+Quercus ilex,14,32,450,700,-,-,---,---,6,7,very bright,cloudy skies,"medium, light"
+Quercus incana,15,25,1500,2500,25,25,---,---,5,6,very bright,light shade,"medium, light"
+Quercus lamellosa,15,25,3000,4000,20,20,---,---,5.5,6.5,very bright,light shade,"medium, light"
+Quercus lanuginosa,15,25,2000,2500,25,25,---,---,5.5,6.5,very bright,clear skies,medium
+Quercus lineata,15,25,3000,4000,-,-,---,---,7,7.5,very bright,light shade,"medium, light"
+Quercus robur,10,18,600,950,45,38,---,---,-,-,cloudy skies,very bright,"heavy, medium, organic"
+Quercus semecarpifolia,12,22,800,2000,25,25,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Quercus suber,14,32,600,1000,30,30,---,---,5.5,7,very bright,very bright,"medium, light"
+Quercus virginiana,18,32,1200,1800,5,5,---,---,6,7,very bright,very bright,light
+Raphanus caudatus,12,26,1000,1500,-,-,---,---,6,6.5,very bright,clear skies,"medium, light"
+Raphia hookeri,24,30,3000,4000,-,-,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Rauvolfia serpentina,22,30,1500,3500,-,-,---,---,5.5,7,cloudy skies,light shade,medium
+Rhamnus prinoides,14,22,600,1000,-,-,---,---,5.5,6.5,clear skies,very bright,"heavy, medium, organic"
+Rhynchosia minima,22,34,550,1000,5,-,---,---,7,7.5,clear skies,clear skies,heavy
+Ribes hirtellum,10,22,800,1200,-,-,---,---,6.5,7.5,very bright,clear skies,"heavy, medium"
+Ribes nigrum,17,25,700,900,50,45,---,---,6.5,7.5,very bright,clear skies,medium
+Ribes rubrum,10,22,800,1200,-,-,---,---,6.5,7.5,very bright,clear skies,"heavy, medium"
+Ribes sativum,13,23,500,800,-,-,---,---,6,6.5,very bright,clear skies,"heavy, medium"
+Ribes uva-crispa,15,25,900,1300,45,40,---,---,6,7,very bright,clear skies,heavy
+Ricinodendron heudelotii,20,30,800,4000,-,-,---,---,5.5,6.5,clear skies,very bright,"heavy, medium"
+Ricinodendron rautanenii,18,30,500,800,15,13,---,---,6.5,8,very bright,very bright,"medium, light"
+Robinia pseudoacacia,15,32,450,700,34,30,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Roseodendron donnell-smithii,23,31,1500,2500,13,13,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Rosmarinus officinalis,18,30,600,1400,35,30,---,---,6,7.5,very bright,very bright,"medium, light"
+Rubus occidentalis,14,20,700,1100,-,-,---,---,6,7,very bright,clear skies,"medium, organic"
+Rubus occidentalis x idaeus,15,20,700,1100,-,-,---,---,6,7,very bright,clear skies,"medium, organic"
+Rumex crispus,14,18,800,1000,30,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Rumex obtusifolius,14,18,1300,1700,35,-,---,---,6,6.5,very bright,cloudy skies,"heavy, medium"
+Ruta graveolens var. bracteosa,17,26,500,1500,30,-,---,---,6.5,7.5,very bright,very bright,light
+Saccharum barberi,20,32,1200,1500,-,-,---,---,5,6,very bright,very bright,"heavy, medium"
+Saccharum sinense,20,32,1000,1500,-,-,---,---,5,6,very bright,very bright,"heavy, medium"
+Sageraea elliptica,22,30,3000,3500,5,5,---,---,5,6,very bright,cloudy skies,medium
+Sagittaria sagittifolia,16,24,900,1200,45,42,---,---,6,7.5,clear skies,clear skies,medium
+Salacca wallichiana,22,32,2500,3000,11,10,---,---,5,6,cloudy skies,light shade,"heavy, medium"
+Salacca zalacca,22,30,1700,3100,-,-,---,---,5,6,cloudy skies,light shade,light
+Salicornia bigelovii,10,25,-,-,15,15,---,---,-,-,very bright,very bright,"medium, light"
+Salix babylonica var. sacramenta,21,26,1000,1300,25,25,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Salix flavida,15,25,300,600,40,40,---,---,7,8,very bright,very bright,light
+Salvadora persica,15,30,300,700,20,-,---,---,7,8,very bright,very bright,"heavy, medium, light, wide"
+Salvia sclarea,17,30,900,1700,30,25,---,---,6,7,very bright,very bright,"heavy, medium, light"
+Sambucus canadensis,15,20,600,1200,20,10,---,---,6,6.5,very bright,clear skies,medium
+Sambucus cerulea,15,20,900,1500,25,20,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Sanguisorba minor,13,22,500,800,35,25,---,---,6.5,7.5,very bright,clear skies,"heavy, medium, light"
+Sansevieria guineensis,20,30,700,1400,5,5,---,---,6.5,7.5,very bright,cloudy skies,medium
+Santalum acuminatum,18,25,250,400,20,20,---,---,7,8,very bright,clear skies,medium
+Santalum album,22,30,800,1400,-,-,---,---,6,7,very bright,very bright,"medium, light"
+Santalum spicatum,32,38,200,400,22,22,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Sapindus emarginatus,32,40,1000,2000,5,5,---,---,6,6.5,very bright,very bright,"medium, light"
+Sapium sebiferum,20,28,700,1500,25,10,---,---,6,7,very bright,cloudy skies,"heavy, medium, light"
+Satureja hortensis,20,26,500,800,30,20,---,---,6,7,very bright,very bright,medium
+Satureja montana,13,30,1000,1400,25,25,---,---,6.5,7,very bright,clear skies,light
+Sauropus androgynus,26,35,900,1200,-,-,---,---,6,7,very bright,clear skies,"heavy, medium"
+Schinus molle,20,28,400,500,20,15,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Schizolobium parahybum,20,26,1200,1600,23,23,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Schizomeria ovata,16,28,1300,1700,18,18,---,---,5,6.5,very bright,clear skies,"heavy, medium, light"
+Schleichera oleosa,30,42,1200,2300,5,-,---,---,5.5,6.5,very bright,cloudy skies,"medium, light"
+Scirpus lacustris,14,22,550,1200,35,18,---,---,6,7,clear skies,very bright,"heavy, medium, light, wide, organic"
+Sclerocarya caffra,25,30,700,1200,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium, light"
+Secale montanum,13,19,350,450,25,25,---,---,6.5,7.5,very bright,clear skies,"heavy, medium"
+Sehima nervosum,22,28,500,1000,-,-,---,---,6,7,very bright,cloudy skies,"heavy, medium"
+Serenoa repens,15,25,1000,1200,26,26,---,---,5.5,7,very bright,very bright,"medium, light"
+Sesbania bispinosa,18,30,700,1200,-,-,---,---,5.5,7,very bright,clear skies,"heavy, medium"
+Sesbania cannabia,18,26,800,1200,-,-,---,---,5,7,very bright,clear skies,"heavy, medium"
+Sesbania exaltata,18,28,1100,1400,10,10,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Sesbania formosa,22,38,250,1100,15,13,---,---,5,6,very bright,clear skies,"heavy, medium, light"
+Sesbania macrantha var. levis,22,28,900,1100,-,-,---,---,7,8,very bright,very bright,"heavy, medium, light"
+Sesbania macrantha var. macrantha,18,28,1300,1700,20,-,---,---,7,7.5,very bright,very bright,"heavy, medium, light"
+Sesbania pachycarpa,18,26,800,1200,-,-,---,---,8,8.5,very bright,very bright,"heavy, medium"
+Sesbania sesban,18,28,800,2000,-,-,---,---,5,7,very bright,clear skies,"heavy, medium, light"
+Setaria italica,16,26,500,700,-,-,---,---,6,6.8,very bright,cloudy skies,"medium, light"
+Setaria sphacelata cv. Kazungula,22,28,1200,1600,10,-,---,---,5.5,6.5,very bright,cloudy skies,light
+Setaria sphacelata cv. Nandi,20,25,1000,1400,-,-,---,---,5.5,6.5,very bright,cloudy skies,medium
+Setaria sphacelata cv. Narok,20,25,1200,1600,-,-,---,---,5.5,6.5,very bright,cloudy skies,medium
+Shorea assamica,22,28,2800,3500,-,-,---,---,4.5,5,very bright,clear skies,"heavy, medium"
+Shorea robusta,28,34,1500,3500,5,-,---,---,5,6.7,very bright,clear skies,"medium, light"
+Shorea talura,27,35,1000,1500,-,-,---,---,5.5,6,very bright,very bright,medium
+Shorea tumbuggaia,25,35,800,900,5,5,---,---,5.5,6,very bright,clear skies,"medium, light"
+Silybum marianum,22,35,400,600,-,-,---,---,-,-,very bright,very bright,"medium, light"
+Simarouba glauca,22,29,2000,3000,12,12,---,---,6,8,cloudy skies,very bright,"medium, light"
+Simmondsia chinensis,21,36,250,800,25,23,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Sinapis alba,10,25,700,1100,30,20,---,---,6.5,7.5,clear skies,cloudy skies,medium
+Sloanea woollsii,18,28,1300,1700,26,26,---,---,5,6.5,very bright,clear skies,medium
+Solanum aethiopicum,20,30,1200,1600,-,-,---,---,5.5,7,very bright,very bright,"medium, organic"
+Solanum ferox,24,30,1200,2000,-,-,---,---,5.5,7,very bright,light shade,"heavy, medium, light"
+Solanum hyporhodium,18,26,800,1100,-,-,---,---,6.8,7.2,very bright,very bright,light
+Solanum incanum,20,26,700,1000,-,-,---,---,6.5,7.5,very bright,very bright,"heavy, medium, light, organic"
+Solanum oleraceum,18,26,1000,1600,-,-,---,---,6.5,7.5,very bright,clear skies,"heavy, medium, light, organic"
+Solanum macrocarpon,20,26,700,1000,-,-,---,---,6.5,7.5,very bright,very bright,"heavy, medium, light, organic"
+Solanum x juzepczukii,6,14,600,1200,-,-,---,---,6,7,very bright,clear skies,"medium, organic"
+Solenostemon rotundifolius,17,27,1800,2600,5,-,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Sonneratia apetala,20,30,1650,1800,-,-,---,---,6.8,7.2,very bright,clear skies,heavy
+Sorbus domestica,12,25,700,1500,25,20,---,---,6,8,clear skies,very bright,"heavy, medium, light"
+Sorghum x drummondii,21,33,600,900,-,-,---,---,6,7,very bright,very bright,"heavy, medium"
+Soymida febrifuga,32,40,800,1300,5,5,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Spartium junceum,15,22,600,900,30,25,---,---,6,7,very bright,cloudy skies,light
+Sphenostylis stenocarpa,23,29,1000,1200,-,-,---,---,5.5,6,very bright,very bright,light
+Spodiopogon sibiricus,8,25,500,700,35,35,---,---,4.5,5.5,light shade,clear skies,"medium, light"
+Spondias purpurea,22,28,800,1100,5,-,---,---,6,7,very bright,very bright,medium
+Sporobolus airoides,17,25,700,1100,25,25,---,---,7,7.5,very bright,very bright,"medium, light"
+Stachys affinis,17,23,800,900,30,30,---,---,6,6.5,very bright,clear skies,"medium, light"
+Stephegyne parvifolia,20,35,1500,2500,15,15,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Sterculia campanulata,26,32,3000,3800,-,-,---,---,5.5,6.5,very bright,very bright,medium
+Sterculia urens,30,42,750,1250,-,-,---,---,6,7,very bright,very bright,light
+Sterculia villosa,30,42,1300,1900,-,-,---,---,6.5,7.5,very bright,very bright,light
+Stereospermum suaveolens,24,32,1200,2500,15,15,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Stevia rebaudiana,18,30,1000,1400,15,-,---,---,5,6.5,very bright,clear skies,light
+Stipa barbata,20,25,300,700,30,30,---,---,7,7.5,very bright,very bright,"heavy, medium, light"
+Stipa lagascae,20,25,400,500,30,30,---,---,7,7.5,very bright,very bright,light
+Stipa parviflora,20,25,400,500,20,20,---,---,7,7.5,very bright,very bright,light
+Stipa tenacissima,15,25,200,500,35,35,---,---,7,7.5,very bright,clear skies,light
+Stripa baicalensis,8,27,400,600,35,35,---,---,5,7.5,very bright,clear skies,"medium, organic"
+Stripa breviflora,18,30,150,300,35,35,---,---,7,8,very bright,clear skies,"medium, light"
+Stripa capillata,18,26,200,400,35,35,---,---,7,8,very bright,clear skies,"medium, light"
+Stripa glareosa,12,30,150,400,35,35,---,---,6.5,7.5,very bright,cloudy skies,"medium, light"
+Stripa gobica,12,22,150,300,35,35,---,---,6.5,7.5,very bright,very bright,"heavy, medium, light"
+Stripa grandis,17,28,200,600,35,35,---,---,6.5,8,very bright,clear skies,"medium, organic"
+Stripa Krylovii,8,15,300,400,35,35,---,---,7,8,very bright,very bright,"medium, light"
+Strychnos cocculoides,16,28,700,1200,-,-,---,---,5.5,7.5,very bright,very bright,"heavy, medium, light, wide"
+Strychnos innocua,19,31,500,900,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Strychnos spinosa,20,28,700,1000,-,-,---,---,5,7,very bright,very bright,light
+Stylosanthes capitata,22,30,1000,2500,-,-,---,---,4.5,5,very bright,very bright,"medium, light"
+Stylosanthes erecta,23,30,1600,1900,-,-,---,---,5,6,very bright,very bright,light
+Stylosanthes fruticosa,25,30,400,800,10,-,---,---,6.5,7.5,clear skies,very bright,light
+Stylosanthes guianensis var. guianensis,18,28,900,2500,-,-,---,---,4.5,6,clear skies,very bright,"medium, light"
+Stylosanthes guianensis var. intermedia,15,28,700,1500,12,18,---,---,6,7,very bright,very bright,"medium, light"
+Stylosanthes humilis,25,32,700,1800,3,-,---,---,4.5,6.5,very bright,very bright,"medium, light"
+Stylosanthes macrocephala,22,30,1000,2500,12,-,---,---,4.5,5.5,very bright,very bright,"medium, light"
+Stylosanthes scabra,20,30,700,1600,5,-,---,---,5,6,clear skies,very bright,"medium, light"
+Syncarpia glomulifera,18,28,1300,1700,16,16,---,---,5.5,6.5,very bright,clear skies,medium
+Syncarpia hillii,20,30,1100,1700,25,25,---,---,5,6,very bright,clear skies,light
+Syzygium cordatum,15,25,750,1200,-,-,---,---,5.5,7,very bright,very bright,"heavy, medium, light"
+Syzygium guineense,15,30,1000,2300,-,-,---,---,5.5,7,very bright,very bright,medium
+Tamarix aphylla,27,40,300,400,20,25,---,---,6.5,7.5,very bright,very bright,"medium, light"
+Tamarix chinensis,20,38,400,750,-,-,---,---,6.5,8,very bright,very bright,light
+Taraxacum officinale,14,22,500,1000,40,-,---,---,5,6.5,very bright,cloudy skies,"heavy, medium, light"
+Tarchonanthus camphoratus,17,33,300,600,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium, light"
+Telfairia occidentalis,21,30,1900,2200,-,-,---,---,5,6,very bright,light shade,"medium, organic"
+Telfairia pedata,23,28,1500,2000,-,-,---,---,5.5,6,very bright,cloudy skies,"heavy, medium, light"
+Teramnus labialis,17,27,750,1500,10,-,---,---,6,8,cloudy skies,very bright,"heavy, medium, light, wide"
+Terminalia arjuna,20,33,1000,1500,5,5,---,---,5.5,6,very bright,clear skies,medium
+Terminalia arostrata,22,38,400,650,14,14,---,---,5,6,very bright,clear skies,heavy
+Terminalia chebula,22,35,1000,1700,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Terminalia ivorensis,24,30,1600,2700,4,4,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Terminalia myriocarpa,22,32,3000,4000,10,10,---,---,5,6,very bright,cloudy skies,medium
+Terminalia paniculata,22,30,2000,3000,-,-,---,---,5.5,6.5,very bright,clear skies,"heavy, medium, light"
+Terminalia sericocarpa,22,38,850,1900,12,10,---,---,5.5,6.5,very bright,clear skies,light
+Terminalia tomentosa,22,35,1000,2000,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium"
+Terminalia volucris,22,38,600,850,14,12,---,---,5,6,very bright,very bright,heavy
+Tetragonia tetragonioides,19,28,900,1200,20,-,---,---,6.5,7,very bright,very bright,"light, organic"
+Tetrapleura tetraptera,25,30,1700,3000,5,5,---,---,4.5,6.5,clear skies,very bright,"medium, light"
+Thaumatococcus daniellii,21,30,1700,2300,5,5,---,---,4.5,5,very bright,clear skies,"heavy, medium"
+Themeda quadrivalis,22,28,700,1500,17,17,---,---,7,8.5,very bright,very bright,medium
+Theobroma bicolor,22,28,1500,2000,-,-,---,---,5,6,clear skies,light shade,"heavy, medium, light, organic"
+Theobroma grandiflorum,22,32,2000,2400,-,-,---,---,5,6.5,clear skies,light shade,"heavy, medium, light, organic"
+Thymus serpyllum,11,22,700,900,-,-,---,---,5,6,very bright,very bright,light
+Thyrsostachys siamensis,20,29,1000,2000,15,-,---,---,6,6.5,clear skies,cloudy skies,heavy
+Tilia cordata,12,22,500,700,45,40,---,---,6.5,7.5,clear skies,very bright,medium
+Toona ciliata,18,34,1100,3000,17,15,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Toona serrata,30,38,1200,2500,10,-,---,---,4.5,5.5,very bright,clear skies,"medium, light"
+Trachyspermum ammi,16,24,800,1000,-,-,---,---,6.5,7.5,very bright,clear skies,medium
+Trewia nudiflora,25,37,2000,4000,10,10,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Trifolium agrarium,14,18,600,1000,45,40,---,---,5,6.2,very bright,very bright,"medium, light"
+Trifolium alexandrinum,16,27,450,900,20,-,---,---,6.5,7,very bright,clear skies,"heavy, medium"
+Trifolium ambiguum,10,17,800,1000,40,30,---,---,5.5,6,very bright,clear skies,"heavy, medium"
+Trifolium arvense,9,16,700,900,45,40,---,---,6.2,6.8,clear skies,cloudy skies,light
+Trifolium campestre,12,18,700,900,35,29,---,---,6,6.5,very bright,very bright,"medium, light"
+Trifolium cherlei,15,25,400,600,30,-,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Trifolium dubium,12,18,700,900,38,35,---,---,6,6.5,very bright,very bright,"medium, light"
+Trifolium fragiferum,12,22,600,900,35,30,---,---,6.5,7,very bright,cloudy skies,"heavy, medium"
+Trifolium hirtum,15,24,450,800,20,20,---,---,6.5,7,very bright,cloudy skies,"medium, light"
+Trifolium hybridum,12,20,700,900,50,45,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Trifolium incarnatum,13,22,700,1000,35,10,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Trifolium medium,8,16,600,800,45,40,---,---,6,7,very bright,cloudy skies,"medium, light"
+Trifolium michelianum,20,25,400,700,32,30,---,---,6.5,7.5,clear skies,very bright,"heavy, medium"
+Trifolium nigrescens,16,22,1000,1200,25,25,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Trifolium pilulare,12,22,400,600,30,30,---,---,5.6,7.5,very bright,clear skies,"medium, light"
+Trifolium resupinatum,13,22,600,900,20,20,---,---,6,7,very bright,cloudy skies,"heavy, medium"
+Trifolium rueppellianum,12,26,1000,1900,-,-,---,---,5,7,clear skies,very bright,"heavy, medium"
+Trifolium subterraneum,15,25,500,1000,30,25,---,---,5.5,6.5,cloudy skies,very bright,light
+Trifolium tomentosum,12,22,500,700,30,30,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Trifolium variegatum,14,19,800,1000,-,-,---,---,6,6.5,very bright,cloudy skies,"heavy, medium, light"
+Trifolium vesiculosum,15,21,900,1100,30,30,---,---,6,7,very bright,clear skies,"heavy, medium, light"
+Trigonella foenum-graecum,13,27,600,800,30,-,---,---,7,7.5,very bright,clear skies,"medium, light"
+Triplochiton scleroxylon,24,30,1600,2400,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Tripsacum andersonii,22,30,1500,2000,-,-,---,---,4,4.5,very bright,cloudy skies,"medium, organic"
+Tripsacum dactyloides,10,24,800,1300,-,-,---,---,6,7,cloudy skies,very bright,"heavy, medium, light, wide"
+Tristania conferta,18,28,1100,1500,16,16,---,---,5,6.5,very bright,clear skies,"heavy, medium"
+Triticum compactum,10,16,600,900,-,-,---,---,6.5,7.5,very bright,clear skies,"medium, light"
+Triticum dicoccon,15,20,500,900,-,-,---,---,5.5,6.8,very bright,clear skies,light
+Triticum durum,17,25,500,700,20,10,---,---,6,7,very bright,very bright,"heavy, medium"
+Triticum spelta,10,17,700,1000,-,-,---,---,6.5,7.5,very bright,clear skies,light
+Tylosema esculentum,22,30,150,800,-,-,---,---,5.5,7,clear skies,very bright,light
+Typha angustifolia,10,24,500,1500,36,32,---,---,4.5,8,clear skies,very bright,"heavy, organic"
+Typha domingensis,16,28,400,1400,22,20,---,---,6.5,7.5,clear skies,very bright,"heavy, medium, organic"
+Typha latifolia,10,25,500,1500,30,27,---,---,4.5,7.5,clear skies,very bright,heavy
+Uapaca kirkiana,18,24,700,1500,-,-,---,---,4.5,6,very bright,clear skies,light
+Uncaria gambir,25,32,2200,2400,-,-,---,---,6,7,cloudy skies,light shade,"medium, organic"
+Urochloa mosambicensis,15,28,500,1300,4,-,---,---,5.5,7,very bright,clear skies,"medium, light"
+Urochloa oligotricha,25,32,700,1500,10,-,---,---,6.5,7.5,very bright,cloudy skies,"medium, light"
+Urochloa panicoides,25,40,700,1000,-,-,---,---,7,7.5,cloudy skies,light shade,"heavy, medium, light"
+Urtica dioica,12,22,600,2000,22,20,---,---,7,8.5,cloudy skies,very bright,"heavy, medium, organic"
+Vaccinium angustifolium,13,20,600,900,40,40,---,---,4.2,5.2,cloudy skies,light shade,"medium, organic"
+Vaccinium corymbosum,18,30,900,1100,30,30,---,---,4,5,clear skies,very bright,"medium, organic"
+Vaccinium macrocarpon,16,24,600,1000,40,40,---,---,5,5.5,very bright,clear skies,"medium, light"
+Vaccinium myrtillus,8,17,500,700,45,40,---,---,4.5,6,cloudy skies,very bright,"light, organic"
+Vangueria infausta,17,28,800,1200,-,-,---,---,5.5,7,cloudy skies,very bright,"medium, light"
+Vangueria madagascariensis,17,29,800,1500,-,-,---,---,5.5,7,very bright,very bright,"heavy, medium"
+Vateria indica,24,33,2500,3000,5,5,---,---,5,6,very bright,cloudy skies,"light, organic"
+Ventilago viminalis,22,36,400,600,18,16,---,---,5.5,7.5,very bright,very bright,"heavy, medium, light"
+Vernonia amygdalina,20,26,750,2000,-,-,---,---,5.5,7,very bright,very bright,light
+Vicia benghalensis,18,24,700,900,30,-,---,---,6.5,7,very bright,clear skies,"heavy, medium"
+Vicia monantha,10,18,500,700,35,30,---,---,6,7,very bright,cloudy skies,"medium, light"
+Vicia narbonensis,10,24,400,800,-,-,---,---,6.5,7,very bright,cloudy skies,"medium, light"
+Vicia pannonica,10,17,500,700,30,30,---,---,6.5,7.5,very bright,clear skies,heavy
+Vicia villosa ssp. dasycarpa,10,24,500,700,38,35,---,---,6,7,very bright,clear skies,"medium, light"
+Vigna hosei,22,30,3000,3500,-,-,---,---,4.5,5,clear skies,light shade,"heavy, medium, light"
+Vigna luteola,20,30,1200,2500,-,-,---,---,5,7.5,very bright,clear skies,"medium, light"
+Vigna parkeri,12,27,1200,2500,-,-,---,---,5,6,cloudy skies,very bright,"medium, light"
+Vigna subterranea,19,30,750,1400,-,-,---,---,5,6.5,very bright,very bright,light
+Vigna trilobata,22,31,700,900,5,-,---,---,7,8.5,cloudy skies,very bright,"heavy, medium"
+Vigna unguiculata ssp. sesquipedalis,20,35,1500,2000,20,-,---,---,5.5,7,very bright,very bright,"heavy, medium"
+Vigna unguiculata ssp. unguiculata,20,35,600,1500,-,-,---,---,5.5,7.5,very bright,clear skies,medium
+Vigna vexillata,20,28,1300,2100,-,-,---,---,5.5,6.5,very bright,very bright,light
+Vitellaria paradoxa,24,38,500,1000,10,-,---,---,6,7,very bright,very bright,"heavy, medium, light, wide, organic"
+Vitex agnus-castus,12,22,400,900,26,24,---,---,6.5,7.5,clear skies,very bright,"medium, organic"
+Vitex doniana,14,28,750,2000,-,-,---,---,5.5,7,very bright,very bright,wide
+Vitex keniensis,15,20,1800,2200,-,-,---,---,5.5,7,clear skies,very bright,"medium, light"
+Vitex parviflora,22,28,700,1500,5,5,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Vitis labrusca,15,25,900,1100,25,25,---,---,6,6.5,very bright,very bright,"medium, organic"
+Vitis rotundifolia,18,32,1400,1600,-,-,---,---,6,7,very bright,very bright,"medium, organic"
+Warburgia ugandensis,14,28,1000,1500,-,-,---,---,5.5,6.5,clear skies,very bright,"heavy, medium"
+Withania somnifera,18,32,650,750,-,-,---,---,7.5,8,clear skies,very bright,medium
+Wrightia tomentosa,22,32,1200,2400,-,-,---,---,5.5,7,very bright,clear skies,light
+Xanthosoma brasiliense,22,30,1500,3000,-,-,---,---,5,6,very bright,clear skies,medium
+Xylia dolabriformis,24,36,1200,3000,15,15,---,---,6,7,very bright,cloudy skies,medium
+Xylia xylocarpa,16,35,1700,4500,10,10,---,---,5,6,very bright,light shade,"medium, light"
+Xylocarpus granatum,22,30,2000,3000,-,-,---,---,6.8,7.2,very bright,clear skies,"heavy, medium"
+Xylocarpus mekongensis,18,35,2000,4000,-,-,---,---,6.5,7,very bright,clear skies,heavy
+Xylocarpus moluccensis,20,35,2500,5000,-,-,---,---,6.5,7,very bright,clear skies,"medium, light"
+Yucca elephantipes,18,32,1000,1600,10,10,---,---,5,6,very bright,cloudy skies,"medium, light"
+Zea mays ssp. saccharata,16,24,800,1500,-,-,---,---,5.5,6.8,very bright,very bright,"medium, organic"
+Euchlaena mexicana,17,28,800,1250,10,10,---,---,5.5,7,very bright,very bright,"heavy, medium, light"
+Zizania latifolia,22,32,600,2500,17,15,---,---,5.5,6,clear skies,very bright,"heavy, organic"
+Ziziphus mucronata,12,30,400,800,-,-,---,---,5.5,8,very bright,very bright,"heavy, medium"
+Zostera marina,15,25,500,1500,-,-,---,---,6.8,7.2,very bright,clear skies,heavy
+Zoysia matrella,18,26,1000,1700,-,-,---,---,5.5,6.5,very bright,cloudy skies,light
+Asimina triloba,12,22,400,1200,25,24,---,---,6,7.2,clear skies,very bright,medium
+Abutilon theophrasti,14,25,650,2000,-,-,---,---,5.5,6.5,very bright,clear skies,medium
+Raphanus sativus var. radicula,12,25,800,1000,-,-,---,---,6,7,clear skies,clear skies,"medium, light"
+Vigna oblongifolia,17,23,500,1000,5,-,---,---,6,7.5,clear skies,very bright,"heavy, medium, light, wide"
+Vigna parkeri sp. maranguensis,17,21,1500,2500,10,-,---,---,5,6,cloudy skies,very bright,"medium, light"
+Prunus africana,14,18,900,1400,-,-,---,---,5.5,6.5,very bright,very bright,"medium, light"
+Setaria incrassata,16,30,700,1200,5,-,---,---,6.5,7.5,cloudy skies,very bright,heavy
+Tipuana tipu,14,28,700,900,-,-,---,---,5.5,7,clear skies,very bright,medium
+Chamaecytisus palmensis,16,24,400,1400,25,-,---,---,5.5,6.5,clear skies,very bright,light
+Leucaena collinsii,22,30,900,2500,17,15,---,---,6.5,8,clear skies,very bright,"heavy, medium, light, wide"
+Leucaena collinsii sp. collinsii,22,30,1100,2500,17,15,---,---,6.5,8,clear skies,very bright,"heavy, medium, light, wide"
+Leucaena pallida,16,24,700,1800,15,-,---,---,6.5,7.5,clear skies,very bright,"medium, light"
+Leucaena trichandra,17,22,1000,1800,15,-,---,---,5.5,7.5,cloudy skies,very bright,"heavy, medium"
+Leucaena collinsii sp. zacapana,22,30,900,1500,17,15,---,---,6.5,8,clear skies,very bright,"heavy, medium, light, wide"
+Leucaena salvadorensis,25,30,800,2000,10,10,---,---,6,7,clear skies,very bright,"medium, light"
+Acacia brevispica,20,30,450,700,5,-,---,---,6.5,7.5,cloudy skies,very bright,medium
+Prosopis glandulosa,18,28,300,800,25,-,---,---,5.5,7,very bright,very bright,"heavy, medium, light, wide, organic"
+Acacia abyssinica,20,30,450,1200,-,-,---,---,5.5,7,very bright,very bright,"medium, light"
+Acacia caffra,15,35,700,900,26,24,---,---,5,6,clear skies,very bright,"medium, light"
+Acacia dudgeoni,22,32,400,1000,12,10,---,---,5.5,7,clear skies,very bright,"heavy, medium"
+Acacia haematoxylon,18,35,150,200,25,25,---,---,6,8,very bright,very bright,light
+Agrostis stolonifera,9,22,500,800,40,40,---,---,5,6.5,very bright,clear skies,"medium, organic"
+Albizia amara,15,40,400,1000,-,-,---,---,5,7,very bright,very bright,light
+Alisma plantago-aquatica,8,18,500,1500,40,37,---,---,5,7,clear skies,very bright,"heavy, medium"
+Alysicarpus monilifer,17,28,400,1000,-,-,---,---,6,7.5,clear skies,very bright,"heavy, medium, light, wide"
+Andrographis paniculata,20,30,2000,3000,-,-,---,---,-,-,light shade,cloudy skies,"medium, light"
+Angelica atropurpurea,10,18,700,1300,40,37,---,---,5,7.5,clear skies,very bright,"heavy, medium, light, wide, organic"
+Apocynum cannabinum,12,22,600,1200,27,25,---,---,5,7,cloudy skies,very bright,"medium, light"
+Aponogeton distachyos,12,18,600,1100,22,20,---,---,6,7.5,cloudy skies,very bright,"heavy, medium"
+Asclepias incarnata,15,25,350,800,32,30,---,---,5,7.5,clear skies,very bright,"heavy, medium, organic"
+Asclepias speciosa,12,24,450,800,26,25,---,---,5,7.5,clear skies,very bright,"medium, light, organic"
+Bothriochloa ischaemum,15,25,400,1000,35,10,---,---,6,7,very bright,clear skies,"heavy, medium, light, wide"
+Caragana arborescens,14,28,350,800,37,35,---,---,6.5,8.5,clear skies,very bright,"medium, light"
+Desmodium dichotomum,24,34,1000,2000,10,-,---,---,7,7.5,clear skies,very bright,"heavy, medium"
+Erythroxylum coca,17,23,1000,2100,-,-,---,---,5.5,6.5,very bright,very bright,medium
+Eucalyptus globulus,18,23,700,1400,38,-,---,---,5.5,6.5,very bright,very bright,medium
+Eugenia jambos,18,38,1200,1600,-,-,---,---,5.5,7,very bright,cloudy skies,"medium, organic"
+Festuca ovina,10,22,500,900,35,-,---,---,5,6.5,very bright,cloudy skies,light
+Hylocereus undatus,18,28,350,3500,-,-,---,---,5.3,6.7,clear skies,very bright,wide
+Mentha rotundifolia,10,25,1000,1400,35,30,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Ornithopus compressus,15,20,400,700,27,25,---,---,4.5,6.5,clear skies,very bright,"medium, light"
+Panicum trichocladum,16,28,1200,2000,-,-,---,---,6,7.5,cloudy skies,very bright,light
+Paspalum atratum,22,27,1300,2000,14,-,---,---,5.5,6.5,cloudy skies,very bright,"heavy, medium, light, wide"
+Peltophorum africanum,20,32,1000,2500,-,-,---,---,5.5,7,very bright,very bright,"medium, light"
+Petasites hybridus,12,17,500,1000,40,38,---,---,5,7,cloudy skies,clear skies,"medium, light"
+Pontederia cordata,14,24,800,1200,24,20,---,---,6,7.5,clear skies,very bright,"heavy, medium, light, wide, organic"
+Populus deltoides,14,30,1200,2500,33,28,---,---,5.5,6.5,very bright,clear skies,"medium, light"
+Prunus domestica,18,33,900,1500,35,10,---,---,5.5,6.1,very bright,very bright,"heavy, medium"
+Quercus chrysolepis,20,25,300,1500,36,32,---,---,6,7,cloudy skies,clear skies,"heavy, medium, light, wide, organic"
+Quercus dumosa,14,28,600,900,30,30,---,---,5.5,6.5,clear skies,very bright,"heavy, medium"
+Samolus valerandi,16,24,500,1300,20,17,---,---,7,8.5,cloudy skies,very bright,heavy
+Sparganium erectum,12,24,600,1200,37,40,---,---,6,7.5,cloudy skies,very bright,"heavy, organic"
+Taxodium distichum,20,30,1200,1400,24,24,---,---,5.5,7,very bright,clear skies,"heavy, medium, light"
+Trapa natans,15,25,500,1200,40,5,---,---,5.5,7.5,clear skies,very bright,heavy
+Valeriana officinalis,15,24,600,800,45,40,---,---,5.5,7,clear skies,very bright,"medium, organic"
+Vicia ervilia,12,22,500,700,30,30,---,---,7,7.5,very bright,clear skies,"medium, light"
+Ziziphus mauritiana,25,42,300,1500,-,-,---,---,5.5,7.5,very bright,very bright,"medium, light"
+Persea americana ssp. mexican,14,22,1000,1400,-,-,---,---,5,7,very bright,clear skies,"heavy, medium, light"
+Persea americana ssp. guatemalan,15,24,1000,1400,10,-,---,---,5,7,very bright,clear skies,"heavy, medium, light"
+Persea americana ssp. west indian,15,26,1000,1400,10,-,---,---,5,7.5,very bright,clear skies,medium
+Glycine wightii,20,30,800,1800,-,-,---,---,6.5,7,very bright,clear skies,"heavy, medium"
+"Eucalyptus camaldulensis, northern provenances",25,35,700,1300,15,15,---,---,6.5,7.5,very bright,very bright,"medium, light"
+"Pinus merkusii, island provenances",23,30,2300,2800,-,-,---,---,4.5,5.5,very bright,very bright,"medium, light"
+Ipomoea aquatica var. reptans,15,35,2000,2500,10,10,---,---,5,7,very bright,very bright,"heavy, organic"
+Vigna unguiculata ssp. biflora,20,35,1100,1300,5,-,---,---,5.5,6.5,very bright,very bright,medium
+Casuarina cristata ssp. pauper,27,37,250,400,27,27,---,---,6.5,8,very bright,very bright,"medium, light"
+Elaeocarpus grandis,18,28,1500,3000,14,14,---,---,5.5,6.5,very bright,clear skies,"heavy, medium"
+Argyrodendron actinophyllum ssp. diversifolium,20,30,1100,1400,19,19,---,---,5,6.5,very bright,clear skies,light
+Pinus michoacana var. turmida,18,28,900,1100,15,15,---,---,7,7.3,very bright,clear skies,light
+Gelidiella acerosa,20,28,2000,3000,-,-,---,---,7,8.5,clear skies,light shade,light
+Eusideroxylon zwageri,20,30,2500,4000,-,-,---,---,5,6,very bright,light shade,"medium, light"
+Mimosa scabrella,16,27,800,2500,20,-,---,---,5.5,7,clear skies,very bright,"medium, light"
+Chenopodium album,12,18,800,1200,-,-,---,---,6,7,clear skies,very bright,"heavy, medium, light"
+Acacia decurrens,12,25,900,2600,25,25,---,---,5,6.5,very bright,cloudy skies,"medium, light"
+Ludwigia adscendens,15,25,1500,3000,-,-,---,---,5.5,7,clear skies,very bright,heavy
+Marsilea quadrifolia,20,28,700,2000,12,10,---,---,6.5,7.5,light shade,very bright,"heavy, medium, organic"
+Ruta graveolens,17,26,500,1500,25,-,---,---,6.5,7.5,very bright,very bright,light
+Zornia latifolia,18,28,1200,1800,-,-,---,---,4.5,6,clear skies,very bright,"heavy, medium"
+Phytolacca dioica,18,32,800,1500,-,-,---,---,5.5,7,cloudy skies,very bright,"heavy, medium, organic"
+Brachylaena huillensis,15,25,900,1200,-,-,---,---,5,7,clear skies,very bright,"medium, light"
+Podocarpus falcatus,13,20,1200,1800,-,-,---,---,5,7,clear skies,very bright,"light, organic"
+Acanthosicyos horridus,15,30,125,250,17,15,---,---,6,7,clear skies,very bright,light
+Borassus aethiopum,20,35,500,1000,-,-,---,---,5.5,7,very bright,very bright,medium
+Rhigozum trichotomum,15,35,150,300,21,20,---,---,6,7,clear skies,very bright,light
+Chlorophytum comosum,12,24,700,1500,20,-,---,---,5,7,cloudy skies,clear skies,medium
+Ficus thonningii,22,28,750,2000,-,-,---,---,5,7,clear skies,very bright,"medium, light, organic"
+Girardinia diversifolia,12,18,1500,3500,5,-,---,---,6.5,7.5,cloudy skies,very bright,"heavy, medium, light, wide"
+Faurea saligna,20,28,500,1000,-,-,---,---,5.5,7,very bright,very bright,"medium, light"
+Protea caffra ssp. caffra,15,25,400,900,22,21,---,---,5,7,clear skies,very bright,light
+Albizia harveyi,18,28,900,1800,-,-,---,---,5,5.5,clear skies,very bright,medium
+Burkea africana,14,36,650,850,-,-,---,---,5,7,clear skies,very bright,light
+Baikiaea plurijuga,25,38,600,1000,-,-,---,---,5,5.5,very bright,very bright,light
+Bolusanthus speciosus,17,27,500,650,12,10,---,---,6.5,8,clear skies,very bright,"heavy, medium, organic"
+Sesbania rostrata,15,30,1500,3500,-,-,---,---,6,7.5,clear skies,very bright,heavy
+Dalbergia melanoxylon,20,35,700,1200,-,-,---,---,5.5,7,very bright,very bright,"heavy, medium"
+Erythrina caffra,16,28,700,1000,-,-,---,---,5.5,7,clear skies,very bright,medium
+Macrotyloma daltonii,22,28,600,700,5,-,---,---,6.5,7.5,clear skies,very bright,"medium, light"
+Calodendrum capense,20,30,800,1500,10,-,---,---,5.5,7,clear skies,very bright,"heavy, medium, organic"
+Ekebergia capensis,18,26,900,2000,-,-,---,---,5.5,7,clear skies,very bright,light
+Securidaca longependunculata,20,30,600,1000,-,-,---,---,5,7,clear skies,very bright,light
+Sapium ellipticum,20,27,1200,2000,-,-,---,---,5,6.5,very bright,very bright,"heavy, medium"
+Sclerocarya birrea ssp. caffra,20,40,400,1200,-,-,---,---,6,7,very bright,very bright,"heavy, medium, light, wide"
+Warburgia salutaris,15,25,600,1500,-,-,---,---,5,7,clear skies,very bright,"medium, organic"
+Terminalia prunioides,20,35,450,900,-,-,---,---,6,8,very bright,very bright,light
+Beta vulgaris var. saccharifera,15,25,400,700,30,30,---,---,6,6.8,cloudy skies,clear skies,"medium, organic"
+Sorghum bicolor,22,35,400,600,10,-,---,---,5.5,7.5,very bright,very bright,"heavy, medium"
+Stipagrostis amabilis,20,40,150,200,23,23,---,---,6.5,8,very bright,very bright,light
+Fagus sylvatica,10,20,500,1000,45,40,---,---,5,7,cloudy skies,very bright,medium
+Axonopus fissifolius,17,32,1000,2000,15,-,---,---,5,6,cloudy skies,very bright,"medium, light"
+Chamaecrista nictitans,20,25,1000,1600,-,-,---,---,5,6.5,clear skies,very bright,light
+Paraserianthes falcataria,20,30,2000,4000,-,-,---,---,5,8,very bright,very bright,"heavy, medium"
+Orbignya phalerata,20,30,3000,6000,-,-,---,---,5.5,6.5,clear skies,very bright,light
+Acacia cana,14,30,600,900,22,20,---,---,6,7,cloudy skies,very bright,heavy
+Acacia doratoxylon,22,23,400,600,33,30,---,---,6,7,cloudy skies,very bright,"medium, light"
+Alnus maritima,8,20,1000,2000,30,15,---,---,6.5,7.5,clear skies,very bright,"medium, light, organic"
+Euonymus japonicus,12,20,700,1300,10,-,---,---,5,6,clear skies,very bright,"medium, organic"
+Indigofera schimperi,17,26,400,1000,-,-,---,---,7,7.5,clear skies,very bright,"heavy, medium"
+Melilotus albus,12,28,600,800,32,30,---,---,6.5,7.5,clear skies,very bright,"heavy, medium, light, wide"
+Phaseolus bracteatus,15,25,600,1000,10,-,---,---,6,8,clear skies,very bright,"medium, light"
+Teramnus uncinatus,24,30,1000,3000,-,-,---,---,5.5,6.5,clear skies,very bright,"heavy, medium, light, wide"
+Raphanus sativus var. oleiferus,12,25,800,1000,-,-,---,---,6,6.5,very bright,clear skies,"medium, light"
+Pausinystalia yohimbe,22,28,2000,4000,-,-,---,---,5.5,7,cloudy skies,very bright,"heavy, medium"
+Acacia angustissima,25,30,1000,2500,10,-,---,---,5,6.5,cloudy skies,very bright,"heavy, medium, light, wide"
+Centropodia glauca,20,30,150,200,20,18,---,---,6.5,7,clear skies,very bright,light
+Couma utilis,20,30,2000,4000,-,-,---,---,4.5,6,clear skies,cloudy skies,light
+Hyphaene compressa,20,30,300,800,-,-,---,---,6,7,clear skies,very bright,light
+Echinacea purpurea,18,24,400,800,-,-,---,---,6.5,7.5,clear skies,very bright,"medium, organic"
+Tetrachne dregei,14,20,350,650,26,25,---,---,7,7.5,clear skies,very bright,light
+Trachypogon spicatus,20,26,600,1300,15,10,---,---,5.5,6.5,clear skies,very bright,light
+Pachyrhizus ahipa,12,22,800,1100,-,-,---,---,5.5,6.5,very bright,clear skies,light
+Pachyrhizus tuberosus,25,30,1500,1900,-,-,---,---,5,5.5,clear skies,cloudy skies,light
+Mirabilis expansa,12,20,600,800,-,-,---,---,6,7,very bright,clear skies,"medium, organic"
+Uvaria scheffleri,20,28,700,1500,-,-,---,---,5,6,cloudy skies,very bright,"medium, light"
+Acokanthera schimperi,17,23,500,700,-,-,---,---,5.5,6.5,clear skies,very bright,"medium, light"
+Abies amabilis,12,18,1500,6000,42,40,---,---,5,7,clear skies,cloudy skies,"medium, organic"
+Aeschynomene evenia,20,28,600,1600,5,-,---,---,5,7,cloudy skies,very bright,"medium, light"
+Aeschynomene histrix,15,28,800,1500,-,-,---,---,5,6.5,clear skies,very bright,"medium, light"
+Aeschynomene villosa,15,27,900,1500,-,-,---,---,6,7,cloudy skies,very bright,"heavy, medium"
+Aiphanes aculeata,22,27,1500,3000,-,-,---,---,5,6.5,light shade,clear skies,"medium, organic"
+Alphitonia excelsa,18,36,560,1250,15,10,---,---,5.5,7,clear skies,very bright,"heavy, medium, light, wide, organic"
+Amelanchier pallida,14,25,800,1200,32,30,---,---,5.5,6.5,cloudy skies,clear skies,light
+Aquilegia canadensis,14,21,750,1200,30,27,---,---,5.5,8,light shade,clear skies,"medium, organic"
+Asclepias lanceolata,12,30,600,1400,22,20,---,---,5,7,cloudy skies,very bright,"medium, light, organic"
+Aster cordifolius var. cordifolius,12,24,600,1200,32,30,---,---,5.7,7.5,cloudy skies,very bright,medium
+Astragalus adsurgens,20,35,400,500,35,30,---,---,7,8.5,clear skies,very bright,"medium, light"
+Canavalia brasiliensis,26,30,900,1500,8,5,---,---,5,7,clear skies,very bright,"heavy, medium, light, wide"
+Citrus aurantium ssp. bergamia,20,28,1200,1500,-,-,---,---,5,6.5,very bright,very bright,medium
+Desmanthus glandulosus,12,25,300,800,28,25,---,---,6.5,8,cloudy skies,very bright,"medium, light"
+Desmanthus leptophyllus,22,28,800,1800,-,-,---,---,6.5,8,cloudy skies,very bright,"medium, light"
+Khaya anthotheca,18,28,600,1600,-,-,---,---,5,7,clear skies,very bright,"medium, light"
+Malva alcea,14,28,500,1400,41,40,---,---,6.5,8,clear skies,very bright,"medium, light"
+Peltandra sagittifolia,16,24,1000,1500,25,22,---,---,5,7,clear skies,very bright,"heavy, medium, light, wide, organic"
+Pinus elliottii ssp. elliottii,23,32,1000,2000,28,28,---,---,4.5,5.5,very bright,very bright,"heavy, medium, light"
+Rhodiola rosea,10,25,400,800,36,34,---,---,5.5,6.5,clear skies,very bright,"light, organic"
+Senna spectabilis,15,25,800,1000,-,-,---,---,5.5,7,clear skies,very bright,"medium, light"
+Tabebuia serratifolia,24,32,700,1700,-,-,---,---,5,7,very bright,very bright,"heavy, medium"
+Terminalia bellirica,20,33,1500,2500,-,-,---,---,5.5,6.5,very bright,very bright,"heavy, medium, light, wide"
+Vicia sativa ssp. nigra,11,23,600,800,-,-,---,---,6,7,very bright,cloudy skies,medium
+Vicia sativa ssp. sativa,14,23,700,900,30,-,---,---,6,7,very bright,cloudy skies,"heavy, medium"
+Vicia villosa sp. varia,18,24,600,1400,10,-,---,---,6,7,clear skies,very bright,"heavy, medium, light, wide"
+Vicia villosa ssp. villosa,12,22,700,900,30,-,---,---,6,7,very bright,clear skies,"medium, light"
+Zea mays ssp. mays,18,33,600,1200,-,-,---,---,5,7,very bright,very bright,"medium, organic"
+Eurycoma longifolia,20,30,2000,4000,-,-,---,---,4.5,5.5,cloudy skies,clear skies,"medium, light, organic"
+Ziziphus abyssinica,18,28,500,1800,-,-,---,---,5.5,7.5,very bright,very bright,"heavy, medium, light, wide, organic"
+Markhamia lutea,18,28,800,2000,-,-,---,---,4.5,7,clear skies,very bright,medium
+Zanthoxylum chalybeum,18,24,800,1400,-,-,---,---,5.5,7,clear skies,very bright,"medium, light"
+Eucalyptus globoidea,20,31,700,1300,34,30,---,---,5.5,6.5,clear skies,very bright,"medium, light"
+Eucalyptus piperita,20,30,1000,1500,34,34,---,---,5.5,6.5,clear skies,very bright,"medium, light"
+Eucalyptus scias,22,32,1000,1300,26,24,---,---,5.5,6.5,clear skies,very bright,medium
+Eucalyptus cypellocarpa,21,31,800,1400,34,30,---,---,6,7,clear skies,very bright,"heavy, medium"
+Eucalyptus rubida,12,24,600,1600,30,28,---,---,5.5,6.5,clear skies,very bright,"heavy, medium, light, wide"
+Thymus maroccanus,16,24,500,800,27,15,---,---,6.5,7.5,clear skies,very bright,"medium, light"
+Melia volkensii,20,28,500,800,-,-,---,---,6,7,very bright,very bright,"heavy, medium, light, wide"
+Populus ciliata,12,20,700,3000,25,20,---,---,5.5,7,very bright,very bright,"medium, light"
+Ocotea usambarensis,15,20,1200,1800,-,-,---,---,5.5,6,clear skies,very bright,medium
+Polyscias fulva,20,30,1500,2000,-,-,---,---,5,6.5,clear skies,very bright,"medium, light"
+Pycnanthus angolensis,20,28,1300,1800,-,-,---,---,5,6,clear skies,very bright,"medium, light, organic"
+Schima wallichii,12,30,1400,3000,-,-,---,---,5,6.5,clear skies,very bright,"heavy, medium, light, wide, organic"
+Shorea javanica,22,28,3000,4000,-,-,---,---,5,7.5,clear skies,very bright,medium
+Stereospermum kunthianum,22,34,450,900,-,-,---,---,5,6.5,very bright,very bright,"heavy, medium, light, wide"
+Terminalia brownii,14,24,500,1300,-,-,---,---,5.5,7,clear skies,very bright,"medium, light"
+Terminalia mantaly,20,28,500,1200,-,-,---,---,5.5,7,clear skies,very bright,"medium, light"
+Donaldsonia stenopetala,25,35,500,1500,1,1,---,---,6,8,clear skies,very bright,medium
+Frithia humilis,15,30,700,800,25,25,---,---,5,6,clear skies,very bright,light
+Ambelania acida,22,30,1500,2500,-,-,---,---,5,7,light shade,cloudy skies,"medium, organic"
+Alloteropsis semialata,14,24,600,1600,7,5,---,---,5,6.5,cloudy skies,very bright,"medium, light"
+Adesmia bicolor,10,20,600,1000,27,25,---,---,6.5,7.5,clear skies,very bright,"heavy, medium, light, wide"
+Adesmia latifolia,12,20,500,700,34,30,---,---,6,7,clear skies,very bright,"heavy, medium"
+Adesmia punctata,12,22,800,2000,25,24,---,---,6,7,clear skies,very bright,light
+Adesmia securigerifolia,10,25,600,1300,27,25,---,---,6,7,cloudy skies,very bright,medium
+Albizia basaltica,22,32,500,750,17,15,---,---,6,7,clear skies,very bright,"medium, light"
+Aeschynomene brasiliana,20,29,800,1200,-,-,---,---,6,7,cloudy skies,very bright,light
+Biserrula pelecinus,18,26,400,600,30,28,---,---,4.5,5.5,clear skies,very bright,"heavy, medium, light, wide"
+Galega orientalis,10,16,500,700,42,40,---,---,6.5,7,clear skies,very bright,light
+Centrosema acutifolium var. matogrossense,24,28,1000,2500,-,-,---,---,5,6,clear skies,very bright,"heavy, medium"
+Centrosema brasilianum,22,30,500,2000,-,-,---,---,4.5,6,cloudy skies,very bright,"medium, light"
+Centrosema rotundifolium,20,28,800,1200,5,700,---,---,5,6,clear skies,very bright,light
+Cratylia argentea,20,30,1500,3500,5,4,---,---,4.5,6,clear skies,very bright,medium
+Desmanthus bicornutus,14,28,500,1300,15,5,---,---,7,8,cloudy skies,very bright,"heavy, medium, light, wide"
+Desmodium heterocarpon sp. heterocarpon,20,28,1400,2300,20,-,---,---,5,6.5,clear skies,very bright,light
+Macroptilium gracile,20,30,900,1300,-,-,---,---,5.5,6.5,clear skies,very bright,"heavy, medium, light, wide"
+Panicum coloratum var. coloratum,18,26,600,1200,5,-,---,---,5.5,6.5,clear skies,very bright,"heavy, medium"
+Paspalum guenoarum,19,27,1400,2000,16,15,---,---,6,7,clear skies,very bright,"medium, light"
+Stylosanthes hamata (diploid),22,28,500,1500,-,-,---,---,6.5,7.5,clear skies,very bright,"heavy, medium, light, wide"
+Stylosanthes hamata (tetraploid),22,28,700,900,9,5,---,---,6,7,clear skies,very bright,"medium, light"
+Stylosanthes seabrana,20,30,700,1200,9,5,---,---,5.5,7,cloudy skies,very bright,heavy
+Trichanthera gigantea,27,33,1500,3000,-,-,---,---,5,6.5,cloudy skies,very bright,"heavy, medium, light, wide"
+Trifolium burchellianum,14,24,700,2000,10,-,---,---,5.5,6.5,cloudy skies,very bright,"medium, light"
+Trifolium decorum,10,18,1200,1800,13,12,---,---,4.5,6.5,clear skies,very bright,"heavy, medium"
+Trifolium mattirolianum,15,28,1100,1900,5,-,---,---,4.5,6.5,clear skies,very bright,"heavy, medium"
+Trifolium quartinianum,16,27,900,1800,-,-,---,---,5,7,clear skies,very bright,"heavy, medium"
+Trifolium steudneri,14,28,1000,1800,-,-,---,---,5,7,clear skies,very bright,"heavy, medium"
+Trifolium tembense,17,26,1000,1800,-,-,---,---,5,7,clear skies,very bright,"heavy, medium"
+"Urochloa mosambicensis, stolonifera type",15,24,800,900,23,22,---,---,6.5,8,cloudy skies,very bright,"medium, light"
+"Urochloa mosambicensis, mosambicensis type",17,24,400,1000,6,4,---,---,7,8,cloudy skies,very bright,"medium, light"
+"Urochloa mosambicensis, pullulans type",18,24,800,1500,4,3,---,---,6.5,7,cloudy skies,very bright,"medium, light"
+Vigna parkeri sp. acutifolia,23,27,1500,2000,-,-,---,---,4.5,5.5,cloudy skies,very bright,"medium, light"
+Zornia glabra,21,29,2000,4000,-,-,---,---,5,6,clear skies,very bright,"heavy, medium"
+Trifolium glanduliferum,10,15,400,550,32,30,---,---,5.5,7,clear skies,very bright,"heavy, medium"
+Trifolium africanum,20,30,750,1000,26,25,---,---,5.5,7,clear skies,very bright,"heavy, medium"
+Tricholaena capensis,18,30,250,400,22,20,---,---,6,8,clear skies,very bright,light
