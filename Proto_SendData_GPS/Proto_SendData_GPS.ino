@@ -103,7 +103,7 @@ void displayCoord()
 
 void SendInfo(float delta)
 {
-  float seuil = 2000.0;
+  float seuil = 10.0;
 
   if (delta > seuil) {
     modem.beginPacket();
