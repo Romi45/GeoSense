@@ -11,8 +11,7 @@ import paho.mqtt.client as mqtt
 
 
 # Inspiration from Projet on https://github.com/RobinMeis/ttn-mqtt-py
-# cf. MQTT Server Integration for TTN => https://www.thethingsindustries.com/docs/integrations/mqtt/
-
+# cf. MQTT Server Integration for TTN => https://www.thethingsindustries.com/docs/integrations/mqtt/v  
 
 class TTNClient:
 
@@ -165,7 +164,7 @@ class TTNClient:
                 for line in io.StringIO(responseText):
                     if len(line) > 2:
                         ttn_payload = json.loads(line)['result']
-                        # print(ttn_payload)
+                        return ttn_payload
 
                         if 'uplink_message' in ttn_payload:
                             self._on_ttn_payload(ttn_payload)
