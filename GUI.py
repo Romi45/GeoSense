@@ -207,20 +207,21 @@ class App(customtkinter.CTk):
         self.coordslabel.grid(row=1, column=0, padx=(20, 20), pady=(20, 0))
 
         #self.coords.grid(row=2, column=0, padx=(20, 20), pady=(20, 0))
-        self.ensoleillement = customtkinter.CTkLabel(self.frame_left, text=f"ENSOLEILLEMENT\n\n{self.VarEnsoleillement} lux", anchor="w", font=('Ubuntu', 12))
-        self.ensoleillement.grid(row=4, column=0, padx=(20, 20), pady=(20, 0))
+        self.precipitations = customtkinter.CTkLabel(self.frame_left, text=f"PRECIPITATION\n\n{self.VarEnsoleillement} %", anchor="w", font=('Ubuntu', 12))
+        self.precipitations.grid(row=4, column=0, padx=(20, 20), pady=(20, 0))
         
 
          
         self.ph = customtkinter.CTkLabel(self.frame_left, text=f"pH SOL\n\n{self.VarpH} ", anchor="w", font=('Ubuntu', 12))
         self.ph.grid(row=5, column=0, padx=(20, 20), pady=(20, 0))
-        self.humidite = customtkinter.CTkLabel(self.frame_left, text=f"HUMIDITE\n\n{self.VarHumidite}", anchor="w", font=('Ubuntu', 12))
+        self.humidite = customtkinter.CTkLabel(self.frame_left, text=f"HUMIDITE\n\n{self.VarHumidite} %", anchor="w", font=('Ubuntu', 12))
         self.humidite.grid(row=6, column=0, padx=(20, 20), pady=(20, 0))
 
     
         #self.frame_right.bind("<Button-1>", self.localisation_on_click)
         #self.frame_right.bind('<B1-Motion>', self.handle_mouse_drag)
-        #coords = self.map_widget.localisation_on_click("<B1-Motion>")
+        
+
         
 
         #def handle_mouse_move(self, event):
@@ -260,11 +261,6 @@ class App(customtkinter.CTk):
         # Update the last known mouse position
         self.last_mouse_x = event.x
         self.last_mouse_y = event.y
-
-
-
-
-
 
 
 
@@ -351,31 +347,87 @@ class ScrollableLabelButtonFrame(customtkinter.CTkScrollableFrame):
 class ToplevelWindow(customtkinter.CTkToplevel):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.geometry("400x300")
-        self.grid_rowconfigure(0, weight=1)
-        self.grid_columnconfigure(0, weight=1)
-        self.my_frame = MyFrame(master=self, width=400, height=300, corner_radius=0, fg_color="transparent")
+        self.geometry("800x500")
+        
+        #-------------configuring rows-------------------------#
+        
+
+
+
+        self.my_frame = MyFrame(master=self, width=800, height=500, corner_radius=0, fg_color="transparent")
         self.my_frame.grid(row=0, column=0, sticky="nsew") 
         #self.label.pack(padx=20, pady=20)
 
 class MyFrame(customtkinter.CTkScrollableFrame):
     def __init__(self, master, **kwargs):
         super().__init__(master, **kwargs)
-        analysis = "L’accroissement de la demande agroalimentaire a redéfinit le métier d’agriculteur."
+        titre =  "--------------------------------------------------------------------------------\n\
+        Analyse des données\n\
+        -------------------------------------------------------------------------------------------        "
+        texte = "Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page.\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page.\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page.\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page.\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page.\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page.\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page.\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page.\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page.\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page.\
+        Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page. Insérer le texte ici et mettre en page"
+        texte = self.insert_line_breaks(texte, 30) #fonction qui insert le texte en insérent des retours à la ligne chaque n mots
+
         # add widgets onto the frame...
         #for word in range(0, len(analysis), 8):
+        self.grid_rowconfigure(0, weight=1)
+        self.grid_rowconfigure(1, weight=2)
+        self.grid_columnconfigure(0, weight=2)
 
-        self.label = customtkinter.CTkLabel(self, text=analysis)
+
+        self.titre = customtkinter.CTkLabel(self, text=titre, font=('Ubuntu', 30))
+        self.titre.grid(row=0, column=0, padx=20)
+
+
+        #self.texte = customtkinter.CTkLabel(self, text=texte, font=('Ubuntu', 12))
+        #self.texte.grid(row=1, column=0, padx=20)
+
+        self.textbox = customtkinter.CTkTextbox(master=self, width=400,height=500, corner_radius=0)
+        self.textbox.grid(row=1, column=0, sticky="nsew")
+        self.textbox.insert("0.0", texte)
+
+
+    def insert_line_breaks(self,text, n):
+        words = text.split()
+        lines = []
+        current_line = ""
+
+        for i, word in enumerate(words):
+            current_line += word + " "
         
-        self.label.grid(row=0, column=0, padx=20)
-
-
+            if (i + 1) % n == 0:
+                lines.append(current_line.strip())
+                current_line = ""
+    
+        if current_line.strip():
+            lines.append(current_line.strip())
+    
+        result = "\n".join(lines)
+        return result
        
 
 
 if __name__ == "__main__":
     #window = customtkinter.CTk
-    coordinates = (25.750, 12.850)
+    coordinates = (25.72, 45.40)
     app = App(coordinates)
     print("COORDX:", app.COORDX)
     print("COORDY:", app.COORDY)
