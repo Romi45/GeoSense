@@ -224,7 +224,7 @@ class App(customtkinter.CTk):
 
     
         self.bind("<Button-1>", self.localisation_on_click)
-        #self.bind('<B1-Motion>', self.handle_mouse_drag)
+        self.bind('<B1-Motion>', self.handle_mouse_drag)
         
         
 
