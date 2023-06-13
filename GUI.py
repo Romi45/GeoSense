@@ -11,6 +11,11 @@ from PIL import Image, ImageTk
 import os
 from DBeaver_to_python import BD_to_Python
 
+
+
+
+#---------------------
+
 customtkinter.set_default_color_theme("green")
 
 class App(customtkinter.CTk):
@@ -36,8 +41,7 @@ class App(customtkinter.CTk):
         self.bind("<Command-q>", self.on_closing)
         self.bind("<Command-w>", self.on_closing)
         self.createcommand('tk::mac::Quit', self.on_closing)
-        self.last_mouse_x = 0
-        self.last_mouse_y = 0
+    
 
         self.marker_list = []
 
@@ -185,7 +189,8 @@ class App(customtkinter.CTk):
 
      
         
-
+        self.last_mouse_x = 0
+        self.last_mouse_y = 0
 
         #self.coords = customtkinter.CTkLabel(self.frame_left, text=f"COORDONNEES GPS\n\nx= {self.map_widget.get_position()[0]} y={self.map_widget.get_position()[1]} ", anchor="w", font=('Ubuntu', 12))
         
@@ -218,8 +223,9 @@ class App(customtkinter.CTk):
         self.humidite.grid(row=6, column=0, padx=(20, 20), pady=(20, 0))
 
     
-        #self.frame_right.bind("<Button-1>", self.localisation_on_click)
-        #self.frame_right.bind('<B1-Motion>', self.handle_mouse_drag)
+        self.bind("<Button-1>", self.localisation_on_click)
+        #self.bind('<B1-Motion>', self.handle_mouse_drag)
+        
         
 
         
@@ -244,7 +250,7 @@ class App(customtkinter.CTk):
         
     def handle_mouse_drag(self, event):
         # Calculate the difference in mouse position
-        print(last_mouse_x)
+        
         mouse_move_x = event.x - self.last_mouse_x
         mouse_move_y = event.y - self.last_mouse_y
 
@@ -252,10 +258,13 @@ class App(customtkinter.CTk):
         if mouse_move_x != 0 or mouse_move_y != 0:
             # Call your method to retrieve the coordinates of the map widget
             coordinates = self.map_widget.get_position()
-            print(working)
-            
+
+            self.coords1.delete(0, 20)
+            self.coords2.delete(0, 20)
             self.coords1.insert(0, f"{round(coordinates[0],4)}")   
-            self.coords2.insert(0, f"{round(coordinates[1],4)}") 
+            self.coords2.insert(0, f"{round(coordinates[1],4)}")
+
+         
   
 
         # Update the last known mouse position
@@ -303,7 +312,14 @@ class App(customtkinter.CTk):
     def start(self):
         self.mainloop()
 
-
+    def localisation_on_click(self, event):
+        coordinates = self.map_widget.get_position()
+        self.coords1.delete(0, 20)
+        self.coords2.delete(0, 20)
+        if self.coords1.get() != round(coordinates[0],4) and self.coords2.get() != round(coordinates[1],4):
+            self.coords1.insert(0, f"{round(coordinates[0],4)}")   
+            self.coords2.insert(0, f"{round(coordinates[1],4)}")
+       
 
 class ScrollableLabelButtonFrame(customtkinter.CTkScrollableFrame):
     def __init__(self, master, command=None, **kwargs):
@@ -423,7 +439,6 @@ class MyFrame(customtkinter.CTkScrollableFrame):
         result = "\n".join(lines)
         return result
        
-
 
 if __name__ == "__main__":
     #window = customtkinter.CTk
